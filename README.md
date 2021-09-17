@@ -13,7 +13,7 @@ Get the [auto-installer](https://github.com/g7eternal/jackbox-forsen-pack-6/rele
 
 ### Manual installation
 1. Download and unzip the latest version of the pack: 
-    + [GitHub](https://github.com/g7eternal/jackbox-forsen-pack-6/releases/download/0.1.0/jackbox-forsen-pack-6.zip) | [Mirror](https://g7eternal.ru/misc/jackbox-forsen-pack-6.exe)
+    + [GitHub](https://github.com/g7eternal/jackbox-forsen-pack-6/releases/download/0.1.0/jackbox-forsen-pack-6.zip) | [Mirror](https://g7eternal.ru/misc/jackbox-forsen-pack-6.zip)
 
 2. In your Steam library select the **Jackbox Party Pack 6** game, right-click -> _Manage_ -> _Browse local files_
 
