@@ -1,6 +1,8 @@
 # Jackbox Forsen Pack 6
 This pack extends the base game called [Jackbox Party Pack 6](https://store.steampowered.com/app/1005300/The_Jackbox_Party_Pack_6/), offering additional content for the party games included in this pack.
+
 The pack features a lot of content related to [Sebastian "RolePlayer" Fors (Forsen)](https://twitch.tv/forsen), as well as a lot of other popular memes.
+
 In order to install the pack you must own the original game. Installer supports only Steam edition of the game.
 
 > ⚠ This pack contains strong language :)
@@ -17,7 +19,7 @@ Get the [auto-installer](https://github.com/g7eternal/jackbox-forsen-pack-6/rele
 
 3. Copy the extracted files and folders from the downloaded and extracted zip-archive into the local game folder.
     + Note: if you want to preserve the original game content and install the new content alongside it, you will have to manually edit the matching files. Auto-installer makes it a lot easier ☺
-    + 
+
 4. All done! Start up the game to confirm: installation has been successful if your game intro has changed.
 
 ## How to remove pack
