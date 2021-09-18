@@ -1,0 +1,499 @@
+{
+	"episodeid": 1399,
+	"content": [
+		{
+			"x": false,
+			"answers": [
+				{
+					"answer": "Lust",
+					"alt": [
+						"lechery",
+						"luxuria",
+						"desire"
+					]
+				},
+				{
+					"answer": "Gluttony",
+					"alt": [
+						"gula"
+					]
+				},
+				{
+					"answer": "Greed",
+					"alt": [
+						"avaritia",
+						"cupidity",
+						"covetousness"
+					]
+				},
+				{
+					"answer": "Sloth",
+					"alt": [
+						"leisure",
+						"laziness",
+						"lazyness",
+						"tristitia",
+						"acedia",
+						"carelessness"
+					]
+				},
+				{
+					"answer": "Wrath",
+					"alt": [
+						"ira",
+						"anger",
+						"rage",
+						"hatred",
+						"vengeance"
+					]
+				},
+				{
+					"answer": "Envy",
+					"alt": [
+						"invidia",
+						"jealousy"
+					]
+				},
+				{
+					"answer": "Pride",
+					"alt": [
+						"superbia",
+						"futility",
+						"selfishness"
+					]
+				}
+			],
+			"id": 99000,
+			"text": "One of the seven deadly sins<br>(which are also Binding of Isaac mini-bosses)",
+			"us": false
+		},
+		{
+			"x": false,
+			"answers": [
+				{
+					"answer": "1",
+					"alt": [
+						"one",
+						"original",
+						"first"
+					]
+				},
+				{
+					"answer": "2",
+					"alt": [
+						"two",
+						"second"
+					]
+				},
+				{
+					"answer": "3",
+					"alt": [
+						"third",
+						"three",
+						"tree"
+					]
+				},
+				{
+					"answer": "4",
+					"alt": [
+						"fourth",
+						"forth",
+						"four",
+						"for"
+					]
+				},
+				{
+					"answer": "5",
+					"alt": [
+						"fifth",
+						"five"
+					]
+				},
+				{
+					"answer": "6",
+					"alt": [
+						"six",
+						"sixth"
+					]
+				},
+				{
+					"answer": "7",
+					"alt": [
+						"seventh",
+						"seven",
+						"sven"
+					]
+				},
+				{
+					"answer": "8",
+					"alt": [
+						"eight",
+						"eighth",
+						"eigth"
+					]
+				}
+			],
+			"id": 99001,
+			"text": "Jackbox Party Packs version<br>(single number)",
+			"us": false
+		},
+		{
+			"x": false,
+			"answers": [
+				{
+					"answer": "Kappa",
+					"alt": []
+				},
+				{
+					"answer": "KappaClaus",
+					"alt": []
+				},
+				{
+					"answer": "KappaHD",
+					"alt": []
+				},
+				{
+					"answer": "KappaPride",
+					"alt": []
+				},
+				{
+					"answer": "KappaRoss",
+					"alt": []
+				},
+				{
+					"answer": "KappaVotes",
+					"alt": []
+				},
+				{
+					"answer": "KappaWealth",
+					"alt": []
+				},
+				{
+					"answer": "Keepo",
+					"alt": []
+				},
+				{
+					"answer": "MiniK",
+					"alt": []
+				}
+			],
+			"id": 99002,
+			"text": "Kappa emote variations",
+			"us": false
+		},
+		{
+			"x": false,
+			"answers": [
+				{
+					"answer": "CZ75-Auto",
+					"alt": [
+						"cz75",
+						"cz-75",
+						"cz 75",
+						"cz75 auto",
+						"cz-75 auto",
+						"cz"
+					]
+				},
+				{
+					"answer": "Desert Eagle",
+					"alt": [
+						"deagle",
+						"eagle"
+					]
+				},
+				{
+					"answer": "Dual Berettas",
+					"alt": [
+						"berettas",
+						"dualies",
+						"duals",
+						"dual"
+					]
+				},
+				{
+					"answer": "Five-SeveN",
+					"alt": [
+						"5-7",
+						"5 7.five 7",
+						"5 seven",
+						"five seven",
+						"fiveseven",
+						"five-seven"
+					]
+				},
+				{
+					"answer": "Glock-18",
+					"alt": [
+						"glock",
+						"glock 18",
+						"glawk",
+						"glok",
+						"gloc"
+					]
+				},
+				{
+					"answer": "P2000",
+					"alt": [
+						"p2k",
+						"p 2000",
+						"p-2000",
+						"p 2k"
+					]
+				},
+				{
+					"answer": "P250",
+					"alt": [
+						"p 250",
+						"p-250"
+					]
+				},
+				{
+					"answer": "R8 Revolver",
+					"alt": [
+						"r8",
+						"revolver",
+						"cowboy",
+						"r8k"
+					]
+				},
+				{
+					"answer": "Tec-9",
+					"alt": [
+						"tec 9",
+						"tec9",
+						"tec nine"
+					]
+				},
+				{
+					"answer": "USP-S",
+					"alt": [
+						"usp",
+						"silencer",
+						"silenced",
+						"silent",
+						"usp s"
+					]
+				}
+			],
+			"id": 99003,
+			"text": "CS:GO pistols",
+			"us": false
+		},
+		{
+			"x": false,
+			"answers": [
+				{
+					"answer": "Classic",
+					"alt": [
+						"lulw",
+						"default"
+					]
+				},
+				{
+					"answer": "Shorty",
+					"alt": [
+						"shotgun",
+						"sawed off",
+						"sawed-off",
+						"sawedoff",
+						"shotty"
+					]
+				},
+				{
+					"answer": "Frenzy",
+					"alt": [
+						"cz",
+						"auto"
+					]
+				},
+				{
+					"answer": "Ghost",
+					"alt": [
+						"usp",
+						"silent",
+						"silencer",
+						"usp-s"
+					]
+				},
+				{
+					"answer": "Sheriff",
+					"alt": [
+						"deagle",
+						"revolver"
+					]
+				}
+			],
+			"id": 99004,
+			"text": "Valorant pistols",
+			"us": false
+		},
+		{
+			"x": false,
+			"answers": [
+				{
+					"answer": "Mind Meld",
+					"alt": [
+						"mindmeld",
+						"this one",
+						"this"
+					]
+				},
+				{
+					"answer": "Mirror",
+					"alt": [
+						"mirrors"
+					]
+				},
+				{
+					"answer": "Tattoo",
+					"alt": [
+						"tattoos",
+						"tatoo",
+						"tatoos"
+					]
+				},
+				{
+					"answer": "Dictation",
+					"alt": [
+						"typing",
+						"typewriter",
+						"writing"
+					]
+				},
+				{
+					"answer": "Quiplash",
+					"alt": [
+						"minigame",
+						"funny"
+					]
+				},
+				{
+					"answer": "Skewers",
+					"alt": [
+						"skewer",
+						"swords",
+						"sword"
+					]
+				},
+				{
+					"answer": "Donations",
+					"alt": [
+						"donos",
+						"donate"
+					]
+				},
+				{
+					"answer": "Chalices",
+					"alt": [
+						"chalice",
+						"drinking",
+						"drinks"
+					]
+				},
+				{
+					"answer": "Math",
+					"alt": [
+						"calc",
+						"mathematics",
+						"algebra"
+					]
+				},
+				{
+					"answer": "Loser Wheel",
+					"alt": [
+						"roulette",
+						"wheel"
+					]
+				},
+				{
+					"answer": "Greed",
+					"alt": [
+						"money"
+					]
+				},
+				{
+					"answer": "Gift",
+					"alt": [
+						"gifting",
+						"gifts"
+					]
+				},
+				{
+					"answer": "Rules",
+					"alt": [
+						"tasks"
+					]
+				},
+				{
+					"answer": "Password",
+					"alt": [
+						"guess word",
+						"word"
+					]
+				},
+				{
+					"answer": "Scales",
+					"alt": []
+				},
+				{
+					"answer": "Scratch Off",
+					"alt": [
+						"scratchoff",
+						"scratch",
+						"lottery"
+					]
+				},
+				{
+					"answer": "Lock and Key",
+					"alt": [
+						"last one",
+						"last",
+						"final",
+						"locks",
+						"keys",
+						"lock",
+						"key"
+					]
+				},
+				{
+					"answer": "High Rollers",
+					"alt": [
+						"dice",
+						"dices",
+						"die",
+						"gamba",
+						"roll"
+					]
+				},
+				{
+					"answer": "Pachinko",
+					"alt": [
+						"dropdown",
+						"drop",
+						"sectors"
+					]
+				},
+				{
+					"answer": "Escape Room",
+					"alt": [
+						"pause",
+						"wait"
+					]
+				},
+				{
+					"answer": "Telephone",
+					"alt": [
+						"call",
+						"phone",
+						"ring",
+						"phone number"
+					]
+				}
+			],
+			"id": 99005,
+			"text": "Minigames in <i>Trivia Murder Party 2</i>",
+			"us": false
+		}
+	]
+}
