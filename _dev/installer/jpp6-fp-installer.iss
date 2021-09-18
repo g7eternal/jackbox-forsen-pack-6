@@ -68,7 +68,7 @@ const Steam32RegPath = 'SOFTWARE\Valve\Steam';
       Steam64RegPath = 'SOFTWARE\Wow6432Node\Valve\Steam';
       SteamLibPathDiv= '"'#9#9'"';
       SteamAppsFolder= 'SteamApps';
-      JB_BasePath    = 'SteamApps\commo0n\The Jackbox Party Pack 6';
+      JB_BasePath    = 'SteamApps\common\The Jackbox Party Pack 6';
 
 var SteamPath: string;
     SteamLibraryList: TArrayOfString;
@@ -84,6 +84,11 @@ var i: Integer;
     subpos: Integer;
     tryThisPath: String;
 begin
+  if Length(JBPath) > 0 then begin // if path was found earlier, return it
+    Log('Game folder already found! Path: '+JBPath);
+    Result := JBPath;
+    exit;
+  end;
   JBPath := '';
   if //find Steam install path from registry
     not(RegQueryStringValue(HKEY_LOCAL_MACHINE, Steam32RegPath, 'InstallPath', SteamPath))
@@ -133,8 +138,6 @@ begin
 end;
 
 function NextButtonClick(CurPageID: Integer): Boolean;
-var fpath: String;
-    bkpfolder: String;
 begin
   Case CurPageId of
     wpWelcome: begin
@@ -153,7 +156,7 @@ begin
               'The install wizard could not locate the folder with the base game.'#13#10#13#10
               'In order to enjoy the custom content you must own the original Jackbox Party Pack 6 game!'#13#10
               'Please purchase the game from the Steam store at https://steampowered.com',
-              mbCritical, MB_OK);
+              mbCriticalError, MB_OK);
               ExitProcess(1);
               Result := false;
             end;
@@ -172,8 +175,6 @@ begin
 end;
 
 procedure CurStepChanged(CurStep: TSetupStep);
-var fpath: String;
-    bkpfolder: String;
 begin
   Case CurStep of
     ssInstall: begin
