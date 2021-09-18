@@ -1,5 +1,5 @@
 #define MyAppName "Jackbox Forsen Pack 6"
-#define MyAppVersion "0.0.2"
+#define MyAppVersion "0.0.3"
 #define MyAppPublisher "@G7_Eternal"
 #define MyAppURL "https://github.com/g7eternal/jackbox-forsen-pack-6"
 #define MyAppExeName ""
@@ -58,6 +58,7 @@ Name: tmp2_exclusive\finals; Description: "Remove all original Final Round quest
 Source: "D:\Share\nodes\jackbox-forsen-pack-6\videos\*"; DestDir: "{app}\videos"; Components: core; Flags: ignoreversion recursesubdirs createallsubdirs
 ; trivia murder party 2 content:
 ; - base/misc
+Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\videos\*"; DestDir: "{app}\games\TriviaDeath2\videos"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs
 Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\content\TDSequel.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs
 ; - questions
 ;Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\content\TDQuestions\*"; DestDir: "{app}\games\TriviaDeath2\content\TDQuestions"; Components: "tmp2\questions"; Flags: ignoreversion recursesubdirs createallsubdirs
