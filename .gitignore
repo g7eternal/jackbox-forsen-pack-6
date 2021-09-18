@@ -4,3 +4,4 @@ logs/
 _dev/src/
 _dev/installer/target/
 _dev/extensive/
+_dev/autobuilder
