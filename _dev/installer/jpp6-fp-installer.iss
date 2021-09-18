@@ -59,6 +59,8 @@ Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\TriviaDeath2.sw
 Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\TMP2Host.bank"; DestDir: "{app}\games\TriviaDeath2"; Components: "tmp2\dictation"; Flags: ignoreversion recursesubdirs createallsubdirs
 Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\content\TDDictation.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\dictation"; Flags: ignoreversion recursesubdirs createallsubdirs
 Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\content\TDMirror.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\mirror"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\content\TDSequel.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\content\TDMindMeld.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\mindmeld"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
