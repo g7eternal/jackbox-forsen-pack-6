@@ -18,7 +18,7 @@ Get the [auto-installer](https://github.com/g7eternal/jackbox-forsen-pack-6/rele
 2. In your Steam library select the **Jackbox Party Pack 6** game, right-click -> _Manage_ -> _Browse local files_
 ![find-files](https://user-images.githubusercontent.com/40625769/133881777-34a63150-6665-462b-9d98-76fd787d23a8.gif)
 
-3. Copy the extracted files and folders from the downloaded and extracted zip-archive into the local game folder.
+3. Copy the extracted files and folders from the zip-archive into the local game folder.
 ![copy-files](https://user-images.githubusercontent.com/40625769/133881779-53be957b-1b17-45d2-ac9e-b901d9e98469.gif)
     + Note: if you want to preserve the original game content and install the new content alongside it, you will have to manually edit the matching files. Auto-installer makes it a lot easier ☺
 
