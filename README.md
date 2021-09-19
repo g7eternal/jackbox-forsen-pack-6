@@ -7,6 +7,17 @@ In order to install the pack you must own the original game. Installer supports 
 
 > ⚠ This pack contains strong language :)
 
+## About the pack
+This pack contains modifications for the following games in Jackbox Party Pack 6:
++ Trivia Murder Party 2:
+    + custom questions
+    + custom final round questions
+    + custom minigame content: Dictation, Mirror, Mind Meld
+    + balance improvements: final round (darkness moves a bit quicker); Math minigame (harder prompts)
+    + small bug fixes for the original game's components
+
+Additionally, some UI components have been restyled. But that's just a bonus.
+
 ## How to install
 ### Automatic installation
 Get the [auto-installer](https://github.com/g7eternal/jackbox-forsen-pack-6/releases/download/0.0.3/jackbox-forsen-pack-6.exe) - it will take care of finding your game and importing all the content! The whole process is just a few clicks in total - and you can customize the list of components. Give it a try!
@@ -36,7 +47,7 @@ Get the [auto-installer](https://github.com/g7eternal/jackbox-forsen-pack-6/rele
 If you want to contribute to development, please read the following.
 
 - If you have a generic suggestion related to Trivia Murder Party 2 game, please submit your ideas through [this form](https://docs.google.com/forms/d/e/1FAIpQLSf5cuUIGg3B3Zy3oScc2xhHXUreeJTzrasTCXgLtLXc8DPWNw/viewform)
-- If you are a tech savvy person and actually know what you're doing, feel free to fork the repo and do your magic! Pull requestes will never go unnoticed.
+- If you are a tech savvy person and actually know what you're doing, feel free to fork the repo and do your magic! Pull requests will never go unnoticed.
 - If you have any other idea in mind, just contact me directly:
     - dm me on discord (g7eternal#8037), [twitch](https://twitch.tv/g7eternal) or [twitter](https://twitter.com/g7_eternal)
 
