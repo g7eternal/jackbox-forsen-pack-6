@@ -56,7 +56,7 @@ Name: tmp2_exclusive\finals; Description: "Remove all original Final Round quest
 [Files]
 ; core: main menu, intros
 Source: "D:\Share\nodes\jackbox-forsen-pack-6\videos\*"; DestDir: "{app}\videos"; Components: core; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "D:\Share\nodes\jackbox-forsen-pack-6\jbg.config.jet"; DestDir: "{app}"; Components: core; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "D:\Share\nodes\jackbox-forsen-pack-6\config.jet"; DestDir: "{app}"; Components: core; Flags: ignoreversion recursesubdirs createallsubdirs
 Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\PartyPack\*"; DestDir: "{app}\games\PartyPack"; Components: core; Flags: ignoreversion recursesubdirs createallsubdirs
 ; trivia murder party 2 content:
 ; - base/misc
