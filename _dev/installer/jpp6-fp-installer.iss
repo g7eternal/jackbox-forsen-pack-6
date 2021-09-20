@@ -1,5 +1,5 @@
 #define MyAppName "Jackbox Forsen Pack 6"
-#define MyAppVersion "0.0.3"
+#define MyAppVersion "0.0.4"
 #define MyAppPublisher "@G7_Eternal"
 #define MyAppURL "https://github.com/g7eternal/jackbox-forsen-pack-6"
 #define MyAppExeName ""
@@ -32,26 +32,25 @@ WizardSmallImageFile=D:\Share\nodes\jackbox-forsen-pack-6\_dev\installer\logo.bm
 
 [Types]
 Name: "full"; Description: "Install everything!"
-Name: "custom"; Description: "Choose what to install"; Flags: iscustom
+Name: "trivia"; Description: "Install custom questions only"
+Name: "custom"; Description: "Custom: choose what to install"; Flags: iscustom
 
 [Components]
 Name: "core"; Description: "JFP6 Core files"; Types: full custom; Flags: fixed
 Name: "tmp2"; Description: "Trivia Murder Party 2"; Types: full custom;
+Name: "tmp2\core"; Description: "TMP2: Custom minigames"; Types: full custom;
 Name: "tmp2\questions"; Description: "TMP2: Custom questions pack"; Types: full custom
 Name: "tmp2\finals"; Description: "TMP2: Custom final round questions pack"; Types: full custom
 ;Name: "tmp2\secrets"; Description: "TMP2: Custom secret round questions pack (the questions are very secret)"; Types: full custom
-Name: "tmp2\mirror"; Description: "TMP2: Custom Mirror minigame words"; Types: full custom
-Name: "tmp2\dictation"; Description: "TMP2: Custom Dictation minigame texts + the minigames get a bit harder"; Types: full custom
-Name: "tmp2\mindmeld"; Description: "TMP2: Custom Mind Meld minigame prompts"; Types: full custom
 
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"
 ;Name: "russian"; MessagesFile: "compiler:Languages\Russian.isl"
 
 [Tasks]
-Name: tmp2_exclusive; Description: "Remove original Party Pack content (new content will be used exclusively; if unchecked - new questions will be mixed with old)"; GroupDescription: "Trivia Murder Party 2"; Components: tmp2
-Name: tmp2_exclusive\questions; Description: "Remove all original Game Round questions"; GroupDescription: "Trivia Murder Party 2"; Components: tmp2
-Name: tmp2_exclusive\finals; Description: "Remove all original Final Round questions"; GroupDescription: "Trivia Murder Party 2"; Components: tmp2
+Name: tmp2_exclusive; Description: "Remove original Party Pack questions (new content will be used exclusively; if unchecked - new questions will be mixed with old)"; GroupDescription: "Trivia Murder Party 2"; Components: tmp2\questions or tmp2\finals
+Name: tmp2_exclusive\questions; Description: "Remove all original Game Round questions"; GroupDescription: "Trivia Murder Party 2"; Components: tmp2\questions
+Name: tmp2_exclusive\finals; Description: "Remove all original Final Round questions"; GroupDescription: "Trivia Murder Party 2"; Components: tmp2\finals
 
 [Files]
 ; core: main menu, intros
@@ -60,24 +59,25 @@ Source: "D:\Share\nodes\jackbox-forsen-pack-6\config.jet"; DestDir: "{app}"; Com
 Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\PartyPack\*"; DestDir: "{app}\games\PartyPack"; Components: core; Flags: ignoreversion recursesubdirs createallsubdirs
 ; trivia murder party 2 content:
 ; - base/misc
-Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\jbg.config.jet"; DestDir: "{app}\games\TriviaDeath2"; Components: core; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\videos\*"; DestDir: "{app}\games\TriviaDeath2\videos"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\jbg.config.jet"; DestDir: "{app}\games\TriviaDeath2"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\Credits.html"; DestDir: "{app}\games\TriviaDeath2"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\Localization.json"; DestDir: "{app}\games\TriviaDeath2"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs
 Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\content\TDSequel.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\videos\*"; DestDir: "{app}\games\TriviaDeath2\videos"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs
+; - minigame content
+Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\TriviaDeath2.swf"; DestDir: "{app}\games\TriviaDeath2"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\TMP2Host.bank"; DestDir: "{app}\games\TriviaDeath2"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\content\TDDictation.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\content\TDMirror.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\content\TDMindMeld.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\content\TDMindMeld\*"; DestDir: "{app}\games\TriviaDeath2\content\TDMindMeld"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\content\TDRules\*"; DestDir: "{app}\games\TriviaDeath2\content\TDRules"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs
 ; - questions
 Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\content\TDQuestion\*"; DestDir: "{app}\games\TriviaDeath2\content\TDQuestions"; Components: "tmp2\questions"; Flags: ignoreversion recursesubdirs createallsubdirs
 Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\content\TDQuestion.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\questions"; Tasks: tmp2_exclusive\questions; Flags: ignoreversion recursesubdirs createallsubdirs
 Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\content\TDFinalRound\*"; DestDir: "{app}\games\TriviaDeath2\content\TDFinalRound"; Components: "tmp2\finals"; Flags: ignoreversion recursesubdirs createallsubdirs
 Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\content\TDFinalRound.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\finals"; Tasks: tmp2_exclusive\finals; Flags: ignoreversion recursesubdirs createallsubdirs
 ;Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\content\TDQuestion*.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\secrets"; Flags: ignoreversion recursesubdirs createallsubdirs
-; - dictation
-Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\TriviaDeath2.swf"; DestDir: "{app}\games\TriviaDeath2"; Components: "tmp2\dictation"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\TMP2Host.bank"; DestDir: "{app}\games\TriviaDeath2"; Components: "tmp2\dictation"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\content\TDDictation.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\dictation"; Flags: ignoreversion recursesubdirs createallsubdirs
-; - mirror
-Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\content\TDMirror.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\mirror"; Flags: ignoreversion recursesubdirs createallsubdirs
-; - mind meld
-Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\content\TDMindMeld.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\mindmeld"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\content\TDMindMeld\*"; DestDir: "{app}\games\TriviaDeath2\content\TDMindMeld"; Components: "tmp2\mindmeld"; Flags: ignoreversion recursesubdirs createallsubdirs
 ; - fallback: merged questions and finals
 Source: "D:\Share\nodes\jackbox-forsen-pack-6\_dev\extensive\TDQuestion.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\questions"; Tasks: not tmp2_exclusive\questions; Flags: ignoreversion recursesubdirs createallsubdirs
 Source: "D:\Share\nodes\jackbox-forsen-pack-6\_dev\extensive\TDFinalRound.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\finals"; Tasks: not tmp2_exclusive\finals; Flags: ignoreversion recursesubdirs createallsubdirs
