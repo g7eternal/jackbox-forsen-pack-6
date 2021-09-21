@@ -1,54 +1,52 @@
-Algeria 
-Angola 
-Benin 
-Botswana 
-Burkina Faso 
-Burundi 
+Algeria
+Angola
+Benin
+Botswana
+Burkina Faso
+Burundi
 Cameroon
-Cape Verde 
-Central African Republic 
+Cape Verde
+Central African Republic
 Chad
-Comoros 
-Republic of the Congo 
+Comoros
+Republic of the Congo
 Democratic Republic of the Congo
 Ivory Coast
-Djibouti 
-Equatorial Guinea 
+Djibouti
+Equatorial Guinea
 Egypt
-Eritrea 
+Eritrea
 Ethiopia
-Gabon 
-The Gambia 
-Ghana 
-Guinea 
-Guinea-Bissau 
-Kenya 
-Lesotho 
-Liberia 
-Libya 
-Madagascar 
-Malawi 
-Mali 
-Mauritania 
-Mauritius 
+Gabon
+The Gambia
+Ghana
+Guinea
+Guinea-Bissau
+Kenya
+Lesotho
+Liberia
+Libya
+Madagascar
+Malawi
+Mali
+Mauritania
+Mauritius
 Morocco
-Mozambique 
-Namibia 
-Niger 
-Nigeria 
-Rwanda 
-Senegal 
-Seychelles 
-Sierra Leone 
-Somalia 
-South Africa 
-South Sudan 
-Sudan 
+Mozambique
+Namibia
+Rwanda
+Senegal
+Seychelles
+Sierra Leone
+Somalia
+South Africa
+South Sudan
+Sudan
 Eswatini
-Tanzania 
-Togo 
-Tunisia 
-Uganda 
-Western Sahara 
-Zambia 
+Tanzania
+Togo
+Tunisia
+Uganda
+Western Sahara
+Zambia
 Zimbabwe 

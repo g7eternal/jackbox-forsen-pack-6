@@ -1,43 +1,43 @@
-Afghanistan 
-Bahrain 
+Afghanistan
+Bahrain
 Bangladesh
-Bhutan 
-Brunei 
+Bhutan
+Brunei
 Cambodia
-China 
-India 
-Indonesia 
-Iran 
-Iraq 
-Israel 
-Japan 
+China
+India
+Indonesia
+Iran
+Iraq
+Israel
+Japan
 Jordan
-Kazakhstan 
-Kuwait 
-Kyrgyzstan 
-Laos 
+Kazakhstan
+Kuwait
+Kyrgyzstan
+Laos
 Lebanon
-Malaysia 
-Maldives 
-Mongolia 
+Malaysia
+Maldives
+Mongolia
 Myanmar
-Nepal 
-North Korea 
-Oman 
-Pakistan 
-Palestine 
-Philippines 
-Qatar 
-Saudi Arabia 
-Singapore 
-South Korea 
-Sri Lanka 
-Syria 
-Tajikistan 
+Nepal
+North Korea
+Oman
+Pakistan
+Palestine
+Philippines
+Qatar
+Saudi Arabia
+Singapore
+South Korea
+Sri Lanka
+Syria
+Tajikistan
 Thailand
-Turkmenistan 
-Taiwan 
+Turkmenistan
+Taiwan
 United Arab Emirates
-Uzbekistan 
-Vietnam 
+Uzbekistan
+Vietnam
 Yemen
