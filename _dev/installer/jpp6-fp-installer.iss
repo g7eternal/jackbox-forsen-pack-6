@@ -100,9 +100,6 @@ var SteamPath: string;
     SteamLibraryList: TArrayOfString;
     JBPath: string;
 
-procedure ExitProcess(uExitCode: Integer); // closes self (installer) when called
-  external 'ExitProcess@kernel32.dll stdcall';
-
 function GetGamePath(ObsoleteParam: string): string; // looks for the Jackbox folder
 var i: Integer;
     j: Integer;
@@ -168,25 +165,12 @@ begin
   Case CurPageId of
     wpWelcome: begin
       if Length(GetGamePath('')) < 1 // try to find the game in steamlibrary
-        then begin
-          if (MsgBox('We couldn''t find "The Jackbox Party Pack 6" game on your PC!'#13#10
+        then Result := (MsgBox('We couldn''t find "The Jackbox Party Pack 6" game on your PC!'#13#10
             'You need to install Steam, then purchase and install the base game in order to enjoy this pack!'#13#10#13#10
             'You can ignore this message and try to find the game folder manually.'#13#10
             'Do you want to continue installation?',
             mbError, MB_YESNO) = IDYES)
-            then begin // user will find folder manually
-              Result := true; 
-            end else begin // user will buy the game Copesen
-              WizardForm.Hide();
-              MsgBox(
-              'The install wizard could not locate the folder with the base game.'#13#10#13#10
-              'In order to enjoy the custom content you must own the original Jackbox Party Pack 6 game!'#13#10
-              'Please purchase the game from the Steam store at https://steampowered.com',
-              mbCriticalError, MB_OK);
-              ExitProcess(1);
-              Result := false;
-            end;
-        end else Result := True; // game has been found automatically
+        else Result := True; // game has been found automatically
     end;
     wpSelectDir: begin // for user selected install path: detect if game exists in folder
       if not(FileExists(AddBackSlash(ExpandConstant('{app}'))+'The Jackbox Party Pack 6.exe'))
@@ -212,7 +196,7 @@ begin
     ssPostInstall: begin // shows info message
       MsgBox('Jackbox Forsen Pack 6 has been installed!'#13#10#13#10
         'In order to remove it, please verify the game files in Steam. (I''m too lazy to make a proper uninstaller LULE)'#13#10#13#10
-        'Anyways... Thank you, '+GetUserNameString()+', for using our hypermodern install system!'#13#10'Hope you have some fun with the pack!',
+        'Anyways... Thank you for using our hypermodern install system!'#13#10'Hope you have some fun with the pack!',
         mbInformation, MB_OK);
       end;
   end;
