@@ -1,37 +1,34 @@
 #define MyAppName "Jackbox Forsen Pack 6"
-#define MyAppVersion "0.0.5"
+;#define MyAppVersion "latest"
 #define MyAppPublisher "@G7_Eternal"
 #define MyAppURL "https://github.com/g7eternal/jackbox-forsen-pack-6"
+#define MyAppSourceURL "https://github.com/g7eternal/jackbox-forsen-pack-6/archive/refs/heads/main.zip"
 #define MyAppExeName ""
 ; Advice: repack the installer every time you bump the version! (use a custom build script)
 
 [Setup]
 AppId={{3DFF9343-7C02-4E19-9C5D-06366FDA9B4A}
 AppName={#MyAppName}
-AppVersion={#MyAppVersion}
-;AppVerName={#MyAppName} {#MyAppVersion}
+;AppVersion={#MyAppVersion}
+AppVerName={#MyAppName} (latest version)
 AppPublisher={#MyAppPublisher}
 AppPublisherURL={#MyAppURL}
 AppSupportURL={#MyAppURL}
-AppUpdatesURL={#MyAppURL}
+AppUpdatesURL={#MyAppSourceURL}
 CreateAppDir=yes
 DefaultDirName={code:GetGamePath|}
 DirExistsWarning=no
 Uninstallable=no
-; -----------------------------
-; Edit the line below in case you would want to recompile the installer:
-SourceDir=D:\Share\nodes\jackbox-forsen-pack-6
-; -----------------------------
 PrivilegesRequired=lowest
-OutputDir=_dev\installer\target
+OutputDir=target
 OutputBaseFilename=jackbox-forsen-pack-6
-SetupIconFile=_dev\installer\favicon.ico
+SetupIconFile=favicon.ico
 Compression=lzma
 SolidCompression=yes
 DisableWelcomePage=no
 WizardStyle=modern
-WizardImageFile=_dev\installer\sidebar.bmp
-WizardSmallImageFile=_dev\installer\logo.bmp
+WizardImageFile=sidebar.bmp
+WizardSmallImageFile=logo.bmp
 
 [Types]
 Name: "full"; Description: "Install everything!"
@@ -57,35 +54,34 @@ Name: tmp2_exclusive\finals; Description: "Remove all original Final Round quest
 
 [Files]
 ; core: main menu, intros
-Source: "videos\*"; DestDir: "{app}\videos"; Components: core; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "config.jet"; DestDir: "{app}"; Components: core; Flags: ignoreversion
-Source: "games\PartyPack\*"; DestDir: "{app}\games\PartyPack"; Components: core; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "{tmp}\unzipped\videos\*"; DestDir: "{app}\videos"; Components: core; Flags: ignoreversion recursesubdirs createallsubdirs external
+Source: "{tmp}\unzipped\config.jet"; DestDir: "{app}"; Components: core; Flags: ignoreversion external
+Source: "{tmp}\unzipped\games\PartyPack\*"; DestDir: "{app}\games\PartyPack"; Components: core; Flags: ignoreversion recursesubdirs createallsubdirs external
 ; trivia murder party 2 content:
 ; - base/misc
-Source: "games\TriviaDeath2\jbg.config.jet"; DestDir: "{app}\games\TriviaDeath2"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "games\TriviaDeath2\Credits.html"; DestDir: "{app}\games\TriviaDeath2"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "games\TriviaDeath2\Localization.json"; DestDir: "{app}\games\TriviaDeath2"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "games\TriviaDeath2\content\TDSequel.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "games\TriviaDeath2\videos\*"; DestDir: "{app}\games\TriviaDeath2\videos"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "{tmp}\unzipped\games\TriviaDeath2\jbg.config.jet"; DestDir: "{app}\games\TriviaDeath2"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs external
+Source: "{tmp}\unzipped\games\TriviaDeath2\Credits.html"; DestDir: "{app}\games\TriviaDeath2"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs external
+Source: "{tmp}\unzipped\games\TriviaDeath2\Localization.json"; DestDir: "{app}\games\TriviaDeath2"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs external
+Source: "{tmp}\unzipped\games\TriviaDeath2\content\TDSequel.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs external
+Source: "{tmp}\unzipped\games\TriviaDeath2\videos\*"; DestDir: "{app}\games\TriviaDeath2\videos"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs external
 ; - minigame content
-Source: "games\TriviaDeath2\TriviaDeath2.swf"; DestDir: "{app}\games\TriviaDeath2"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "games\TriviaDeath2\TMP2Host.bank"; DestDir: "{app}\games\TriviaDeath2"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "games\TriviaDeath2\TalkshowExport\*"; DestDir: "{app}\games\TriviaDeath2\TalkshowExport"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "games\TriviaDeath2\content\TDDictation.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "games\TriviaDeath2\content\TDMirror.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "games\TriviaDeath2\content\TDMindMeld.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "games\TriviaDeath2\content\TDMindMeld\*"; DestDir: "{app}\games\TriviaDeath2\content\TDMindMeld"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "games\TriviaDeath2\content\TDRules\*"; DestDir: "{app}\games\TriviaDeath2\content\TDRules"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "{tmp}\unzipped\games\TriviaDeath2\TriviaDeath2.swf"; DestDir: "{app}\games\TriviaDeath2"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs external
+Source: "{tmp}\unzipped\games\TriviaDeath2\TMP2Host.bank"; DestDir: "{app}\games\TriviaDeath2"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs external
+Source: "{tmp}\unzipped\games\TriviaDeath2\TalkshowExport\*"; DestDir: "{app}\games\TriviaDeath2\TalkshowExport"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs external
+Source: "{tmp}\unzipped\games\TriviaDeath2\content\TDDictation.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs external
+Source: "{tmp}\unzipped\games\TriviaDeath2\content\TDMirror.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs external
+Source: "{tmp}\unzipped\games\TriviaDeath2\content\TDMindMeld.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs external
+Source: "{tmp}\unzipped\games\TriviaDeath2\content\TDMindMeld\*"; DestDir: "{app}\games\TriviaDeath2\content\TDMindMeld"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs external
+Source: "{tmp}\unzipped\games\TriviaDeath2\content\TDRules\*"; DestDir: "{app}\games\TriviaDeath2\content\TDRules"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs external
 ; - questions
-Source: "games\TriviaDeath2\content\TDQuestion\*"; DestDir: "{app}\games\TriviaDeath2\content\TDQuestions"; Components: "tmp2\questions"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "games\TriviaDeath2\content\TDQuestion.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\questions"; Tasks: tmp2_exclusive\questions; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "games\TriviaDeath2\content\TDFinalRound\*"; DestDir: "{app}\games\TriviaDeath2\content\TDFinalRound"; Components: "tmp2\finals"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "games\TriviaDeath2\content\TDFinalRound.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\finals"; Tasks: tmp2_exclusive\finals; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "{tmp}\unzipped\games\TriviaDeath2\content\TDQuestion\*"; DestDir: "{app}\games\TriviaDeath2\content\TDQuestions"; Components: "tmp2\questions"; Flags: ignoreversion recursesubdirs createallsubdirs external
+Source: "{tmp}\unzipped\games\TriviaDeath2\content\TDQuestion.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\questions"; Tasks: tmp2_exclusive\questions; Flags: ignoreversion recursesubdirs createallsubdirs external
+Source: "{tmp}\unzipped\games\TriviaDeath2\content\TDFinalRound\*"; DestDir: "{app}\games\TriviaDeath2\content\TDFinalRound"; Components: "tmp2\finals"; Flags: ignoreversion recursesubdirs createallsubdirs external
+Source: "{tmp}\unzipped\games\TriviaDeath2\content\TDFinalRound.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\finals"; Tasks: tmp2_exclusive\finals; Flags: ignoreversion recursesubdirs createallsubdirs external
 ;Source: "D:\Share\nodes\jackbox-forsen-pack-6\games\TriviaDeath2\content\TDQuestion*.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\secrets"; Flags: ignoreversion recursesubdirs createallsubdirs
 ; - fallback: merged questions and finals
-; if your recompilation fails on the lines below, just remove them 4Head
-Source: "_dev\extensive\TDQuestion.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\questions"; Tasks: not tmp2_exclusive\questions; Flags: ignoreversion
-Source: "_dev\extensive\TDFinalRound.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\finals"; Tasks: not tmp2_exclusive\finals; Flags: ignoreversion
+Source: "{tmp}\unzipped\_dev\TDQuestion.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\questions"; Tasks: not tmp2_exclusive\questions; Flags: ignoreversion external
+Source: "{tmp}\unzipped\_dev\TDFinalRound.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\finals"; Tasks: not tmp2_exclusive\finals; Flags: ignoreversion external
 
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
@@ -95,10 +91,15 @@ const Steam32RegPath = 'SOFTWARE\Valve\Steam';
       SteamLibPathDiv= '"'#9#9'"';
       SteamAppsFolder= 'SteamApps';
       JB_BasePath    = 'SteamApps\common\The Jackbox Party Pack 6';
+      JB_ZipContainer= 'jpp6-forsen-pack-source.zip';
+      // shell flags (for unzipper)
+      SHCONTCH_NOPROGRESSBOX = 4;
+      SHCONTCH_RESPONDYESTOALL = 16;
 
 var SteamPath: string;
     SteamLibraryList: TArrayOfString;
     JBPath: string;
+    DownloadPage: TDownloadWizardPage;
 
 function GetGamePath(ObsoleteParam: string): string; // looks for the Jackbox folder
 var i: Integer;
@@ -180,17 +181,81 @@ begin
           Result := false;
         end else Result := true;
     end;
+    wpReady: begin
+      DownloadPage.Clear;
+      DownloadPage.Add(ExpandConstant('{#MyAppSourceURL}'), JB_ZipContainer, '');
+      DownloadPage.Show;
+      try
+        try
+          DownloadPage.Download; // This downloads the files to {tmp}
+          Result := True;
+        except
+          if DownloadPage.AbortedByUser then begin
+            //SuppressibleMsgBox('Download has been cancelled!', mbInformation, MB_OK, IDOK);
+            Log('Aborted by user.')
+          end else
+            SuppressibleMsgBox(AddPeriod(GetExceptionMessage), mbCriticalError, MB_OK, IDOK);
+          Result := False;
+        end;
+      finally
+        DownloadPage.Hide;
+      end;
+    end;
     else Result := true;
   end;
 end;
 
+// ONLINE DOWNLOADER STUFF
+
+// https://stackoverflow.com/questions/6065364
+procedure UnZip(ZipPath, TargetPath: string);
+
+var
+  Shell: Variant;
+  ZipFile: Variant;
+  TargetFolder: Variant;
+begin
+  Shell := CreateOleObject('Shell.Application');
+
+  ZipFile := Shell.NameSpace(ZipPath);
+  if VarIsClear(ZipFile) then
+    RaiseException(Format('ZIP file "%s" does not exist or cannot be opened', [ZipPath]));
+
+  ForceDirectories(TargetPath);
+  TargetFolder := Shell.NameSpace(TargetPath);
+  if VarIsClear(TargetFolder) then
+    RaiseException(Format('Target path "%s" could not be created', [TargetPath]));
+
+  TargetFolder.CopyHere(ZipFile.Items, SHCONTCH_NOPROGRESSBOX or SHCONTCH_RESPONDYESTOALL);
+end;
+
+function OnDownloadProgress(const Url, FileName: String; const Progress, ProgressMax: Int64): Boolean;
+begin
+  if Progress = ProgressMax then begin
+    Log(Format('Successfully downloaded file to {tmp}: %s', [FileName]));
+  end;
+  Result := True;
+end;
+
+procedure InitializeWizard; // create a download page to fetch git contents
+begin
+  DownloadPage := CreateDownloadPage(SetupMessage(msgWizardPreparing), SetupMessage(msgPreparingDesc), @OnDownloadProgress);
+end;
+
 procedure CurStepChanged(CurStep: TSetupStep); // notifications and shit
+var targetPath: string;
 begin
   Case CurStep of
     ssInstall: begin
       Log('Starting pre-install work...');
-      // TODO: try to make a JSON merger...
-      // As for now, keep two versions of .jet files
+      // unzip contents into temp location
+      targetPath := AddBackSlash(ExpandConstant('{tmp}')) + 'unzipped';
+      Log(Format('Unzipping files into %s', [targetPath]));
+      UnZip(
+        AddBackSlash(ExpandConstant('{tmp}')) + JB_ZipContainer ,
+        targetPath
+      );
+      // end pre-install
       Log('Pre-install work ended. We will now copy the files.');
     end;
     ssPostInstall: begin // shows info message

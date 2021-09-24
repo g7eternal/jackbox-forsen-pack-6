@@ -3,6 +3,7 @@ logs/
 
 _dev/src/
 _dev/installer/target/
+_dev/installer/legacy/
 _dev/extensive/
 _dev/autobuilder
 _dev/montages
