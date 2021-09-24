@@ -22,6 +22,8 @@ Additionally, some UI components have been restyled. But that's just a bonus.
 ### Automatic installation
 Get the [auto-installer](https://github.com/g7eternal/jackbox-forsen-pack-6/releases/download/stable/jackbox-forsen-pack-6.exe) - it will take care of finding your game and importing all the content! The whole process is just a few clicks in total - and you can customize the list of components. Give it a try!
 
+> For some reason you may receive warnings about a potentially unsafe file from your antivirus software. We encourage you to check the installer using online services like Virustotal to ensure the file is actually safe.
+
 ### Manual installation
 1. Download and unzip the latest version of the pack: 
     + [GitHub](https://github.com/g7eternal/jackbox-forsen-pack-6/archive/refs/heads/main.zip) | [Mirror](https://g7eternal.ru/misc/jackbox-forsen-pack-6.zip)
