@@ -14,13 +14,14 @@ This pack contains modifications for the following games in Jackbox Party Pack 6
     + custom final round questions
     + custom minigame content: Dictation, Mirror, Mind Meld
     + balance improvements: final round (darkness moves a bit quicker); Math minigame (harder prompts)
-    + small bug fixes for the original game's components
+    + custom art in other minigames
+    + small bug fixes and improvements for the original game's components
 
 Additionally, some UI components have been restyled. But that's just a bonus.
 
 ## How to install
 ### Automatic installation
-Get the [auto-installer](https://github.com/g7eternal/jackbox-forsen-pack-6/releases/download/stable/jackbox-forsen-pack-6.exe) - it will take care of finding your game and importing all the content! The whole process is just a few clicks in total - and you can customize the list of components. Give it a try!
+Get the [auto-installer](https://github.com/g7eternal/jackbox-forsen-pack-6/releases/download/autoinstaller/jackbox-forsen-pack-6.exe) - it will take care of finding your game and importing all the content! The whole process is just a few clicks in total - and you can customize the list of components. Give it a try!
 
 > For some reason you may receive warnings about a potentially unsafe file from your antivirus software. We encourage you to check the installer using online services like Virustotal to ensure the file is actually safe.
 
@@ -33,7 +34,9 @@ Get the [auto-installer](https://github.com/g7eternal/jackbox-forsen-pack-6/rele
 
 3. Copy the extracted files and folders from the zip-archive into the local game folder.
 ![copy-files](https://user-images.githubusercontent.com/40625769/133881779-53be957b-1b17-45d2-ac9e-b901d9e98469.gif)
-    + Note: if you want to preserve the original game content and install the new content alongside it, you will have to manually edit the matching files. Auto-installer makes it a lot easier ☺
+    + Note: if you want to preserve the original game content and install the new content alongside it, you will have to manually edit the matching files.
+        + For Trivia Murder Party 2, you may want to merge the new questions with old ones (from the original game). For that you can copy the _TDQuestions.jet_ and _TDFinalRound.jet_ files from **\_dev** folder into **games\TriviaParty2\content** folder (replacing the existing files).
+        + For other instances, the merging must be done manually. We hope you know what you're doing.
 
 4. All done! Start up the game to confirm: installation has been successful if your game intro has changed.
 ![intro](https://user-images.githubusercontent.com/40625769/133881811-ccd30b46-ca32-453a-8f06-01fcc43cba8a.png)
