@@ -19,6 +19,8 @@ This pack contains modifications for the following games in Jackbox Party Pack 6
 
 Additionally, some UI components have been restyled. But that's just a bonus.
 
+> ⚠ It is strongly recommended to enable the subtitles (closed captions) in game's options. The TTS voice may sometimes be hard to understand.
+
 ## How to install
 ### Automatic installation
 Get the [auto-installer](https://github.com/g7eternal/jackbox-forsen-pack-6/releases/download/autoinstaller/jackbox-forsen-pack-6.exe) - it will take care of finding your game and importing all the content! The whole process is just a few clicks in total - and you can customize the list of components. Give it a try!
