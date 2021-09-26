@@ -10,8 +10,8 @@ In order to install the pack you must own the original game. Installer supports 
 ## About the pack
 This pack contains modifications for the following games in Jackbox Party Pack 6:
 + Trivia Murder Party 2:
-    + custom questions
-    + custom final round questions
+    + over 100 new custom questions
+    + over 100 new custom final round questions
     + custom minigame content: Dictation, Mirror, Mind Meld
     + balance improvements: final round (darkness moves a bit quicker); Math minigame (harder prompts)
     + custom art in other minigames
@@ -25,7 +25,7 @@ Additionally, some UI components have been restyled. But that's just a bonus.
 ### Automatic installation
 Get the [auto-installer](https://github.com/g7eternal/jackbox-forsen-pack-6/releases/download/autoinstaller/jackbox-forsen-pack-6.exe) - it will take care of finding your game and importing all the content! The whole process is just a few clicks in total - and you can customize the list of components. Give it a try!
 
-> For some reason you may receive warnings about a potentially unsafe file from your antivirus software. We encourage you to check the installer using online services like Virustotal to ensure the file is actually safe.
+> It is especially helpful if you can't bother - just click Next-Next-Next to autoinstall the pack.
 
 ### Manual installation
 1. Download and unzip the latest version of the pack: 
