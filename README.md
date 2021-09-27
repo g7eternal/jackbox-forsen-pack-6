@@ -55,6 +55,9 @@ If you want to contribute to development, please read the following.
 
 - If you have a generic suggestion related to Trivia Murder Party 2 game, please submit your ideas through [this form](https://docs.google.com/forms/d/e/1FAIpQLSf5cuUIGg3B3Zy3oScc2xhHXUreeJTzrasTCXgLtLXc8DPWNw/viewform)
 - If you are a tech savvy person and actually know what you're doing, feel free to fork the repo and do your magic! Pull requests will never go unnoticed.
+    - Commits including TriviaDeath2.swf will not be accepted. Contact repo owner to discuss whatever you want to change in that file.
+    - Commits including other SWF files need to have extensive description of what has been modified. Since SWF is considered to be a binary file (hence no way to see the diff), commits may get rejected.
+    - Other commits will be manually reviewed and merged if deemed as non-breaking.
 - If you have any other idea in mind, just contact me directly:
     - dm me on discord (g7eternal#8037), [twitch](https://twitch.tv/g7eternal) or [twitter](https://twitter.com/g7_eternal)
 
