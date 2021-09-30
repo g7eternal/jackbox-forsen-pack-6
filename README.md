@@ -12,12 +12,14 @@ This pack contains modifications for the following games in Jackbox Party Pack 6
 + Trivia Murder Party 2:
     + over 100 new custom questions
     + over 100 new custom final round questions
-    + custom minigame content: Dictation, Mirror, Mind Meld
+    + custom minigame content: Dictation, Mirror, Mind Meld, Quiplash
     + balance improvements: final round (darkness moves a bit quicker); Math minigame (harder prompts)
     + custom art in other minigames
     + small bug fixes and improvements for the original game's components
 
 Additionally, some UI components have been restyled. But that's just a bonus.
+
+TTS voice generated using [uberduck.ai](https://uberduck.ai/#voice=schmitty)
 
 > ⚠ It is strongly recommended to enable the subtitles (closed captions) in game's options. The TTS voice may sometimes be hard to understand.
 
@@ -34,8 +36,8 @@ Get the [auto-installer](https://github.com/g7eternal/jackbox-forsen-pack-6/rele
 2. In your Steam library select the **Jackbox Party Pack 6** game, right-click -> _Manage_ -> _Browse local files_
 ![find-files](https://user-images.githubusercontent.com/40625769/133881777-34a63150-6665-462b-9d98-76fd787d23a8.gif)
 
-3. Copy the extracted files and folders from the zip-archive into the local game folder.
-![copy-files](https://user-images.githubusercontent.com/40625769/133881779-53be957b-1b17-45d2-ac9e-b901d9e98469.gif)
+3. Copy the extracted files and folders from the zip-archive into the local game folder and replace existing files.
+![u0eqC7FLjz](https://user-images.githubusercontent.com/18620902/135361970-91c7e9af-84f1-4984-abac-a67404f5d612.gif)
     + Note: if you want to preserve the original game content and install the new content alongside it, you will have to manually edit the matching files.
         + For Trivia Murder Party 2, you may want to merge the new questions with old ones (from the original game). For that you can copy the _TDQuestions.jet_ and _TDFinalRound.jet_ files from **\_dev** folder into **games\TriviaParty2\content** folder (replacing the existing files).
         + For other instances, the merging must be done manually. We hope you know what you're doing.
@@ -48,7 +50,11 @@ Get the [auto-installer](https://github.com/g7eternal/jackbox-forsen-pack-6/rele
 
 2. Right-click -> _Manage_ -> _Properties..._
 
+![image](https://user-images.githubusercontent.com/18620902/135362254-add89bea-8ec6-4a7c-b5ed-70ab03641eb6.png)
+
 3. In _Local files_ section, press the _Verify integrity of game files..._ button and wait for Steam to re-download the original game files.
+
+![image](https://user-images.githubusercontent.com/18620902/135362194-81e37ac6-a8f6-456a-9347-be2bdc6a50fd.png)
 
 ## Contribution guide
 If you want to contribute to development, please read the following.
