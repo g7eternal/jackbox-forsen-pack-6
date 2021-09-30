@@ -1,5 +1,12 @@
 TDQuestions now support custom behaviors.
-For a question object to be pre-parsed, it has to contain a "specialBehavior" property. You can see the available values for this property in the list below.
+
+Notes:
+- special questions may appear only at round 5 or later
+- special questions may only appear once every game
+- special questions only appear if there are at least 4 players in the game
+- chance for a special question to appear is 20%
+
+For a question object to be pre-parsed in a special way, it has to contain a "specialBehavior" property. You can see the available values for this property in the list below.
 
 + bestPlayer
 	Question's choices will be replaced by player names (top 4 of the game's leaderboard). Correct choices are the names with the most money to them.
@@ -17,3 +24,5 @@ For a question object to be pre-parsed, it has to contain a "specialBehavior" pr
 	Question will be related to a random player. Question's text may contain variable %PLAYER (it will be replaced with an appropriate player name). Question's choices will be random integers. Correct choice is the amount of money chosen player currently has (player's score).
 + randomPlayerRank
 	Question will be related to a random player. Question's text may contain variable %PLAYER (it will be replaced with an appropriate player name). Question's choices will be random ordinals. Correct choice is the chosen player's rank on the leaderboard (position related to other players when comparing the scores). [Player with the most money = first; player with second most money = second; etc.]
+    
+Note: if a question has specialBehavior property, it will never appear unless the game specifically asks for this question. Therefore do NOT set this property (even an empty string) unless you know what you're doing!
