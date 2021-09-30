@@ -194,7 +194,8 @@
 					"answer": "Five-SeveN",
 					"alt": [
 						"5-7",
-						"5 7.five 7",
+						"5 7",
+						"five 7",
 						"5 seven",
 						"five seven",
 						"fiveseven",
@@ -436,6 +437,8 @@
 					"alt": [
 						"mindmeld",
 						"this one",
+						"this game",
+						"this minigame",
 						"this"
 					]
 				},
@@ -487,12 +490,17 @@
 					]
 				},
 				{
-					"answer": "Scales",
-					"alt": []
+					"answer": "Dumb waiters",
+					"alt": [
+						"scales",
+						"left or right",
+						"elevators"
+					]
 				},
 				{
-					"answer": "Pachinko",
+					"answer": "Pegs",
 					"alt": [
+						"pachinko",
 						"dropdown",
 						"drop",
 						"sectors"
