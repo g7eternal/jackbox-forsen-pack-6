@@ -500,6 +500,79 @@
 				}
 			],
 			"us": false
-		}
+		},
+		{
+			"x": false,
+			"id": 99006,
+			"text": "Twitch ______Pride emotes",
+			"pic": false,
+			"answers": [
+				{
+					"answer": "TransgenderPride",
+					"alt": [
+						"TransPride",
+						"Transgender",
+						"Trans"
+					]
+				},
+				{
+					"answer": "PansexualPride",
+					"alt": [
+						"PanPride",
+						"Pan",
+						"Pansexual"
+					]
+				},
+				{
+					"answer": "NonbinaryPride",
+					"alt": [
+						"Nonbinary"
+					]
+				},
+				{
+					"answer": "LesbianPride",
+					"alt": [
+						"Lesbian"
+					]
+				},
+				{
+					"answer": "IntersexPride",
+					"alt": [
+						"Intersex",
+						"InterPride",
+						"Inter"
+					]
+				},
+				{
+					"answer": "GenderFluidPride",
+					"alt": [
+						"GenderFluid",
+						"FluidPride",
+						"Fluid"
+					]
+				},
+				{
+					"answer": "GayPride",
+					"alt": [
+						"Gay"
+					]
+				},
+				{
+					"answer": "BisexualPride",
+					"alt": [
+						"Bisexual",
+						"Bi",
+						"BiPride"
+					]
+				},
+				{
+					"answer": "AsexualPride",
+					"alt": [
+						"Asexual"
+					]
+				}
+			],
+			"us": false
+		},
 	]
 }
