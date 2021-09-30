@@ -72,6 +72,8 @@ Source: "{tmp}\jackbox-forsen-pack-6-main\games\TriviaDeath2\content\TDDictation
 Source: "{tmp}\jackbox-forsen-pack-6-main\games\TriviaDeath2\content\TDMirror.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs external
 Source: "{tmp}\jackbox-forsen-pack-6-main\games\TriviaDeath2\content\TDMindMeld.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs external
 Source: "{tmp}\jackbox-forsen-pack-6-main\games\TriviaDeath2\content\TDMindMeld\*"; DestDir: "{app}\games\TriviaDeath2\content\TDMindMeld"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs external
+Source: "{tmp}\jackbox-forsen-pack-6-main\games\TriviaDeath2\content\QuiplashContent.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs external
+Source: "{tmp}\jackbox-forsen-pack-6-main\games\TriviaDeath2\content\QuiplashContent\*"; DestDir: "{app}\games\TriviaDeath2\content\QuiplashContent"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs external
 Source: "{tmp}\jackbox-forsen-pack-6-main\games\TriviaDeath2\content\TDRules\*"; DestDir: "{app}\games\TriviaDeath2\content\TDRules"; Components: "tmp2\core"; Flags: ignoreversion recursesubdirs createallsubdirs external
 ; - questions
 Source: "{tmp}\jackbox-forsen-pack-6-main\games\TriviaDeath2\content\TDQuestion\*"; DestDir: "{app}\games\TriviaDeath2\content\TDQuestion"; Components: "tmp2\questions"; Flags: ignoreversion recursesubdirs createallsubdirs external
