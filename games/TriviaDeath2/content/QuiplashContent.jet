@@ -1,1 +1,80 @@
-{"episodeid":1405,"content":[{"x":false,"id":97000,"prompt":"[EventName=HOST/AltHost]Forsen = <BLANK> LULW"},{"x":false,"id":97001,"prompt":"[EventName=HOST/AltHost]The reason why Forsen will never play Among us"},{"x":false,"id":97002,"prompt":"[EventName=HOST/AltHost]Advice: don't buy <BLANK>"},{"x":false,"id":97003,"prompt":"[EventName=HOST/AltHost]Can someone explain <BLANK> to me?"},{"x":false,"id":97004,"prompt":"[EventName=HOST/AltHost]Things that happen while Forsen is taking a leak"},{"x":false,"id":97005,"prompt":"[EventName=HOST/AltHost]Things you can safely say on stream but not to your mother"},{"x":false,"id":97006,"prompt":"[EventName=HOST/AltHost]This is how we do action in Uganda"},{"x":false,"id":97007,"prompt":"[EventName=HOST/AltHost]You know it's time to turn on emote-only mode when you see <BLANK> in chat"},{"x":false,"id":97008,"prompt":"[EventName=HOST/AltHost]Easiest way to get wasted is to take a shot every time Forsen <BLANK>"},{"x":false,"id":97009,"prompt":"[EventName=HOST/AltHost]Things you may never see in Just Chatting category"},{"x":false,"id":97700,"prompt":"[EventName=HOST/AltHost]Easiest way to get unbanned on twitch."},{"x":false,"id":97701,"prompt":"[EventName=HOST/AltHost]The first thing Nina sees when she wakes up."},{"x":false,"id":97702,"prompt":"[EventName=HOST/AltHost]The next global pandemic will have this symptom."},{"x":false,"id":97703,"prompt":"[EventName=HOST/AltHost]How to get rid of a weeb."},{"x":false,"id":97704,"prompt":"[EventName=HOST/AltHost]Dr Disrespect got banned because he <BLANK>"}]}
+{
+	"episodeid": 1405,
+	"content": [
+		{
+			"x": false,
+			"id": 97000,
+			"prompt": "[EventName=HOST/AltHost]Forsen = <BLANK> LULW"
+		},
+		{
+			"x": false,
+			"id": 97001,
+			"prompt": "[EventName=HOST/AltHost]The reason why Forsen will never play Among us"
+		},
+		{
+			"x": false,
+			"id": 97002,
+			"prompt": "[EventName=HOST/AltHost]Advice: don't buy <BLANK>"
+		},
+		{
+			"x": false,
+			"id": 97003,
+			"prompt": "[EventName=HOST/AltHost]Can someone explain <BLANK> to me?"
+		},
+		{
+			"x": false,
+			"id": 97004,
+			"prompt": "[EventName=HOST/AltHost]Things that happen while Forsen is taking a leak"
+		},
+		{
+			"x": false,
+			"id": 97005,
+			"prompt": "[EventName=HOST/AltHost]Things you can safely say on stream but not to your mother"
+		},
+		{
+			"x": false,
+			"id": 97006,
+			"prompt": "[EventName=HOST/AltHost]This is how we do action in Uganda"
+		},
+		{
+			"x": false,
+			"id": 97007,
+			"prompt": "[EventName=HOST/AltHost]You know it's time to turn on emote-only mode when you see <BLANK> in chat"
+		},
+		{
+			"x": false,
+			"id": 97008,
+			"prompt": "[EventName=HOST/AltHost]Easiest way to get wasted is to take a shot every time Forsen <BLANK>"
+		},
+		{
+			"x": false,
+			"id": 97009,
+			"prompt": "[EventName=HOST/AltHost]Things you may never see in Just Chatting category"
+		},
+		{
+			"x": false,
+			"id": 97700,
+			"prompt": "[EventName=HOST/AltHost]Easiest way to get unbanned on Twitch"
+		},
+		{
+			"x": false,
+			"id": 97701,
+			"prompt": "[EventName=HOST/AltHost]The first thing Nina sees when she wakes up"
+		},
+		{
+			"x": false,
+			"id": 97702,
+			"prompt": "[EventName=HOST/AltHost]The next global pandemic will have this symptom"
+		},
+		{
+			"x": false,
+			"id": 97703,
+			"prompt": "[EventName=HOST/AltHost]How to get rid of a weeb"
+		},
+		{
+			"x": false,
+			"id": 97704,
+			"prompt": "[EventName=HOST/AltHost]Dr Disrespect got banned because he <BLANK>"
+		}
+	]
+}
