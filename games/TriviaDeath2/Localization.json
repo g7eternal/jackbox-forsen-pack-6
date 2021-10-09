@@ -85,7 +85,7 @@
         "FILTER_US_CENTRIC": "Filter US-Centric Questions",
         "FILTER_US_CENTRIC_DESCRIPTION": "Reduces the number of U.S.-centric questions. But does NOT entirely eliminate them.",
         
-        "FILTER_DMCA": "Filter Music Questions",
+        "FILTER_DMCA": "<b>Filter Music Questions</b>",
         "FILTER_DMCA_DESCRIPTION": "Disables questions which rely on playing music (i.e. \"guess this song\")",
         
         "POSTGAME_SHARING": "Post-Game Sharing",
@@ -118,8 +118,8 @@
         "MAX_PLAYERS": "Max Players",
         "MAX_PLAYERS_DESCRIPTION": "Number of players that can join the game before people are added to the audience.",
         
-        "SUBTITLES": "Subtitles",
-        "SUBTITLES_DESCRIPTION": "Display subtitles on the screen.",
+        "SUBTITLES": "<b>Subtitles</b>",
+        "SUBTITLES_DESCRIPTION": "We recommend enabling subtitles since lidl TTS may sometimes be hard to understand.",
 
         "PLAYER_NAME": "Player Name",
         "HIGH_SCORE": "High Score",

@@ -9,6 +9,22 @@
     "localized": "true",
     "items": [
         {
+            "title": "SUBTITLES",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "Subtitles",
+            "description": "SUBTITLES_DESCRIPTION"
+        },
+        {
+            "title": "FILTER_DMCA",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "FilterDMCAContent",
+            "description": "FILTER_DMCA_DESCRIPTION"
+        },
+        {
             "title": "VOLUME",
             "type": "Range",
             "clip": "TDSliderWidget",
@@ -100,14 +116,6 @@
             "source": "FilterUSCentricContent",
             "description": "FILTER_US_CENTRIC_DESCRIPTION"
         },
-		{
-            "title": "FILTER_DMCA",
-            "type": "Toggle",
-            "clip": "TDToggleWidget",
-            "width": 1,
-            "source": "FilterDMCAContent",
-            "description": "FILTER_DMCA_DESCRIPTION"
-        },
         {
             "title": "POSTGAME_SHARING",
             "type": "Toggle",
@@ -190,14 +198,6 @@
             "options": [1,2,3,4,5,6,7,8],
             "defaultValueIndex":7,
             "description": "MAX_PLAYERS_DESCRIPTION"
-        },
-        {
-            "title": "SUBTITLES",
-            "type": "Toggle",
-            "clip": "TDToggleWidget",
-            "width": 1,
-            "source": "Subtitles",
-            "description": "SUBTITLES_DESCRIPTION"
         }
     ]
 }
