@@ -37,7 +37,7 @@
         "CONNECTING_DELAY": "This is taking a while...<br />Please check your internet connection.",
         "GO_TO": "Go to",
         "ROOM_CODE":"Room Code",
-		"ROOM_JOINED": "<img src='https://cdn.frankerfacez.com/emoticon/185890/2'> Sit back and relax!",
+        "ROOM_JOINED": "<img src='https://cdn.frankerfacez.com/emoticon/185890/2'> Sit back and relax!",
         "JOIN_ON_YOUR_DEVICE": "on your mobile device to join in",
         "JOIN_THE_AUDIENCE": "Join the Audience",
         "ENTER_ROOM_CODE": "ENTER ROOM CODE",
@@ -84,7 +84,10 @@
         
         "FILTER_US_CENTRIC": "Filter US-Centric Questions",
         "FILTER_US_CENTRIC_DESCRIPTION": "Reduces the number of U.S.-centric questions. But does NOT entirely eliminate them.",
-                        
+        
+        "FILTER_DMCA": "Filter Music Questions",
+        "FILTER_DMCA_DESCRIPTION": "Disables questions which rely on playing music (i.e. \"guess this song\")",
+        
         "POSTGAME_SHARING": "Post-Game Sharing",
         "POSTGAME_SHARING_DESCRIPTION": "Allow players to optionally share answers and scores from the game on social media.",
 

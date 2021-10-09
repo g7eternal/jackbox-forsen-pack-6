@@ -61,6 +61,7 @@ Source: "{tmp}\jackbox-forsen-pack-6-main\games\PartyPack\*"; DestDir: "{app}\ga
 ; - base/misc
 Source: "{tmp}\jackbox-forsen-pack-6-main\games\TriviaDeath2\jbg.config.jet"; DestDir: "{app}\games\TriviaDeath2"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs external
 Source: "{tmp}\jackbox-forsen-pack-6-main\games\TriviaDeath2\Credits.html"; DestDir: "{app}\games\TriviaDeath2"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs external
+Source: "{tmp}\jackbox-forsen-pack-6-main\games\TriviaDeath2\settings.jet"; DestDir: "{app}\games\TriviaDeath2"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs external
 Source: "{tmp}\jackbox-forsen-pack-6-main\games\TriviaDeath2\Localization.json"; DestDir: "{app}\games\TriviaDeath2"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs external
 Source: "{tmp}\jackbox-forsen-pack-6-main\games\TriviaDeath2\wordlistPassword.txt"; DestDir: "{app}\games\TriviaDeath2"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs external
 Source: "{tmp}\jackbox-forsen-pack-6-main\games\TriviaDeath2\content\TDSequel.jet"; DestDir: "{app}\games\TriviaDeath2\content"; Components: "tmp2"; Flags: ignoreversion recursesubdirs createallsubdirs external
