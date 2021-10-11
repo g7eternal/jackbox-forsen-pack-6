@@ -5399,6 +5399,688 @@
 			"us": false,
 			"dmca": "intro",
 			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77087,
+			"text": "How much wood would a woodchuck chuck if a woodchuck could chuck wood with a rate of 10 trees per hour?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "12 trees in 60 minutes"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "20 trees in 100 minutes"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "24 trees in 120 minutes"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "25 trees in 150 minutes"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77088,
+			"text": "Red lorry, yellow lorry. What's the one in between?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Orange lorry"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "White lorry"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Purple lorry"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Cyan lorry"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77089,
+			"text": "Each Easter Eddie eats eighty Easter eggs. How many eggs would eighty Easter Eddies eat?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "7,200"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "8,000"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "6,400"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "9,600"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77090,
+			"text": "Which letter of the alphabet has the most water?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "C"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "W"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "U"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "O"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77091,
+			"text": "A farmer has 17 sheep and all but nine die. How many are left?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "9"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "8"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "7"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "None"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77092,
+			"text": "Lose me once - I'll come back stronger, lose me twice - I'll leave forever, what am I?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Wife"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Tooth"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Virginity"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Tail"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77093,
+			"text": "Which of these words could never be translated as <i>beer</i>?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Pivo"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Bier"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Chufa"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Alus"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77094,
+			"text": "One of the following words never appears in <i>EZ4ENCE</i> song lyrics:",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "valmiina"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "hiustyylei"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "mut"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "hvor"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77095,
+			"text": "How would you say <i>\"I know\"</i> in Swedish?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Jag vet"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Jeg ved"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Jeg vet"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Eg veit"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77096,
+			"text": "How would you translate <i>\"twitch\"</i> into Swedish?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "rycka"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "ryk"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "rykke"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "nykia"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77097,
+			"text": "If homeless people in Russia were told to get a house, they would start looking for:",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Dom"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Hata"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Budynek"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Kuca"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77098,
+			"text": "When was the DMCA signed into law?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "2003"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "2010"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "2001"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "1998"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77099,
+			"text": "Which of these Swedish numerals is misspelled?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Fem"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Sex"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Hundra"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Fortjon"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77100,
+			"text": "Choose a correct fact about Valorant:",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "There are maps with 3 bomb spots"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "There are usable vehicles"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Agents can be switched mid-match"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "You cannot kill opponent without a gun or knife"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77101,
+			"text": "Which of these acronyms is not related to <i>laughter</i>?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "YLYL"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "LAWL"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "ROFL"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "FML"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77102,
+			"text": "When a Turkish person says <i>\"Durak\"</i>, they mean:",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Fool"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Drop"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Stop"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Flash"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77103,
+			"text": "When your Turkish teammate is frustrated, you will most likely hear:",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Bu oyundan sonra"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Lezzetli simit"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "On iki elma"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Senin annen"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77104,
+			"text": "Which symbol can be found on Playstation gamepad, but not in the Netflix's <i>Squid Game</i> logo?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Triangle"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Circle"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Square"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Cross"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77105,
+			"text": "Which of these languages is not yet represented in Google Translate?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Komi"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Cebuano"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Uyghur"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Xhosa"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77106,
+			"text": "Which of these words is not a synonym for <i>weird</i>?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "eerie"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "staggering"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "kooky"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "grotesque"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77107,
+			"text": "<i>Tokay blanket</i> is a reference to which way of warming up?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Huddle up"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Start a fire in a barrel"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Double up the clothing"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Drink some alcohol"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77108,
+			"text": "Who is a <i>yegg</i>?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "A chef"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "A homeless person"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "A burglar"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "A warrior"
+				}
+			],
+			"us": false,
+			"hasIntro": false
 		}
 	]
 }
