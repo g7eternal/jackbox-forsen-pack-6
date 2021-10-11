@@ -10,16 +10,16 @@ In order to install the pack you must own the original game. Installer supports 
 ## About the pack
 This pack contains modifications for the following games in Jackbox Party Pack 6:
 + Trivia Murder Party 2 ([Trailer](https://youtu.be/VTFyFwHgi6w)):
-    + over 100 new custom questions
+    + over 170 new custom questions (including new question types!)
     + over 100 new custom final round questions
     + custom minigame content: Dictation, Mirror, Mind Meld, Quiplash
-    + balance improvements: final round (darkness moves a bit quicker); Math minigame (harder prompts)
+    + various balance improvements for existing game modes
     + custom art in other minigames
     + small bug fixes and improvements for the original game's components
 
 Additionally, some UI components have been restyled. But that's just a bonus.
 
-TTS voice generated using [uberduck.ai](https://uberduck.ai/#voice=schmitty)
+TTS voices have been generated using [Uberduck](https://uberduck.ai/).
 
 > ⚠ It is strongly recommended to enable the subtitles (closed captions) in game's options. The TTS voice may sometimes be hard to understand.
 
@@ -57,15 +57,9 @@ Get the [auto-installer](https://github.com/g7eternal/jackbox-forsen-pack-6/rele
 ![image](https://user-images.githubusercontent.com/18620902/135362194-81e37ac6-a8f6-456a-9347-be2bdc6a50fd.png)
 
 ## Contribution guide
-If you want to contribute to development, please read the following.
+If you want to contribute to development, please refer to [this guide](https://github.com/g7eternal/jackbox-forsen-pack-6/blob/main/CONTRIBUTING.md).
 
-- If you have a generic suggestion related to Trivia Murder Party 2 game, please submit your ideas through [this form](https://docs.google.com/forms/d/e/1FAIpQLSf5cuUIGg3B3Zy3oScc2xhHXUreeJTzrasTCXgLtLXc8DPWNw/viewform)
-- If you are a tech savvy person and actually know what you're doing, feel free to fork the repo and do your magic! Pull requests will never go unnoticed.
-    - Commits including TriviaDeath2.swf will not be accepted. Contact repo owner to discuss whatever you want to change in that file.
-    - Commits including other SWF files need to have extensive description of what has been modified. Since SWF is considered to be a binary file (hence no way to see the diff), commits may get rejected.
-    - Other commits will be manually reviewed and merged if deemed as non-breaking.
-- If you have any other idea in mind, just contact me directly:
-    - dm me on discord (g7eternal#8037), [twitch](https://twitch.tv/g7eternal) or [twitter](https://twitter.com/g7_eternal)
+> If you have a generic suggestion related to Trivia Murder Party 2 game, please submit your ideas through [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSf5cuUIGg3B3Zy3oScc2xhHXUreeJTzrasTCXgLtLXc8DPWNw/viewform).
 
 ## Ads LUL
 If you are looking for some more fun stuff, check out these projects:
