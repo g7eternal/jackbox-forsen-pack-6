@@ -1,5 +1,5 @@
 #define MyAppName "Jackbox Forsen Pack 6"
-;#define MyAppVersion "latest"
+#define MyAppVersion "v1.0"
 #define MyAppPublisher "@G7_Eternal"
 #define MyAppURL "https://github.com/g7eternal/jackbox-forsen-pack-6"
 #define MyAppSourceURL "https://github.com/g7eternal/jackbox-forsen-pack-6/archive/refs/heads/main.zip"
@@ -9,8 +9,8 @@
 [Setup]
 AppId={{3DFF9343-7C02-4E19-9C5D-06366FDA9B4A}
 AppName={#MyAppName}
-;AppVersion={#MyAppVersion}
-AppVerName={#MyAppName} (latest version)
+AppVersion={#MyAppVersion}
+;AppVerName={#MyAppName} (latest version)
 AppPublisher={#MyAppPublisher}
 AppPublisherURL={#MyAppURL}
 AppSupportURL={#MyAppURL}
