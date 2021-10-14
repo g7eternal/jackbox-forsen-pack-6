@@ -2398,12 +2398,12 @@
 			"choices": [
 				{
 					"controllerClass": "",
-					"correct": true,
+					"correct": false,
 					"text": "It teleports to water and dies"
 				},
 				{
 					"controllerClass": "",
-					"correct": false,
+					"correct": true,
 					"text": "It keeps teleporting until fire is extinguished"
 				},
 				{
