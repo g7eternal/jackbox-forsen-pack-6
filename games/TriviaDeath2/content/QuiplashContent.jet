@@ -75,6 +75,61 @@
 			"x": false,
 			"id": 97704,
 			"prompt": "[EventName=HOST/AltHost]Dr Disrespect got banned because he <BLANK>"
+		},
+		{
+			"x": false,
+			"id": 97010,
+			"prompt": "[EventName=HOST/AltHost]If you want to engage with your Twitch chat, just ask them to spam <BLANK>"
+		},
+		{
+			"x": false,
+			"id": 97011,
+			"prompt": "[EventName=HOST/AltHost]I wonder... What if Forsen actually <BLANK>?"
+		},
+		{
+			"x": false,
+			"id": 97012,
+			"prompt": "[EventName=HOST/AltHost]The one thing this custom Forsen pack needs so much"
+		},
+		{
+			"x": false,
+			"id": 97013,
+			"prompt": "[EventName=HOST/AltHost]Famous last words: \"Today I'm gonna <BLANK>\""
+		},
+		{
+			"x": false,
+			"id": 97014,
+			"prompt": "[EventName=HOST/AltHost]\"<BLANK> - Geez, oh my god!\""
+		},
+		{
+			"x": false,
+			"id": 97015,
+			"prompt": "[EventName=HOST/AltHost]Forsen's next ban reason"
+		},
+		{
+			"x": false,
+			"id": 97016,
+			"prompt": "[EventName=HOST/AltHost]This is the run. This time <BLANK> for sure."
+		},
+		{
+			"x": false,
+			"id": 97017,
+			"prompt": "[EventName=HOST/AltHost]forsenPls <BLANK> forsenPls <BLANK> forsenPls <BLANK>"
+		},
+		{
+			"x": false,
+			"id": 97018,
+			"prompt": "[EventName=HOST/AltHost]Main perk of mega-subbing to Forsen"
+		},
+		{
+			"x": false,
+			"id": 97019,
+			"prompt": "[EventName=HOST/AltHost]Things happening on legendary sub-only stream"
+		},
+		{
+			"x": false,
+			"id": 97020,
+			"prompt": "[EventName=HOST/AltHost]A legendary excuse"
 		}
 	]
 }

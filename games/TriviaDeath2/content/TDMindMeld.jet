@@ -581,6 +581,251 @@
 				}
 			],
 			"us": false
+		},
+		{
+			"x": false,
+			"id": 99010,
+			"text": "Countries neighboring Uganda",
+			"pic": false,
+			"answers": [
+				{
+					"answer": "Rwanda",
+					"alt": [
+						"Ruanda",
+						"Republic of Rwanda"
+					]
+				},
+				{
+					"answer": "Republic of Congo",
+					"alt": [
+						"Congo",
+						"DR Congo",
+						"Kongo",
+						"DRC",
+						"Zaire",
+						"the Congo",
+						"Democratic Republic of Congo"
+					]
+				},
+				{
+					"answer": "Kenya",
+					"alt": [
+						"Kenia",
+						"Republic of Kenya"
+					]
+				},
+				{
+					"answer": "South Sudan",
+					"alt": [
+						"Sudan",
+						"RoSS",
+						"Republic of South Sudan"
+					]
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 99011,
+			"text": "Countries neighboring Sweden<br><i>maritime borders not included</i>",
+			"pic": false,
+			"answers": [
+				{
+					"answer": "Finland",
+					"alt": [
+						"Suomi"
+					]
+				},
+				{
+					"answer": "Norway",
+					"alt": [
+						"Norge"
+					]
+				},
+				{
+					"answer": "Denmark",
+					"alt": [
+						"Danmark"
+					]
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 99012,
+			"text": "Forsen's top 5 streaming categories<br><i>including only games</i>",
+			"pic": false,
+			"answers": [
+				{
+					"answer": "PUBG: BATTLEGROUNDS",
+					"alt": [
+						"PUBG",
+						"playerunknown's battlegrounds"
+					]
+				},
+				{
+					"answer": "CS:GO",
+					"alt": [
+						"csgo",
+						"counter strike",
+						"counter-strike",
+						"global offensive",
+						"cs"
+					]
+				},
+				{
+					"answer": "GTA V",
+					"alt": [
+						"Grand Theft Auto 5",
+						"gta 5",
+						"grand theft auto v",
+						"gta5"
+					]
+				},
+				{
+					"answer": "Hearthstone",
+					"alt": [
+						"Heartstone",
+						"HS"
+					]
+				},
+				{
+					"answer": "Minecraft",
+					"alt": [
+						"MC"
+					]
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 99013,
+			"text": "Face cards in a standard 52-card deck<br><i>Pick a card, any card</i>",
+			"pic": false,
+			"answers": [
+				{
+					"answer": "Queen",
+					"alt": [
+						"Q",
+						"Dame"
+					]
+				},
+				{
+					"answer": "Jack",
+					"alt": [
+						"J",
+						"valet",
+						"knave"
+					]
+				},
+				{
+					"answer": "King",
+					"alt": [
+						"K"
+					]
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 99014,
+			"text": "Words in <i>GFMB</i><br>(all genders included)",
+			"pic": false,
+			"answers": [
+				{
+					"answer": "morning",
+					"alt": []
+				},
+				{
+					"answer": "bajs",
+					"alt": [
+						"boys",
+						"bais",
+						"bags"
+					]
+				},
+				{
+					"answer": "ladies",
+					"alt": [
+						"laddies"
+					]
+				},
+				{
+					"answer": "fucking",
+					"alt": [
+						"fking",
+						"fuking"
+					]
+				},
+				{
+					"answer": "good",
+					"alt": [
+						"gut",
+						"god"
+					]
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 99015,
+			"text": "Ways to give money to a streamer<br><i>as usual, we're talking Twitch here</i>",
+			"pic": false,
+			"answers": [
+				{
+					"answer": "Cheermotes",
+					"alt": [
+						"bits",
+						"bitcoins",
+						"bit",
+						"bitcoin",
+						"cheermote",
+						"cheer"
+					]
+				},
+				{
+					"answer": "",
+					"alt": []
+				},
+				{
+					"answer": "Subscription",
+					"alt": [
+						"sub",
+						"subscribe",
+						"megasub",
+						"supersub",
+						"resubscribe"
+					]
+				},
+				{
+					"answer": "Donation",
+					"alt": [
+						"donate",
+						"dono",
+						"-10",
+						"LULW",
+						"classic",
+						"TTS"
+					]
+				},
+				{
+					"answer": "Gifted subs",
+					"alt": [
+						"gifts",
+						"gifted",
+						"gifted subscriptions",
+						"gift",
+						"hype",
+						"hype train"
+					]
+				}
+			],
+			"us": false
 		}
 	]
 }
