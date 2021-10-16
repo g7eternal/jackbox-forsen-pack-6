@@ -16899,6 +16899,550 @@
 				}
 			],
 			"us": false
+		},
+		{
+			"x": false,
+			"id": 66102,
+			"text": "Channels with more than 1 mln peak viewers",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "THEGREFG"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "IBAI"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "ELEAGUETV"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "PLAYSTATION"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "FORTNITE"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "RIOTGAMES"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "PGL"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "TOMMYINNIT"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "FORSEN"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "XQCOW"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "NINJA"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "SHROUD"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "TWITCH"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66103,
+			"text": "Years when Forsen had over 50k viewers",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "2018"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "2020"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "2017"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "2019"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "2021"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66104,
+			"text": "Games streamed by Forsen in 2020",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "PUBG"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Minecraft"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "CS:GO"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Valorant"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Dark Souls"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Hearthstone"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "GTA V"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Atlas"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "I Wanna Be The Boshy"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Dota 2"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "TES V: Skyrim"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "The Witcher 3"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66105,
+			"text": "Games Forsen played over 30 hours (in 2020)",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Minecraft"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "VALORANT"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Terraria"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Warcraft III"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Dark Souls III"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "GTA San Andreas"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Last Oasis"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "GTA IV"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Chess"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Fall Guys"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "CS:GO"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Tekken 7"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66106,
+			"text": "Games with over 20k viewers on average on Forsen's stream",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Who Wants To Be A Millionaire"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Atlas"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Paradigm"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Welcome to the Game II"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Portal"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "GTA San Andreas"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Super Seducer"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Super Seducer 2"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Minecraft"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Jump Off The Bridge"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Star Wars Battlefront II"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "GTA V"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Twelve Minutes"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Borderlands 3"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "GTA IV"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Golfing Over It"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Cyberpunk 2077"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66107,
+			"text": "Games with negative follow/hour count<br>(Forsen's channel, all time)",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Outer Wilds"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Loop Hero"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Cards Against Humanity"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Tabletop Simulator"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Drug Dealer Simulator"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Hotline Miami"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Nioh"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "For Honor"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Goose Goose Duck"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Pummel Party"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Layers of Fear"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Nioh 2"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Katana ZERO"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Minecraft"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "THE LONGING"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "GeoGuessr"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Black Mesa"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ball 3D"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66108,
+			"text": "Days with Forsen's most follow count increase<br>(on average, all time)",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Sunday"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Monday"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Tuesday"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Wednesday"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Thursday"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Friday"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Saturday"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66109,
+			"text": "Channels with over 100k peak active subscriptions",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "LUDWIG"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "NINJA"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "RANBOOLIVE"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "SHROUD"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "SUMMIT1G"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "XQCOW"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "FORSEN"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "NYMN"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "IBAI"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "TFUE"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "ANOMALY"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "NICKMERCS"
+				}
+			],
+			"us": false
 		}
 	]
 }

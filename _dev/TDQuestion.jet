@@ -31729,6 +31729,471 @@
 			],
 			"us": false,
 			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77109,
+			"text": "What is forsen's peak viewer count?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "60,545"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "80,860"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "94,678"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "104,570"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77110,
+			"text": "What is Forsen's all-time high active subs count?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "24,423"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "19,554"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "16,653"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "34,541"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77111,
+			"text": "What is Forsen's most frequent stream category of all time?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Just Chatting"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Minecraft"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Hearthstone"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "PUBG"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77112,
+			"text": "What is peak viewers count for the \"Barbie and the magic of Pegasus\" category on Twitch?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "1,852"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "5,695"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "58,943"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "114,346"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77113,
+			"text": "When was the last time Forsen played <i>GTA Vice City (original version)</i> on stream?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Apr 2, 2020"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Mar 7, 2020"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Apr 21, 2019"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Nov 9, 2020"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77114,
+			"text": "What is Forsen's average daily broadcast time?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "6.3 hrs"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "6.5 hrs"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "6.1 hrs"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "6.7 hrs"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77115,
+			"text": "Choose a day of week with a least amount of Forsen's streams on average:",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Saturday"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Sunday"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Friday"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Monday"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77116,
+			"text": "How many days did Forsen stream on in 2020?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "310"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "301"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "285"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "269"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77117,
+			"text": "What game was Forsen playing when his viewer count peaked?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Atlas"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Minecraft"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Welcome to the Game II"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Jump King"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77118,
+			"text": "Which game on Forsen's stream attracted the most viewers on average?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Atlas"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Who Wants To Be A Millionaire"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Welcome to the Game II"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Paradigm"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77119,
+			"text": "Which game Forsen hasn't streamed in a longest time? (according to TwitchTracker)",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Town of Salem"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "GeoGuessr"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "The Culling"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Poker"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77120,
+			"text": "During which game Forsen lost the most followers?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Cards Against Humanity"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Loop Hero"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Outer Wilds"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Tabletop Simulator"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77121,
+			"text": "Forsen gained the most amount of followers while streaming this game:",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Project Winter"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Mario Kart 8 Deluxe"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Lethal League"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Hand Simulator"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77122,
+			"text": "Forsen's least streamed game, <i>Boss Crushers</i>, was played for how long?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "63 minutes"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "40 minutes"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "14 minutes"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "5 minutes"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77123,
+			"text": "Which one of these games is Forsen's least streamed one?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Spelunky"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "House of Detention"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Stream Racer"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Tabletop Simulator"
+				}
+			],
+			"us": false,
+			"hasIntro": false
 		}
 	]
 }
