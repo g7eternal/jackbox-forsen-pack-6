@@ -10,8 +10,8 @@ In order to install the pack you must own the original game. Installer supports 
 ## About the pack
 This pack contains modifications for the following games in Jackbox Party Pack 6:
 + Trivia Murder Party 2 ([Trailer](https://youtu.be/VTFyFwHgi6w)):
-    + over 170 new custom questions (including new question types!)
-    + over 100 new custom final round questions
+    + over 200 new custom questions (including new question types!)
+    + over 120 new custom final round questions
     + custom minigame content: Dictation, Mirror, Mind Meld, Quiplash
     + various balance improvements for existing game modes
     + custom art in other minigames
