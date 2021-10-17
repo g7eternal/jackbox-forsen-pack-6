@@ -789,8 +789,19 @@
 					]
 				},
 				{
-					"answer": "",
-					"alt": []
+					"answer": "Merch",
+					"alt": [
+						"buy merch",
+						"merchandise",
+						"merchandize",
+						"buy merchandize",
+						"buy merchandise",
+						"shop",
+						"promocode",
+						"use code",
+						"code",
+						"codes"
+					]
 				},
 				{
 					"answer": "Subscription",
@@ -799,7 +810,10 @@
 						"subscribe",
 						"megasub",
 						"supersub",
-						"resubscribe"
+						"resubscribe",
+						"prime",
+						"amazon prime",
+						"prime sub"
 					]
 				},
 				{
@@ -810,7 +824,10 @@
 						"-10",
 						"LULW",
 						"classic",
-						"TTS"
+						"TTS",
+						"give money",
+						"money",
+						"just give"
 					]
 				},
 				{
