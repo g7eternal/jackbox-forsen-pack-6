@@ -27390,7 +27390,7 @@
 			"hasOutro": false,
 			"x": false,
 			"id": 77027,
-			"text": "What letter comes next in this sequence?<br>[ O T T F F S S ]",
+			"text": "What letter comes next in this sequence?<br>{ O T T F F S S }",
 			"pic": false,
 			"choices": [
 				{
