@@ -228,7 +228,7 @@
 				{
 					"controllerClass": "",
 					"correct": false,
-					"text": "Ctrl+Shift/Alt+Shift-Insert"
+					"text": "Ctrl-Shift/Alt-Shift-Insert"
 				},
 				{
 					"controllerClass": "",
@@ -243,7 +243,7 @@
 				{
 					"controllerClass": "",
 					"correct": false,
-					"text": "Insert/Ctrl+Insert"
+					"text": "Insert/Ctrl-Insert"
 				}
 			],
 			"us": false,
@@ -1820,12 +1820,12 @@
 				{
 					"controllerClass": "",
 					"correct": false,
-					"text": "10"
+					"text": "9"
 				},
 				{
 					"controllerClass": "",
 					"correct": true,
-					"text": "12"
+					"text": "11"
 				}
 			],
 			"us": false,
@@ -5725,7 +5725,7 @@
 				{
 					"controllerClass": "",
 					"correct": false,
-					"text": "Hata"
+					"text": "Hatynka"
 				},
 				{
 					"controllerClass": "",

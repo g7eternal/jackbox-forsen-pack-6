@@ -25876,7 +25876,7 @@
 				{
 					"controllerClass": "",
 					"correct": false,
-					"text": "Ctrl+Shift/Alt+Shift-Insert"
+					"text": "Ctrl-Shift/Alt-Shift-Insert"
 				},
 				{
 					"controllerClass": "",
@@ -25891,7 +25891,7 @@
 				{
 					"controllerClass": "",
 					"correct": false,
-					"text": "Insert/Ctrl+Insert"
+					"text": "Insert/Ctrl-Insert"
 				}
 			],
 			"us": false,
