@@ -26928,6 +26928,188 @@
 			],
 			"us": false,
 			"hasIntro": false
+		}, {
+			"hasOutro": false,
+			"x": false,
+			"id": 77138,
+			"text": "Another swedish streamer, <i>AdmiralBulldog</i>, is a part of which team?",
+			"pic": false,
+			"choices": [{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Alliance"
+				}, {
+					"controllerClass": "",
+					"correct": false,
+					"text": "Cloud 9"
+				}, {
+					"controllerClass": "",
+					"correct": false,
+					"text": "Gambit"
+				}, {
+					"controllerClass": "",
+					"correct": false,
+					"text": "Secret"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		}, {
+			"hasOutro": false,
+			"x": false,
+			"id": 77139,
+			"text": "Forsen's first Hearthstone team was called:",
+			"pic": false,
+			"choices": [{
+					"controllerClass": "",
+					"correct": true,
+					"text": "ManaGrind"
+				}, {
+					"controllerClass": "",
+					"correct": false,
+					"text": "Team Curse"
+				}, {
+					"controllerClass": "",
+					"correct": false,
+					"text": "Lucky Draw"
+				}, {
+					"controllerClass": "",
+					"correct": false,
+					"text": "Cloud9"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		}, {
+			"hasOutro": false,
+			"x": false,
+			"id": 77140,
+			"text": "When is forsen's birthday?",
+			"pic": false,
+			"choices": [{
+					"controllerClass": "",
+					"correct": false,
+					"text": "November 9"
+				}, {
+					"controllerClass": "",
+					"correct": false,
+					"text": "December 1"
+				}, {
+					"controllerClass": "",
+					"correct": false,
+					"text": "November 12"
+				}, {
+					"controllerClass": "",
+					"correct": true,
+					"text": "December 16"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		}, {
+			"hasOutro": false,
+			"x": false,
+			"id": 77141,
+			"text": "<i>\"Russian Dark Souls with ear damage\"</i> is a description of which game?",
+			"pic": false,
+			"choices": [{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Hobo Simulator"
+				}, {
+					"controllerClass": "",
+					"correct": true,
+					"text": "Dark Sasi"
+				}, {
+					"controllerClass": "",
+					"correct": false,
+					"text": "Valakas Story"
+				}, {
+					"controllerClass": "",
+					"correct": false,
+					"text": "Man Standing"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		}, {
+			"hasOutro": false,
+			"x": false,
+			"id": 77142,
+			"text": "How many distinct letters would you need to spell forsen's full name?",
+			"pic": false,
+			"choices": [{
+					"controllerClass": "",
+					"correct": true,
+					"text": "12"
+				}, {
+					"controllerClass": "",
+					"correct": false,
+					"text": "10"
+				}, {
+					"controllerClass": "",
+					"correct": false,
+					"text": "11"
+				}, {
+					"controllerClass": "",
+					"correct": false,
+					"text": "13"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		}, {
+			"hasOutro": false,
+			"x": false,
+			"id": 77143,
+			"text": "Which of these is <i>not</i> a COVID-19 vaccine?",
+			"pic": false,
+			"choices": [{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Comirnaty"
+				}, {
+					"controllerClass": "",
+					"correct": false,
+					"text": "Sputnik"
+				}, {
+					"controllerClass": "",
+					"correct": false,
+					"text": "Covishield"
+				}, {
+					"controllerClass": "",
+					"correct": true,
+					"text": "NucleoCoviVac"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		}, {
+			"hasOutro": false,
+			"x": false,
+			"id": 77144,
+			"text": "Which ukrainian Hearthstone player is known for creating the Miracle Rogue deck?",
+			"pic": false,
+			"choices": [{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Kolento"
+				}, {
+					"controllerClass": "",
+					"correct": false,
+					"text": "Reynad"
+				}, {
+					"controllerClass": "",
+					"correct": false,
+					"text": "iNS4NE"
+				}, {
+					"controllerClass": "",
+					"correct": false,
+					"text": "SilverName"
+				}
+			],
+			"us": false,
+			"hasIntro": false
 		}
 	]
 }
