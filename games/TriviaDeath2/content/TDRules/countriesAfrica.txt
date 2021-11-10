@@ -6,11 +6,9 @@ Burkina Faso
 Burundi
 Cameroon
 Cape Verde
-Central African Republic
 Chad
 Comoros
 Republic of the Congo
-Democratic Republic of the Congo
 Ivory Coast
 Djibouti
 Equatorial Guinea
@@ -20,8 +18,6 @@ Ethiopia
 Gabon
 The Gambia
 Ghana
-Guinea
-Guinea-Bissau
 Kenya
 Lesotho
 Liberia
@@ -47,6 +43,5 @@ Tanzania
 Togo
 Tunisia
 Uganda
-Western Sahara
 Zambia
-Zimbabwe 
+Zimbabwe
