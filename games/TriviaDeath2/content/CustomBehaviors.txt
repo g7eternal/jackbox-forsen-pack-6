@@ -1,12 +1,24 @@
 TDQuestions now support custom behaviors.
-
-Notes:
-- special questions may appear only at round 5 or later
-- special questions may only appear once every game
-- special questions only appear if there are at least 4 players in the game
-- chance for a special question to appear is 20%
-
 For a question object to be pre-parsed in a special way, it has to contain a "specialBehavior" property. You can see the available values for this property in the list below.
+
+COMMON BEHAVIORS:
+- questions with common behaviors are subjected for some additional parsing (depending on behavior kind)
+- questions appear as usual, mixed in with normal questions
+
+<!> COMMON BEHAVIORS ARE NOT IMPLEMENTED YET!!! <!>
+
++ currentTimeTZ
+    Question's choices will be replaced by time in different timezones. The correct timezone is set in "specialBehaviorTZ" param (expecting a number from -12 to 12, default: 0).
++ currentDateOffset
+    Question's choices will be replaced by day-month pairs. The correct choice would be the current date offset by X days, where X is a "specialBehaviorOffset" param (expecting a number, default: 0)
++ countPlayerNameLetters
+    Question's choices will be replaced random numbers. The correct choice would be a number which represents a total count of letters in all player's names (a-z only, case insensitive; example: forsen+nam01 = 9). If "specialBehaviorDistinct" is present (logical "true"), total count would process only exclusive letters (example: nymn+g7 = 4)
+
+RARE BEHAVIORS:
+- rare special questions may appear only at round 5 or later
+- rare special questions may only appear once every game
+- rare special questions only appear if there are at least 4 players in the game
+- chance for a rare special question to appear is 20%
 
 + bestPlayer
 	Question's choices will be replaced by player names (top 4 of the game's leaderboard). Correct choices are the names with the most money to them.
@@ -25,4 +37,3 @@ For a question object to be pre-parsed in a special way, it has to contain a "sp
 + randomPlayerRank
 	Question will be related to a random player. Question's text may contain variable %PLAYER (it will be replaced with an appropriate player name). Question's choices will be random ordinals. Correct choice is the chosen player's rank on the leaderboard (position related to other players when comparing the scores). [Player with the most money = first; player with second most money = second; etc.]
     
-Note: if a question has specialBehavior property, it will never appear unless the game specifically asks for this question. Therefore do NOT set this property (even an empty string) unless you know what you're doing!
