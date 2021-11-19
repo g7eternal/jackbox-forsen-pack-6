@@ -6119,7 +6119,7 @@
 				}
 			],
 			"us": false,
-			"hasIntro": false
+			"hasIntro": true
 		}, {
 			"hasOutro": false,
 			"x": false,
