@@ -2775,6 +2775,74 @@
 					"text": "Zenyatta"
 				}, {
 					"difficulty": 0,
+					"correct": true,
+					"text": "Cassidy"
+				},{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Hana Song"
+				},{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Mako Rutledge"
+				},{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Siebren de Kuiper"
+				},{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Hammond"
+				},{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Aleksandra Zaryanova"
+				},{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Siege Automaton E54"
+				},{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Cole Cassidy"
+				},{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Akande Ogundimu"
+				},{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Fareeha Amari"
+				},{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Jamison Fawkes"
+				},{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Gabriel Reyes"
+				},{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Olivia Colomar"
+				},{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Satya Vaswani"
+				},{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Lena Oxton"
+				},{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Amelie Lacroix"
+				},{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Angela Ziegler"
+				},{
+					"difficulty": 0,
 					"correct": false,
 					"text": "Phoenix"
 				}, {
@@ -2885,6 +2953,18 @@
 					"difficulty": 0,
 					"correct": false,
 					"text": "Athena"
+				},{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Efi Oladele"
+				},{
+					"difficulty": 0,
+					"correct": false,
+					"text": "McCree"
+				},{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Jesse McCree"
 				}
 			],
 			"us": false
@@ -8782,7 +8862,7 @@
 					"text": "stpeach"
 				}, {
 					"difficulty": 0,
-					"correct": false,
+					"correct": true,
 					"text": "csgomc_ru"
 				}, {
 					"difficulty": 0,
@@ -8794,7 +8874,7 @@
 					"text": "botezlive"
 				}, {
 					"difficulty": 0,
-					"correct": false,
+					"correct": true,
 					"text": "tarik"
 				}, {
 					"difficulty": 0,
@@ -8894,7 +8974,7 @@
 					"text": "CodeMiko"
 				}, {
 					"difficulty": 0,
-					"correct": false,
+					"correct": true,
 					"text": "PGL"
 				}, {
 					"difficulty": 0,
@@ -14500,6 +14580,10 @@
 					"difficulty": 0,
 					"correct": true,
 					"text": "soy"
+				}, {
+					"difficulty": 0,
+					"correct": true,
+					"text": "Half Tunisian"
 				}, {
 					"difficulty": 0,
 					"correct": false,
