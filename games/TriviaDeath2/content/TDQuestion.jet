@@ -6042,6 +6042,160 @@
 			],
 			"us": false,
 			"hasIntro": false
-		}
+		},  {
+      "hasOutro": false,
+      "x": false,
+      "id": 89700,
+      "text": "How many episodes of Radio Kappa are there?",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "15"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "11"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "12"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "23"
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 89701,
+      "text": "How many people died in the 1989 Tiananmen Square massacre? (official figure)",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "218"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "7493"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "194"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "Nothing happened on June 4, 1989"
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 89702,
+      "text": "how do we turn off notifications? how? in game, how?",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "Xbox game bar -> Settings -> Notifications -> Uncheck notify me... boxes"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "Go offline on Xbox Live"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "Xbox Console Companion -> Settings -> Do not disturb"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "System -> Notifications and actions -> uncheck Get notifications from apps"
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 89703,
+      "text": "When was nani's last stream?",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "Apr 9, 2020"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "Jan 6, 2021"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "Nov 27, 2020"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "Dec 25, 2020"
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 89704,
+      "text": "What did nani play on her last stream?",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "Valorant"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "Hearthstone"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "Dark Souls"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "Animal Crossing: New Horizons"
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    }
 	]
 }
