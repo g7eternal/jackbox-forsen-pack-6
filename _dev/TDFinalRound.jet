@@ -51,7 +51,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "Reese’s Peanut Butter Cup OREO"
+					"text": "Reese\u2019s Peanut Butter Cup OREO"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -70,7 +70,7 @@
 		}, {
 			"x": false,
 			"id": 57232,
-			"text": "Words that are NOT “Bear”",
+			"text": "Words that are NOT \u201cBear\u201d",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -232,7 +232,7 @@
 		}, {
 			"x": false,
 			"id": 55302,
-			"text": "Winners of <i>RuPaul’s Drag Race</i>",
+			"text": "Winners of <i>RuPaul\u2019s Drag Race<\/i>",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -300,7 +300,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "Victoria “Porkchop” Parker"
+					"text": "Victoria \u201cPorkchop\u201d Parker"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -319,59 +319,59 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Tales of a Fourth Grade Nothing</i>"
+					"text": "<i>Tales of a Fourth Grade Nothing<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Freckle Juice</i>"
+					"text": "<i>Freckle Juice<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Are You There God? It’s Me, Margaret</i>"
+					"text": "<i>Are You There God? It\u2019s Me, Margaret<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Superfudge</i>"
+					"text": "<i>Superfudge<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Double Fudge</i>"
+					"text": "<i>Double Fudge<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Fudge-a-Mania</i>"
+					"text": "<i>Fudge-a-Mania<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Blubber</i>"
+					"text": "<i>Blubber<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Otherwise Known as Sheila the Great</i>"
+					"text": "<i>Otherwise Known as Sheila the Great<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Fudge Fudge Lemonade</i>"
+					"text": "<i>Fudge Fudge Lemonade<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Flubber</i>"
+					"text": "<i>Flubber<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Stinky the Goof</i>"
+					"text": "<i>Stinky the Goof<\/i>"
 				}, {
 					"difficulty": -1,
 					"correct": false,
-					"text": "<i>The Hunger Games</i>"
+					"text": "<i>The Hunger Games<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Number the Stars</i>"
+					"text": "<i>Number the Stars<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>From the Mixed-up Files of Mrs. Basil E. Frankweiler</i>"
+					"text": "<i>From the Mixed-up Files of Mrs. Basil E. Frankweiler<\/i>"
 				}
 			],
 			"us": true
@@ -382,193 +382,193 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Miser</i>"
+					"text": "<i>The Miser<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Tartuffe</i>"
+					"text": "<i>Tartuffe<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Misanthrope</i>"
+					"text": "<i>The Misanthrope<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Imaginary Invalid</i>"
+					"text": "<i>The Imaginary Invalid<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The School for Wives</i>"
+					"text": "<i>The School for Wives<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The School for Husbands</i>"
+					"text": "<i>The School for Husbands<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Bourgeois Gentleman</i>"
+					"text": "<i>The Bourgeois Gentleman<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Don Juan</i>"
+					"text": "<i>Don Juan<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Learned Ladies</i>"
+					"text": "<i>The Learned Ladies<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>A Hotel for Dogs</i>"
+					"text": "<i>A Hotel for Dogs<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Misalliance</i>"
+					"text": "<i>The Misalliance<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The School for Scandal</i>"
+					"text": "<i>The School for Scandal<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Cruel Intentions</i>"
+					"text": "<i>Cruel Intentions<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Love Doctor</i>"
+					"text": "<i>The Love Doctor<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Rivals</i>"
+					"text": "<i>The Rivals<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Country Wife</i>"
+					"text": "<i>The Country Wife<\/i>"
 				}
 			],
 			"us": false
 		}, {
 			"x": false,
 			"id": 55821,
-			"text": "<i>Chronicles of Narnia</i> Books",
+			"text": "<i>Chronicles of Narnia<\/i> Books",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Magician’s Nephew</i>"
+					"text": "<i>The Magician\u2019s Nephew<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Lion, the Witch and the Wardrobe</i>"
+					"text": "<i>The Lion, the Witch and the Wardrobe<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Horse and His Boy</i>"
+					"text": "<i>The Horse and His Boy<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Prince Caspian</i>"
+					"text": "<i>Prince Caspian<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Voyage of the Dawn Treader</i>"
+					"text": "<i>The Voyage of the Dawn Treader<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Silver Chair</i>"
+					"text": "<i>The Silver Chair<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Last Battle</i>"
+					"text": "<i>The Last Battle<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Lion King</i>"
+					"text": "<i>The Lion King<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Bedknobs and Broomsticks</i>"
+					"text": "<i>Bedknobs and Broomsticks<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Witches</i>"
+					"text": "<i>The Witches<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Deathly Hallows</i>"
+					"text": "<i>The Deathly Hallows<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Breaking Dawn</i>"
+					"text": "<i>Breaking Dawn<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>New Moon</i>"
+					"text": "<i>New Moon<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Eclipse</i>"
+					"text": "<i>Eclipse<\/i>"
 				}
 			],
 			"us": false
 		}, {
 			"x": false,
 			"id": 55310,
-			"text": "Lines From Liam Neeson’s Speech in <i>Taken</i>",
+			"text": "Lines From Liam Neeson\u2019s Speech in <i>Taken<\/i>",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "“I don’t know who you are.”"
+					"text": "\u201cI don\u2019t know who you are.\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“I don’t know what you want.”"
+					"text": "\u201cI don\u2019t know what you want.\u201d"
 				}, {
 					"difficulty": -1,
 					"correct": true,
-					"text": "“I do have a very particular set of skills.”"
+					"text": "\u201cI do have a very particular set of skills.\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“I will look for you.”"
+					"text": "\u201cI will look for you.\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“I will find you.”"
+					"text": "\u201cI will find you.\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“I will kill you.”"
+					"text": "\u201cI will kill you.\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“I can tell you I don’t have money.”"
+					"text": "\u201cI can tell you I don\u2019t have money.\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Tell me who you are.”"
+					"text": "\u201cTell me who you are.\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Ask yourself this one question.”"
+					"text": "\u201cAsk yourself this one question.\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“I’m right behind you.”"
+					"text": "\u201cI\u2019m right behind you.\u201d"
 				}, {
 					"difficulty": -1,
 					"correct": false,
-					"text": "“I’ve got more skills than dollar bills.”"
+					"text": "\u201cI\u2019ve got more skills than dollar bills.\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Pop quiz, hot shot.”"
+					"text": "\u201cPop quiz, hot shot.\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Get off my plane.”"
+					"text": "\u201cGet off my plane.\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Where can I pick up my daughter?”"
+					"text": "\u201cWhere can I pick up my daughter?\u201d"
 				}
 			],
 			"us": false
@@ -646,87 +646,87 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Christmas at Pemberley Manor</i>"
+					"text": "<i>Christmas at Pemberley Manor<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Christmas Joy</i>"
+					"text": "<i>Christmas Joy<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Road to Christmas</i>"
+					"text": "<i>Road to Christmas<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>It’s Christmas, Eve</i>"
+					"text": "<i>It\u2019s Christmas, Eve<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Christmas in Love</i>"
+					"text": "<i>Christmas in Love<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Christmas at Graceland</i>"
+					"text": "<i>Christmas at Graceland<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Reunited at Christmas</i>"
+					"text": "<i>Reunited at Christmas<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Christmas at the Palace</i>"
+					"text": "<i>Christmas at the Palace<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Pride, Prejudice and Mistletoe</i>"
+					"text": "<i>Pride, Prejudice and Mistletoe<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Christmas Everlasting</i>"
+					"text": "<i>Christmas Everlasting<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>A Shoe Addict’s Christmas</i>"
+					"text": "<i>A Shoe Addict\u2019s Christmas<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>A Majestic Christmas</i>"
+					"text": "<i>A Majestic Christmas<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Homegrown Christmas</i>"
+					"text": "<i>Homegrown Christmas<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Welcome to Christmas</i>"
+					"text": "<i>Welcome to Christmas<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Entertaining Christmas</i>"
+					"text": "<i>Entertaining Christmas<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>A Gingerbread Romance</i>"
+					"text": "<i>A Gingerbread Romance<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Jingle Around the Clock</i>"
+					"text": "<i>Jingle Around the Clock<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i> Christmas Made to Order</i>"
+					"text": "<i> Christmas Made to Order<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>When Calls the Heart Christmas</i>"
+					"text": "<i>When Calls the Heart Christmas<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>A Midnight Kiss</i>"
+					"text": "<i>A Midnight Kiss<\/i>"
 				}, {
 					"difficulty": 1,
 					"correct": false,
-					"text": "<i>Uncle Christmas Rides Again</i>"
+					"text": "<i>Uncle Christmas Rides Again<\/i>"
 				}
 			],
 			"us": true
@@ -812,59 +812,59 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Beach Blanket Bingo</i>"
+					"text": "<i>Beach Blanket Bingo<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Pajama Party</i>"
+					"text": "<i>Pajama Party<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Bikini Beach</i>"
+					"text": "<i>Bikini Beach<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Muscle Beach Party</i>"
+					"text": "<i>Muscle Beach Party<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Beach Party</i>"
+					"text": "<i>Beach Party<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>How to Stuff a Wild Bikini</i>"
+					"text": "<i>How to Stuff a Wild Bikini<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Dr. Goldfoot and the Bikini Machine</i>"
+					"text": "<i>Dr. Goldfoot and the Bikini Machine<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Psycho Bikini Party</i>"
+					"text": "<i>Psycho Bikini Party<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Boom Boom Bikini</i>"
+					"text": "<i>Boom Boom Bikini<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Bikini Dogs</i>"
+					"text": "<i>Bikini Dogs<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Beach Patrol</i>"
+					"text": "<i>Beach Patrol<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Sandy Pants</i>"
+					"text": "<i>Sandy Pants<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Two Piece Bucket Party</i>"
+					"text": "<i>Two Piece Bucket Party<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Suntan Slumber Party</i>"
+					"text": "<i>Suntan Slumber Party<\/i>"
 				}
 			],
 			"us": true
@@ -934,7 +934,7 @@
 		}, {
 			"x": false,
 			"id": 55715,
-			"text": "Snoopy’s Siblings",
+			"text": "Snoopy\u2019s Siblings",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -986,240 +986,240 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "Lil’ Petey"
+					"text": "Lil\u2019 Petey"
 				}
 			],
 			"us": true
 		}, {
 			"x": false,
 			"id": 55207,
-			"text": "<i>Black Mirror</i> Episodes",
+			"text": "<i>Black Mirror<\/i> Episodes",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "“San Junipero”"
+					"text": "\u201cSan Junipero\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Be Right Back”"
+					"text": "\u201cBe Right Back\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Nosedive”"
+					"text": "\u201cNosedive\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Hang the DJ”"
+					"text": "\u201cHang the DJ\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Shut Up and Dance”"
+					"text": "\u201cShut Up and Dance\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Playtest”"
+					"text": "\u201cPlaytest\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Crocodile”"
+					"text": "\u201cCrocodile\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“San Junipero”"
+					"text": "\u201cSan Junipero\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“The National Anthem”"
+					"text": "\u201cThe National Anthem\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“White Bear”"
+					"text": "\u201cWhite Bear\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Arkangel”"
+					"text": "\u201cArkangel\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Eye of the Beholder”"
+					"text": "\u201cEye of the Beholder\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“The Hitch-Hiker”"
+					"text": "\u201cThe Hitch-Hiker\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“The Invaders”"
+					"text": "\u201cThe Invaders\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“It’s a Good Life”"
+					"text": "\u201cIt\u2019s a Good Life\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“The Lonely”"
+					"text": "\u201cThe Lonely\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“The Monsters Are Due on Maple Street”"
+					"text": "\u201cThe Monsters Are Due on Maple Street\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Nightmare at 20,000 Feet”"
+					"text": "\u201cNightmare at 20,000 Feet\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Time Enough at Last”"
+					"text": "\u201cTime Enough at Last\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Living Doll”"
+					"text": "\u201cLiving Doll\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Striking Vipers”"
+					"text": "\u201cStriking Vipers\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Smithereens”"
+					"text": "\u201cSmithereens\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Rachel, Jack and Ashley Too”"
+					"text": "\u201cRachel, Jack and Ashley Too\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Hated in the Nation”"
+					"text": "\u201cHated in the Nation\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Metalhead”"
+					"text": "\u201cMetalhead\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Not All Men”"
+					"text": "\u201cNot All Men\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Six Degrees of Freedom”"
+					"text": "\u201cSix Degrees of Freedom\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Replay”"
+					"text": "\u201cReplay\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Blurryman”"
+					"text": "\u201cBlurryman\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Point of Origin”"
+					"text": "\u201cPoint of Origin\u201d"
 				}
 			],
 			"us": false
 		}, {
 			"x": false,
 			"id": 55208,
-			"text": "Stories in <i>The Canterbury Tales</i>",
+			"text": "Stories in <i>The Canterbury Tales<\/i>",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "The Knight’s Tale"
+					"text": "The Knight\u2019s Tale"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "The Miller’s Tale"
+					"text": "The Miller\u2019s Tale"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "The Reeve’s Tale"
+					"text": "The Reeve\u2019s Tale"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "The Cook’s Tale"
+					"text": "The Cook\u2019s Tale"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "The Man of Law’s Tale"
+					"text": "The Man of Law\u2019s Tale"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "The Shipman’s Tale"
+					"text": "The Shipman\u2019s Tale"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "The Prioress’s Tale"
+					"text": "The Prioress\u2019s Tale"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "The Monk’s Tale"
+					"text": "The Monk\u2019s Tale"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "The Wife of Bath’s Tale"
+					"text": "The Wife of Bath\u2019s Tale"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "The Friar’s Tale"
+					"text": "The Friar\u2019s Tale"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "The Summoner’s Tale"
+					"text": "The Summoner\u2019s Tale"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "The Physician’s Tale"
+					"text": "The Physician\u2019s Tale"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "The Merchant’s Tale"
+					"text": "The Merchant\u2019s Tale"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "The Second Nun’s Tale"
+					"text": "The Second Nun\u2019s Tale"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "The Squire’s Tale"
+					"text": "The Squire\u2019s Tale"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "The Queen’s Tale"
+					"text": "The Queen\u2019s Tale"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "The King’s Tale"
+					"text": "The King\u2019s Tale"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "The Farmer’s Tale"
+					"text": "The Farmer\u2019s Tale"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "The Jester’s Tale"
+					"text": "The Jester\u2019s Tale"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "The Carpenter’s Tale"
+					"text": "The Carpenter\u2019s Tale"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "The Falconer’s Tale"
+					"text": "The Falconer\u2019s Tale"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "The Spinster’s Tale"
+					"text": "The Spinster\u2019s Tale"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "The Barber’s Tale"
+					"text": "The Barber\u2019s Tale"
 				}
 			],
 			"us": false
 		}, {
 			"x": false,
 			"id": 55246,
-			"text": "Wrestlers from Netflix’s <i>GLOW</i>",
+			"text": "Wrestlers from Netflix\u2019s <i>GLOW<\/i>",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -1286,11 +1286,11 @@
 		}, {
 			"x": false,
 			"id": 55255,
-			"text": "Locations in <i>Game of Thrones</i>",
+			"text": "Locations in <i>Game of Thrones<\/i>",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "King’s Landing"
+					"text": "King\u2019s Landing"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -1479,67 +1479,67 @@
 		}, {
 			"x": false,
 			"id": 55272,
-			"text": "Songs from <i>Grease 2</i>",
+			"text": "Songs from <i>Grease 2<\/i>",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Back To School Again”"
+					"text": "\u201cBack To School Again\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Cool Rider”"
+					"text": "\u201cCool Rider\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Score Tonight”"
+					"text": "\u201cScore Tonight\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Girl For All Seasons”"
+					"text": "\u201cGirl For All Seasons\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Do It For Our Country”"
+					"text": "\u201cDo It For Our Country\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Who’s That Guy?”"
+					"text": "\u201cWho\u2019s That Guy?\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Prowlin’”"
+					"text": "\u201cProwlin\u2019\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Reproduction”"
+					"text": "\u201cReproduction\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Rock-A-Hula-Luau”"
+					"text": "\u201cRock-A-Hula-Luau\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“We’ll Be Together”"
+					"text": "\u201cWe\u2019ll Be Together\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Wham Bam”"
+					"text": "\u201cWham Bam\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Here We Go Again”"
+					"text": "\u201cHere We Go Again\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Greasy Living”"
+					"text": "\u201cGreasy Living\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“I’m Loving It”"
+					"text": "\u201cI\u2019m Loving It\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Let’s Play Golf”"
+					"text": "\u201cLet\u2019s Play Golf\u201d"
 				}
 			],
 			"us": true
@@ -1550,79 +1550,79 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Wonder Woman</i>"
+					"text": "<i>Wonder Woman<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Sleepless in Seattle</i>"
+					"text": "<i>Sleepless in Seattle<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Frozen</i>"
+					"text": "<i>Frozen<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Big</i>"
+					"text": "<i>Big<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Clueless</i>"
+					"text": "<i>Clueless<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>A League of Their Own</i>"
+					"text": "<i>A League of Their Own<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Zero Dark Thirty</i>"
+					"text": "<i>Zero Dark Thirty<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Selma</i>"
+					"text": "<i>Selma<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Babadook</i>"
+					"text": "<i>The Babadook<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Point Break</i>"
+					"text": "<i>Point Break<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>When Harry Met Sally...</i>"
+					"text": "<i>When Harry Met Sally...<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Shape of Water</i>"
+					"text": "<i>The Shape of Water<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Pretty Woman</i>"
+					"text": "<i>Pretty Woman<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Terminator</i>"
+					"text": "<i>The Terminator<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Kill Bill</i>"
+					"text": "<i>Kill Bill<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Ready Player One</i>"
+					"text": "<i>Ready Player One<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Fargo</i>"
+					"text": "<i>Fargo<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Get Out</i>"
+					"text": "<i>Get Out<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Back to the Future</i>"
+					"text": "<i>Back to the Future<\/i>"
 				}
 			],
 			"us": true
@@ -1720,71 +1720,71 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Time Machine</i>"
+					"text": "<i>The Time Machine<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>About Time</i>"
+					"text": "<i>About Time<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Midnight in Paris</i>"
+					"text": "<i>Midnight in Paris<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Time After Time</i>"
+					"text": "<i>Time After Time<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Edge of Tomorrow</i>"
+					"text": "<i>Edge of Tomorrow<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Time Bandits</i>"
+					"text": "<i>Time Bandits<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Somewhere in Time</i>"
+					"text": "<i>Somewhere in Time<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Hot Tub Time Machine</i>"
+					"text": "<i>Hot Tub Time Machine<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Blast From the Past</i>"
+					"text": "<i>Blast From the Past<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>A Time to Kill</i>"
+					"text": "<i>A Time to Kill<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>In Time</i>"
+					"text": "<i>In Time<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Day After Tomorrow</i>"
+					"text": "<i>The Day After Tomorrow<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Modern Times</i>"
+					"text": "<i>Modern Times<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Tomorrow Never Dies</i>"
+					"text": "<i>Tomorrow Never Dies<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>127 Hours</i>"
+					"text": "<i>127 Hours<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>From Dusk Till Dawn</i>"
+					"text": "<i>From Dusk Till Dawn<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Nick of Time</i>"
+					"text": "<i>Nick of Time<\/i>"
 				}
 			],
 			"us": false
@@ -1795,83 +1795,83 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "“a heel”"
+					"text": "\u201ca heel\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“a bad banana”"
+					"text": "\u201ca bad banana\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“charming as an eel”"
+					"text": "\u201ccharming as an eel\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“a monster”"
+					"text": "\u201ca monster\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“brain is full of spiders”"
+					"text": "\u201cbrain is full of spiders\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“got garlic in your soul”"
+					"text": "\u201cgot garlic in your soul\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“a rotter”"
+					"text": "\u201ca rotter\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“a nasty-wasty skunk”"
+					"text": "\u201ca nasty-wasty skunk\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“king of sinful sots”"
+					"text": "\u201cking of sinful sots\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“a crooked dirty jockey”"
+					"text": "\u201ca crooked dirty jockey\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“a filthy cheat”"
+					"text": "\u201ca filthy cheat\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“a fraud”"
+					"text": "\u201ca fraud\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“tongue-tied tyrant”"
+					"text": "\u201ctongue-tied tyrant\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“heart’s a burnt-out coal”"
+					"text": "\u201cheart\u2019s a burnt-out coal\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“a devil”"
+					"text": "\u201ca devil\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“a naughty-haughty boy”"
+					"text": "\u201ca naughty-haughty boy\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“toes are wriggly worms”"
+					"text": "\u201ctoes are wriggly worms\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“a rapscallion”"
+					"text": "\u201ca rapscallion\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“master of all lies”"
+					"text": "\u201cmaster of all lies\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“a big ol’ garbage pile”"
+					"text": "\u201ca big ol\u2019 garbage pile\u201d"
 				}
 			],
 			"us": false
@@ -2194,7 +2194,7 @@
 		}, {
 			"x": false,
 			"id": 55826,
-			"text": "<i>Matrix</i> Characters",
+			"text": "<i>Matrix<\/i> Characters",
 			"choices": [{
 					"difficulty": -1,
 					"correct": true,
@@ -2360,55 +2360,55 @@
 		}, {
 			"x": false,
 			"id": 55335,
-			"text": "Marie Kondo’s Rules of Tidying",
+			"text": "Marie Kondo\u2019s Rules of Tidying",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Commit yourself to tidying up”"
+					"text": "\u201cCommit yourself to tidying up\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Imagine your ideal lifestyle”"
+					"text": "\u201cImagine your ideal lifestyle\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Finish discarding first”"
+					"text": "\u201cFinish discarding first\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Tidy by category, not by location”"
+					"text": "\u201cTidy by category, not by location\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Follow the right order”"
+					"text": "\u201cFollow the right order\u201d"
 				}, {
 					"difficulty": -1,
 					"correct": true,
-					"text": "“Ask yourself if it sparks joy”"
+					"text": "\u201cAsk yourself if it sparks joy\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Block out full days for cleaning”"
+					"text": "\u201cBlock out full days for cleaning\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Do not be overwhelmed by emotion”"
+					"text": "\u201cDo not be overwhelmed by emotion\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Remove the thing you love the most first”"
+					"text": "\u201cRemove the thing you love the most first\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Fill your home with music, not things”"
+					"text": "\u201cFill your home with music, not things\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Tidy every space twice”"
+					"text": "\u201cTidy every space twice\u201d"
 				}, {
 					"difficulty": -1,
 					"correct": false,
-					"text": "“Do not talk about tidying up”"
+					"text": "\u201cDo not talk about tidying up\u201d"
 				}
 			],
 			"us": false
@@ -2490,7 +2490,7 @@
 		}, {
 			"x": false,
 			"id": 55338,
-			"text": "Actors in <i>Sharknado</i> 1-5",
+			"text": "Actors in <i>Sharknado<\/i> 1-5",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -2652,74 +2652,74 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Carmen</i>"
+					"text": "<i>Carmen<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>La bohème</i>"
+					"text": "<i>La bohème<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Marriage of Figaro</i>"
+					"text": "<i>The Marriage of Figaro<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Don Giovanni</i>"
+					"text": "<i>Don Giovanni<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Madame Butterfly</i>"
+					"text": "<i>Madame Butterfly<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Magic Flute</i>"
+					"text": "<i>The Magic Flute<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Rigoletto</i>"
+					"text": "<i>Rigoletto<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Pagliacci</i>"
+					"text": "<i>Pagliacci<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Carbonara</i>"
+					"text": "<i>Carbonara<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Joyful Fiance</i>"
+					"text": "<i>The Joyful Fiance<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Bellucci</i>"
+					"text": "<i>Bellucci<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Phantom</i>"
+					"text": "<i>The Phantom<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Pennies From Heaven</i>"
+					"text": "<i>Pennies From Heaven<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Too Many Husbands</i>"
+					"text": "<i>Too Many Husbands<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>My Fair Lady</i>"
+					"text": "<i>My Fair Lady<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Sophia Lauren</i>"
+					"text": "<i>Sophia Lauren<\/i>"
 				}
 			],
 			"us": false
 		}, {
 			"x": false,
 			"id": 55345,
-			"text": "<i>World of Warcraft</i> Playable Classes",
+			"text": "<i>World of Warcraft<\/i> Playable Classes",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -2798,7 +2798,7 @@
 		}, {
 			"x": false,
 			"id": 56945,
-			"text": "Cats in the Musical <i>Cats</i>",
+			"text": "Cats in the Musical <i>Cats<\/i>",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -3051,7 +3051,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "devil’s tongue"
+					"text": "devil\u2019s tongue"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -3091,7 +3091,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "Dante’s revenge"
+					"text": "Dante\u2019s revenge"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -3110,126 +3110,126 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Sleeping Beauty</i>"
+					"text": "<i>Sleeping Beauty<\/i>"
 				}, {
 					"difficulty": -1,
 					"correct": true,
-					"text": "<i>The Little Mermaid</i>"
+					"text": "<i>The Little Mermaid<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Mulan</i>"
+					"text": "<i>Mulan<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Moana</i>"
+					"text": "<i>Moana<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Tangled</i>"
+					"text": "<i>Tangled<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Bambi</i>"
+					"text": "<i>Bambi<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Hercules</i>"
+					"text": "<i>Hercules<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Tarzan</i>"
+					"text": "<i>Tarzan<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Pocahontas</i>"
+					"text": "<i>Pocahontas<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Last Unicorn</i>"
+					"text": "<i>The Last Unicorn<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Shrek</i>"
+					"text": "<i>Shrek<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Prince of Egypt</i>"
+					"text": "<i>The Prince of Egypt<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Swan Princess</i>"
+					"text": "<i>The Swan Princess<\/i>"
 				}
 			],
 			"us": true
 		}, {
 			"x": false,
 			"id": 55948,
-			"text": "Beatles’ Songs",
+			"text": "Beatles\u2019 Songs",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Yesterday”"
+					"text": "\u201cYesterday\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Let It Be”"
+					"text": "\u201cLet It Be\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“I Want To Hold Your Hand”"
+					"text": "\u201cI Want To Hold Your Hand\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Something”"
+					"text": "\u201cSomething\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Hey Jude”"
+					"text": "\u201cHey Jude\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Hello Goodbye”"
+					"text": "\u201cHello Goodbye\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“A Day In The Life”"
+					"text": "\u201cA Day In The Life\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“All You Need Is Love”"
+					"text": "\u201cAll You Need Is Love\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Yellow Submarine”"
+					"text": "\u201cYellow Submarine\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Ob-La-Di, Ob-La-Da”"
+					"text": "\u201cOb-La-Di, Ob-La-Da\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Goodbye Hello”"
+					"text": "\u201cGoodbye Hello\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Satisfaction”"
+					"text": "\u201cSatisfaction\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Behind Blue Eyes”"
+					"text": "\u201cBehind Blue Eyes\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Scarborough Fair”"
+					"text": "\u201cScarborough Fair\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Love Shack”"
+					"text": "\u201cLove Shack\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“I Want It That Way”"
+					"text": "\u201cI Want It That Way\u201d"
 				}
 			],
 			"us": false
@@ -3457,7 +3457,7 @@
 		}, {
 			"x": false,
 			"id": 55490,
-			"text": "<i>Sesame Street</i> Residents",
+			"text": "<i>Sesame Street<\/i> Residents",
 			"choices": [{
 					"difficulty": -1,
 					"correct": true,
@@ -3698,7 +3698,7 @@
 		}, {
 			"x": false,
 			"id": 56016,
-			"text": "Detective on a <i>Law & Order</i> Show",
+			"text": "Detective on a <i>Law & Order<\/i> Show",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -3753,79 +3753,79 @@
 		}, {
 			"x": false,
 			"id": 55507,
-			"text": "<i>Scary Stories to Tell in the Dark</i>",
+			"text": "<i>Scary Stories to Tell in the Dark<\/i>",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "“The Hook”"
+					"text": "\u201cThe Hook\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“The Haunted House”"
+					"text": "\u201cThe Haunted House\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“High Beams”"
+					"text": "\u201cHigh Beams\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“The Babysitter”"
+					"text": "\u201cThe Babysitter\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Cold as Clay”"
+					"text": "\u201cCold as Clay\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“The Hearse Song”"
+					"text": "\u201cThe Hearse Song\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“May I Carry Your Basket?”"
+					"text": "\u201cMay I Carry Your Basket?\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“The Big Toe”"
+					"text": "\u201cThe Big Toe\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Room for One More”"
+					"text": "\u201cRoom for One More\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Trapped in the Phantom Zone”"
+					"text": "\u201cTrapped in the Phantom Zone\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“The Tell-Tale Heart”"
+					"text": "\u201cThe Tell-Tale Heart\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“That’s No Moon”"
+					"text": "\u201cThat\u2019s No Moon\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“The Monkey’s Paw”"
+					"text": "\u201cThe Monkey\u2019s Paw\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Big Knife”"
+					"text": "\u201cBig Knife\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“The Lawnmower Man”"
+					"text": "\u201cThe Lawnmower Man\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Dead Fred”"
+					"text": "\u201cDead Fred\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“The Indoor Kid”"
+					"text": "\u201cThe Indoor Kid\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Nightmare at 20,000 Feet”"
+					"text": "\u201cNightmare at 20,000 Feet\u201d"
 				}
 			],
 			"us": false
@@ -3923,7 +3923,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "Siggi’s"
+					"text": "Siggi\u2019s"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -3955,7 +3955,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "Russia’s Best"
+					"text": "Russia\u2019s Best"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -4053,7 +4053,7 @@
 		}, {
 			"x": false,
 			"id": 55531,
-			"text": "Fellowship members in <i>Fellowship of the Ring</i>",
+			"text": "Fellowship members in <i>Fellowship of the Ring<\/i>",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -4433,7 +4433,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "Don’t Trip"
+					"text": "Don\u2019t Trip"
 				}
 			],
 			"us": true
@@ -4681,83 +4681,83 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Jack & Jill</i>"
+					"text": "<i>Jack & Jill<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Along Came a Spider</i>"
+					"text": "<i>Along Came a Spider<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Four Blind Mice</i>"
+					"text": "<i>Four Blind Mice<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Pop Goes the Weasel</i>"
+					"text": "<i>Pop Goes the Weasel<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Violets are Blue</i>"
+					"text": "<i>Violets are Blue<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Hope to Die</i>"
+					"text": "<i>Hope to Die<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Roses Are Red</i>"
+					"text": "<i>Roses Are Red<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Big Bad Wolf</i>"
+					"text": "<i>The Big Bad Wolf<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Cradle and All</i>"
+					"text": "<i>Cradle and All<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Kiss the Girls</i>"
+					"text": "<i>Kiss the Girls<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Little Miss Muffet</i>"
+					"text": "<i>Little Miss Muffet<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Hickory Dickory Dock</i>"
+					"text": "<i>Hickory Dickory Dock<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>All Fall Down</i>"
+					"text": "<i>All Fall Down<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Short and Stout</i>"
+					"text": "<i>Short and Stout<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Fuzzy Wuzzy</i>"
+					"text": "<i>Fuzzy Wuzzy<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Rub-A-Dub-Dub</i>"
+					"text": "<i>Rub-A-Dub-Dub<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Knife and the Spoon</i>"
+					"text": "<i>Knife and the Spoon<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Blow Your House Down</i>"
+					"text": "<i>Blow Your House Down<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Cat’s Cradle</i>"
+					"text": "<i>Cat\u2019s Cradle<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Old Mother Hubbard</i>"
+					"text": "<i>Old Mother Hubbard<\/i>"
 				}
 			],
 			"us": false
@@ -4804,7 +4804,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "Reese’s Cup"
+					"text": "Reese\u2019s Cup"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -4851,7 +4851,7 @@
 		}, {
 			"x": false,
 			"id": 55192,
-			"text": "Monsters Mentioned in the Song “The Monster Mash”",
+			"text": "Monsters Mentioned in the Song \u201cThe Monster Mash\u201d",
 			"choices": [{
 					"difficulty": -1,
 					"correct": true,
@@ -4867,7 +4867,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "Dracula’s Son"
+					"text": "Dracula\u2019s Son"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -4911,7 +4911,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "Dracula’s Bride"
+					"text": "Dracula\u2019s Bride"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -4942,83 +4942,83 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Catcher in the Rye</i>"
+					"text": "<i>The Catcher in the Rye<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Hunger Games</i>"
+					"text": "<i>The Hunger Games<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>To Kill a Mockingbird</i>"
+					"text": "<i>To Kill a Mockingbird<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Moby Dick</i>"
+					"text": "<i>Moby Dick<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Great Gatsby</i>"
+					"text": "<i>The Great Gatsby<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Life of Pi</i>"
+					"text": "<i>Life of Pi<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Twilight</i>"
+					"text": "<i>Twilight<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Gulliver’s Travels</i>"
+					"text": "<i>Gulliver\u2019s Travels<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Adventures of Huckleberry Finn</i>"
+					"text": "<i>Adventures of Huckleberry Finn<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Color Purple</i>"
+					"text": "<i>The Color Purple<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Harry Potter and the Sorcerer’s Stone</i>"
+					"text": "<i>Harry Potter and the Sorcerer\u2019s Stone<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>1984</i>"
+					"text": "<i>1984<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Hitchhiker’s Guide to the Galaxy</i>"
+					"text": "<i>The Hitchhiker\u2019s Guide to the Galaxy<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Scarlet Letter</i>"
+					"text": "<i>The Scarlet Letter<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>A Game of Thrones</i>"
+					"text": "<i>A Game of Thrones<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Pride and Prejudice</i>"
+					"text": "<i>Pride and Prejudice<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Lord of the Flies</i>"
+					"text": "<i>Lord of the Flies<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>A Tale of Two Cities</i>"
+					"text": "<i>A Tale of Two Cities<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Anna Karenina</i>"
+					"text": "<i>Anna Karenina<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>War and Peace</i>"
+					"text": "<i>War and Peace<\/i>"
 				}
 			],
 			"us": true
@@ -5029,79 +5029,79 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Cats</i>"
+					"text": "<i>Cats<\/i>"
 				}, {
 					"difficulty": -1,
 					"correct": true,
-					"text": "<i>The Phantom of the Opera</i>"
+					"text": "<i>The Phantom of the Opera<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Evita</i>"
+					"text": "<i>Evita<\/i>"
 				}, {
 					"difficulty": -1,
 					"correct": true,
-					"text": "<i>Jesus Christ Superstar</i>"
+					"text": "<i>Jesus Christ Superstar<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Joseph and the Amazing Technicolor Dreamcoat</i>"
+					"text": "<i>Joseph and the Amazing Technicolor Dreamcoat<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Starlight Express</i>"
+					"text": "<i>Starlight Express<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Sunset Boulevard</i>"
+					"text": "<i>Sunset Boulevard<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Love Never Dies</i>"
+					"text": "<i>Love Never Dies<\/i>"
 				}, {
 					"difficulty": 1,
 					"correct": true,
-					"text": "<i>School of Rock</i>"
+					"text": "<i>School of Rock<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Into the Woods</i>"
+					"text": "<i>Into the Woods<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Music Man</i>"
+					"text": "<i>The Music Man<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Hairspray</i>"
+					"text": "<i>Hairspray<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Mamma Mia!</i>"
+					"text": "<i>Mamma Mia!<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Producers</i>"
+					"text": "<i>The Producers<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Wicked</i>"
+					"text": "<i>Wicked<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Dreamgirls</i>"
+					"text": "<i>Dreamgirls<\/i>"
 				}, {
 					"difficulty": -1,
 					"correct": false,
-					"text": "<i>Once</i>"
+					"text": "<i>Once<\/i>"
 				}, {
 					"difficulty": 1,
 					"correct": false,
-					"text": "<i>Godspell</i>"
+					"text": "<i>Godspell<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Chess</i>"
+					"text": "<i>Chess<\/i>"
 				}
 			],
 			"us": true
@@ -5120,7 +5120,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "Bret “The Hitman” Hart"
+					"text": "Bret \u201cThe Hitman\u201d Hart"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -5132,7 +5132,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Rowdy” Roddy Piper"
+					"text": "\u201cRowdy\u201d Roddy Piper"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -5156,7 +5156,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "Tom “The Spider” Holl"
+					"text": "Tom \u201cThe Spider\u201d Holl"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -5188,7 +5188,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "Randy “The Ram” Robinson"
+					"text": "Randy \u201cThe Ram\u201d Robinson"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -5433,7 +5433,7 @@
 				}, {
 					"difficulty": -1,
 					"correct": false,
-					"text": "Billy O’Brien"
+					"text": "Billy O\u2019Brien"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -5630,7 +5630,7 @@
 		}, {
 			"x": false,
 			"id": 55718,
-			"text": "Victoria’s Secret Bra Collection",
+			"text": "Victoria\u2019s Secret Bra Collection",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -5689,7 +5689,7 @@
 		}, {
 			"x": false,
 			"id": 55209,
-			"text": "<i>Overwatch</i> Characters",
+			"text": "<i>Overwatch<\/i> Characters",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -5859,7 +5859,7 @@
 		}, {
 			"x": false,
 			"id": 55216,
-			"text": "Things From the Song “My Favorite Things”",
+			"text": "Things From the Song \u201cMy Favorite Things\u201d",
 			"choices": [{
 					"difficulty": -1,
 					"correct": true,
@@ -6124,83 +6124,83 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Campbell’s Soup Cans</i>"
+					"text": "<i>Campbell\u2019s Soup Cans<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Gold Marilyn Monroe</i>"
+					"text": "<i>Gold Marilyn Monroe<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Triple Elvis</i>"
+					"text": "<i>Triple Elvis<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Mick Jagger</i>"
+					"text": "<i>Mick Jagger<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Coca-Cola</i>"
+					"text": "<i>Coca-Cola<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Brillo Boxes</i>"
+					"text": "<i>Brillo Boxes<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Muhammad Ali</i>"
+					"text": "<i>Muhammad Ali<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Superman</i>"
+					"text": "<i>Superman<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Mickey Mouse</i>"
+					"text": "<i>Mickey Mouse<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Banana</i>"
+					"text": "<i>Banana<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Wonder Woman</i>"
+					"text": "<i>Wonder Woman<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Mickey Mantle</i>"
+					"text": "<i>Mickey Mantle<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Oreo Cookie</i>"
+					"text": "<i>Oreo Cookie<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>More Cher</i>"
+					"text": "<i>More Cher<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Budweiser Bottle</i>"
+					"text": "<i>Budweiser Bottle<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Silver Brando</i>"
+					"text": "<i>Silver Brando<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Lone Ranger</i>"
+					"text": "<i>The Lone Ranger<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Godzilla Aftermath</i>"
+					"text": "<i>Godzilla Aftermath<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Count Dracula</i>"
+					"text": "<i>Count Dracula<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Tide Detergent</i>"
+					"text": "<i>Tide Detergent<\/i>"
 				}
 			],
 			"us": true
@@ -6298,83 +6298,83 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Murder on the Orient Express</i>"
+					"text": "<i>Murder on the Orient Express<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>And Then There Were None</i>"
+					"text": "<i>And Then There Were None<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Death on the Nile</i>"
+					"text": "<i>Death on the Nile<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Endless Night</i>"
+					"text": "<i>Endless Night<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Crooked House</i>"
+					"text": "<i>Crooked House<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>A Murder is Announced</i>"
+					"text": "<i>A Murder is Announced<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The A.B.C. Murders</i>"
+					"text": "<i>The A.B.C. Murders<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Peril at End House</i>"
+					"text": "<i>Peril at End House<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Mysterious Affair at Styles</i>"
+					"text": "<i>The Mysterious Affair at Styles<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Death Comes as the End</i>"
+					"text": "<i>Death Comes as the End<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Murder on Oceanic Airline</i>"
+					"text": "<i>Murder on Oceanic Airline<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Strange Case of Verbal Kint</i>"
+					"text": "<i>The Strange Case of Verbal Kint<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Clue</i>"
+					"text": "<i>Clue<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Caribbean Moon</i>"
+					"text": "<i>Caribbean Moon<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Hound of the Baskervilles</i>"
+					"text": "<i>The Hound of the Baskervilles<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Signs of the Zodiac</i>"
+					"text": "<i>The Signs of the Zodiac<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Shutter Island</i>"
+					"text": "<i>Shutter Island<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Murder Next Door</i>"
+					"text": "<i>The Murder Next Door<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>A Lamb to Slaughter</i>"
+					"text": "<i>A Lamb to Slaughter<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>An Abduction in Alabama</i>"
+					"text": "<i>An Abduction in Alabama<\/i>"
 				}
 			],
 			"us": false
@@ -6642,7 +6642,7 @@
 		}, {
 			"x": false,
 			"id": 55242,
-			"text": "<i>Candy Land</i> Locations",
+			"text": "<i>Candy Land<\/i> Locations",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -6848,7 +6848,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "St. Mary’s Church"
+					"text": "St. Mary\u2019s Church"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -6883,7 +6883,7 @@
 		}, {
 			"x": false,
 			"id": 55756,
-			"text": "Animals in <i>Animal Farm</i>",
+			"text": "Animals in <i>Animal Farm<\/i>",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -7029,71 +7029,71 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Rick & Morty</i>"
+					"text": "<i>Rick & Morty<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Aqua Teen Hunger Force</i>"
+					"text": "<i>Aqua Teen Hunger Force<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Boondocks</i>"
+					"text": "<i>The Boondocks<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Venture Bros.</i>"
+					"text": "<i>The Venture Bros.<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Sealab 2021</i>"
+					"text": "<i>Sealab 2021<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Home Movies</i>"
+					"text": "<i>Home Movies<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Mike Tyson Mysteries</i>"
+					"text": "<i>Mike Tyson Mysteries<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>SuperJail!</i>"
+					"text": "<i>SuperJail!<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Squidbillies</i>"
+					"text": "<i>Squidbillies<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Frisky Dingo</i>"
+					"text": "<i>Frisky Dingo<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Captain Shatner</i>"
+					"text": "<i>Captain Shatner<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>BoJack Horseman</i>"
+					"text": "<i>BoJack Horseman<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Ookla the Mok</i>"
+					"text": "<i>Ookla the Mok<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Daria</i>"
+					"text": "<i>Daria<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Big Mouth</i>"
+					"text": "<i>Big Mouth<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Superhero vs. Giant Robot</i>"
+					"text": "<i>Superhero vs. Giant Robot<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Disenchantment</i>"
+					"text": "<i>Disenchantment<\/i>"
 				}
 			],
 			"us": true
@@ -7104,86 +7104,86 @@
 			"choices": [{
 					"difficulty": -1,
 					"correct": true,
-					"text": "“To be or not to be?”"
+					"text": "\u201cTo be or not to be?\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“To thine own self be true.”"
+					"text": "\u201cTo thine own self be true.\u201d"
 				}, {
 					"difficulty": -1,
 					"correct": true,
-					"text": "“Wherefore art thou Romeo?”"
+					"text": "\u201cWherefore art thou Romeo?\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“The lady doth protest too much”"
+					"text": "\u201cThe lady doth protest too much\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Beware the Ides of March.”"
+					"text": "\u201cBeware the Ides of March.\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Now is the winter of our discontent.”"
+					"text": "\u201cNow is the winter of our discontent.\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“My kingdom for a horse!”"
+					"text": "\u201cMy kingdom for a horse!\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Get thee to a nunnery”"
+					"text": "\u201cGet thee to a nunnery\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Brevity is the soul of wit.”"
+					"text": "\u201cBrevity is the soul of wit.\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“What’s done is done.”"
+					"text": "\u201cWhat\u2019s done is done.\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Quoth the Raven, ‘Nevermore’”"
+					"text": "\u201cQuoth the Raven, \u2018Nevermore\u2019\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Terror made me cruel”"
+					"text": "\u201cTerror made me cruel\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“From Hell’s heart I stab at thee.”"
+					"text": "\u201cFrom Hell\u2019s heart I stab at thee.\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“It tolls for thee.”"
+					"text": "\u201cIt tolls for thee.\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“O Captain! My Captain!”"
+					"text": "\u201cO Captain! My Captain!\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“No man is an island.”"
+					"text": "\u201cNo man is an island.\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“If you build it, he will come.”"
+					"text": "\u201cIf you build it, he will come.\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“You can’t handle the truth!”"
+					"text": "\u201cYou can\u2019t handle the truth!\u201d"
 				}, {
 					"difficulty": -1,
 					"correct": false,
-					"text": "“Nobody puts Baby in a corner.”"
+					"text": "\u201cNobody puts Baby in a corner.\u201d"
 				}
 			],
 			"us": false
 		}, {
 			"x": false,
 			"id": 55763,
-			"text": "U.S. <i>Monopoly</i> Streets",
+			"text": "U.S. <i>Monopoly<\/i> Streets",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -7235,7 +7235,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "St. Joan’s Place"
+					"text": "St. Joan\u2019s Place"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -7266,7 +7266,7 @@
 		}, {
 			"x": false,
 			"id": 55764,
-			"text": "<i>Kama Sutra</i> Chapters",
+			"text": "<i>Kama Sutra<\/i> Chapters",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -7333,86 +7333,86 @@
 		}, {
 			"x": false,
 			"id": 55256,
-			"text": "Actual Seasons of <i>Survivor</i>",
+			"text": "Actual Seasons of <i>Survivor<\/i>",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Survivor: Redemption Island</i>"
+					"text": "<i>Survivor: Redemption Island<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Survivor: Millennials vs. Gen X</i>"
+					"text": "<i>Survivor: Millennials vs. Gen X<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Survivor: The Amazon</i>"
+					"text": "<i>Survivor: The Amazon<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Survivor: All-Stars</i>"
+					"text": "<i>Survivor: All-Stars<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Survivor: One World</i>"
+					"text": "<i>Survivor: One World<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Survivor: Heroes vs. Villains</i>"
+					"text": "<i>Survivor: Heroes vs. Villains<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Survivor: Blood vs. Water</i>"
+					"text": "<i>Survivor: Blood vs. Water<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Survivor: David vs. Goliath</i>"
+					"text": "<i>Survivor: David vs. Goliath<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Survivor: Ghost Island</i>"
+					"text": "<i>Survivor: Ghost Island<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Survivor: Edge of Extinction</i>"
+					"text": "<i>Survivor: Edge of Extinction<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Survivor: Purgatory</i>"
+					"text": "<i>Survivor: Purgatory<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Survivor: Isle of Man</i>"
+					"text": "<i>Survivor: Isle of Man<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Survivor: No Survivors</i>"
+					"text": "<i>Survivor: No Survivors<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Survivor: Land of the Lost</i>"
+					"text": "<i>Survivor: Land of the Lost<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Survivor: Divas</i>"
+					"text": "<i>Survivor: Divas<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Survivor: X’s vs. O’s</i>"
+					"text": "<i>Survivor: X\u2019s vs. O\u2019s<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Survivor: Hotties vs. Notties</i>"
+					"text": "<i>Survivor: Hotties vs. Notties<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Survivor: Weirdos vs. Studs</i>"
+					"text": "<i>Survivor: Weirdos vs. Studs<\/i>"
 				}
 			],
 			"us": true
 		}, {
 			"x": false,
 			"id": 55768,
-			"text": "<i>Dungeons & Dragons</i> Abilities",
+			"text": "<i>Dungeons & Dragons<\/i> Abilities",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -7471,51 +7471,51 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Lemonade</i>"
+					"text": "<i>Lemonade<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Beyoncé</i>"
+					"text": "<i>Beyoncé<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>I Am... Sasha Fierce</i>"
+					"text": "<i>I Am... Sasha Fierce<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>B’Day</i>"
+					"text": "<i>B\u2019Day<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>4</i>"
+					"text": "<i>4<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Everything is Love</i>"
+					"text": "<i>Everything is Love<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Knowles</i>"
+					"text": "<i>Knowles<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Destiny</i>"
+					"text": "<i>Destiny<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>More Than Blue</i>"
+					"text": "<i>More Than Blue<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Sasha Away</i>"
+					"text": "<i>Sasha Away<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Queen Bee</i>"
+					"text": "<i>Queen Bee<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Half Time</i>"
+					"text": "<i>Half Time<\/i>"
 				}
 			],
 			"us": false
@@ -7751,83 +7751,83 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Blondie</i>"
+					"text": "<i>Blondie<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Hi and Lois</i>"
+					"text": "<i>Hi and Lois<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Funky Winkerbean</i>"
+					"text": "<i>Funky Winkerbean<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Hägar the Horrible</i>"
+					"text": "<i>Hägar the Horrible<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>FoxTrot</i>"
+					"text": "<i>FoxTrot<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Cathy</i>"
+					"text": "<i>Cathy<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Nancy</i>"
+					"text": "<i>Nancy<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Dennis the Menace</i>"
+					"text": "<i>Dennis the Menace<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Beetle Bailey</i>"
+					"text": "<i>Beetle Bailey<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Boondocks</i>"
+					"text": "<i>The Boondocks<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Hester</i>"
+					"text": "<i>Hester<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Mary Alice</i>"
+					"text": "<i>Mary Alice<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Jerkos</i>"
+					"text": "<i>The Jerkos<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Lionel the Liar</i>"
+					"text": "<i>Lionel the Liar<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Wonderful Wendy</i>"
+					"text": "<i>Wonderful Wendy<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Dolly</i>"
+					"text": "<i>Dolly<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Sgt. Pickles</i>"
+					"text": "<i>Sgt. Pickles<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Chuck and the Dragon</i>"
+					"text": "<i>Chuck and the Dragon<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Spatulas</i>"
+					"text": "<i>Spatulas<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Samantha the Barbarian</i>"
+					"text": "<i>Samantha the Barbarian<\/i>"
 				}
 			],
 			"us": true
@@ -7980,27 +7980,27 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Mona Lisa</i>"
+					"text": "<i>Mona Lisa<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Birth of Venus</i>"
+					"text": "<i>The Birth of Venus<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>David</i>"
+					"text": "<i>David<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Last Supper</i>"
+					"text": "<i>The Last Supper<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The School of Athens</i>"
+					"text": "<i>The School of Athens<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Vitruvian Man</i>"
+					"text": "<i>Vitruvian Man<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -8008,39 +8008,39 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Feast of Herod</i>"
+					"text": "<i>The Feast of Herod<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Son of Man</i>"
+					"text": "<i>The Son of Man<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Old Guitarist</i>"
+					"text": "<i>The Old Guitarist<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Girl With a Pearl Earring</i>"
+					"text": "<i>Girl With a Pearl Earring<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Thinker</i>"
+					"text": "<i>The Thinker<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Starry Night</i>"
+					"text": "<i>Starry Night<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Kiss</i>"
+					"text": "<i>The Kiss<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Scream</i>"
+					"text": "<i>The Scream<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Venus De Milo</i>"
+					"text": "<i>Venus De Milo<\/i>"
 				}
 			],
 			"us": false
@@ -8083,7 +8083,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "Hangman’s Knot"
+					"text": "Hangman\u2019s Knot"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -8193,79 +8193,79 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "“The Raven” by Edgar Allan Poe"
+					"text": "\u201cThe Raven\u201d by Edgar Allan Poe"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“She Walks in Beauty” by Lord Byron"
+					"text": "\u201cShe Walks in Beauty\u201d by Lord Byron"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Still I Rise” by Maya Angelou"
+					"text": "\u201cStill I Rise\u201d by Maya Angelou"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Jabberwocky” by Lewis Carroll"
+					"text": "\u201cJabberwocky\u201d by Lewis Carroll"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“The Owl and the Pussy-Cat” by Edward Lear"
+					"text": "\u201cThe Owl and the Pussy-Cat\u201d by Edward Lear"
 				}, {
 					"difficulty": -1,
 					"correct": true,
-					"text": "“Green Eggs and Ham” by Dr. Seuss"
+					"text": "\u201cGreen Eggs and Ham\u201d by Dr. Seuss"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“The Weary Blues” by Langston Hughes"
+					"text": "\u201cThe Weary Blues\u201d by Langston Hughes"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Because I could not stop for Death” by Emily Dickinson"
+					"text": "\u201cBecause I could not stop for Death\u201d by Emily Dickinson"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Sonnet 18” by William Shakespeare"
+					"text": "\u201cSonnet 18\u201d by William Shakespeare"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“The Tyger” by William Blake"
+					"text": "\u201cThe Tyger\u201d by William Blake"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“The Road Not Taken” by Robert Frost"
+					"text": "\u201cThe Road Not Taken\u201d by Robert Frost"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Doctor Faustus” by Christopher Marlowe"
+					"text": "\u201cDoctor Faustus\u201d by Christopher Marlowe"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Ulysses” by Alfred, Lord Tennyson"
+					"text": "\u201cUlysses\u201d by Alfred, Lord Tennyson"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Paradise Lost” by John Milton"
+					"text": "\u201cParadise Lost\u201d by John Milton"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Leaves of Grass” by Walt Whitman"
+					"text": "\u201cLeaves of Grass\u201d by Walt Whitman"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“in Just-” by e.e. cummings"
+					"text": "\u201cin Just-\u201d by e.e. cummings"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Tulips” by Sylvia Plath"
+					"text": "\u201cTulips\u201d by Sylvia Plath"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“The Odyssey” by Homer"
+					"text": "\u201cThe Odyssey\u201d by Homer"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Ode to Aphrodite” by Sappho"
+					"text": "\u201cOde to Aphrodite\u201d by Sappho"
 				}
 			],
 			"us": false
@@ -8521,83 +8521,83 @@
 			"choices": [{
 					"difficulty": -1,
 					"correct": true,
-					"text": "<i>Psycho</i>"
+					"text": "<i>Psycho<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Birds</i>"
+					"text": "<i>The Birds<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Vertigo</i>"
+					"text": "<i>Vertigo<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>North By Northwest</i>"
+					"text": "<i>North By Northwest<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Rear Window</i>"
+					"text": "<i>Rear Window<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Dial M for Murder</i>"
+					"text": "<i>Dial M for Murder<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Man Who Knew Too Much</i>"
+					"text": "<i>The Man Who Knew Too Much<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Lady Vanishes</i>"
+					"text": "<i>The Lady Vanishes<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Shadow of a Doubt</i>"
+					"text": "<i>Shadow of a Doubt<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Strangers on a Train</i>"
+					"text": "<i>Strangers on a Train<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Innocent Murderer</i>"
+					"text": "<i>The Innocent Murderer<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Blunt Instrument</i>"
+					"text": "<i>Blunt Instrument<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Find Her Guilty</i>"
+					"text": "<i>Find Her Guilty<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Alibi for an Affair</i>"
+					"text": "<i>Alibi for an Affair<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Diablo</i>"
+					"text": "<i>Diablo<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Locked Trunk</i>"
+					"text": "<i>The Locked Trunk<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Funeral March of a Marionette</i>"
+					"text": "<i>Funeral March of a Marionette<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Cemetery</i>"
+					"text": "<i>Cemetery<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>A Bomb for Breakfast</i>"
+					"text": "<i>A Bomb for Breakfast<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>I Know Who Killed Me</i>"
+					"text": "<i>I Know Who Killed Me<\/i>"
 				}
 			],
 			"us": false
@@ -8648,7 +8648,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "Poppin’ Fresh"
+					"text": "Poppin\u2019 Fresh"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -9236,11 +9236,11 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "The World’s Largest Pecan"
+					"text": "The World\u2019s Largest Pecan"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "The World’s Largest Fork"
+					"text": "The World\u2019s Largest Fork"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -9260,11 +9260,11 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "The World’s Largest Basket"
+					"text": "The World\u2019s Largest Basket"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "The World’s Largest Cuckoo Clock"
+					"text": "The World\u2019s Largest Cuckoo Clock"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -9382,174 +9382,174 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The College Dropout</i>"
+					"text": "<i>The College Dropout<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Late Registration</i>"
+					"text": "<i>Late Registration<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Graduation</i>"
+					"text": "<i>Graduation<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>808s & Heartbreak</i>"
+					"text": "<i>808s & Heartbreak<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>My Beautiful Dark Twisted Fantasy</i>"
+					"text": "<i>My Beautiful Dark Twisted Fantasy<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Yeezus</i>"
+					"text": "<i>Yeezus<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Life of Pablo</i>"
+					"text": "<i>The Life of Pablo<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Ye</i>"
+					"text": "<i>Ye<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Yorp</i>"
+					"text": "<i>Yorp<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Magna Carta... Holy Grail</i>"
+					"text": "<i>Magna Carta... Holy Grail<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Dynasty: Roc La Familia</i>"
+					"text": "<i>The Dynasty: Roc La Familia<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>4:44</i>"
+					"text": "<i>4:44<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Freshman Orientation</i>"
+					"text": "<i>Freshman Orientation<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Disposable Arts</i>"
+					"text": "<i>Disposable Arts<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>God’s Son</i>"
+					"text": "<i>God\u2019s Son<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Trap Muzik</i>"
+					"text": "<i>Trap Muzik<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Renaissance</i>"
+					"text": "<i>The Renaissance<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>My Name Is My Name</i>"
+					"text": "<i>My Name Is My Name<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Oxymoron</i>"
+					"text": "<i>Oxymoron<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>My Delicious Dark Confusing Fantasy</i>"
+					"text": "<i>My Delicious Dark Confusing Fantasy<\/i>"
 				}
 			],
 			"us": false
 		}, {
 			"x": false,
 			"id": 55318,
-			"text": "Love Stories Where They Don’t End Up Together",
+			"text": "Love Stories Where They Don\u2019t End Up Together",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Anna Karenina</i>"
+					"text": "<i>Anna Karenina<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>West Side Story</i>"
+					"text": "<i>West Side Story<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Casablanca</i>"
+					"text": "<i>Casablanca<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Brokeback Mountain</i>"
+					"text": "<i>Brokeback Mountain<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Wuthering Heights</i>"
+					"text": "<i>Wuthering Heights<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Titanic</i>"
+					"text": "<i>Titanic<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Romeo & Juliet</i>"
+					"text": "<i>Romeo & Juliet<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Tristan & Isolde</i>"
+					"text": "<i>Tristan & Isolde<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>(500) Days of Summer</i>"
+					"text": "<i>(500) Days of Summer<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Ghost</i>"
+					"text": "<i>Ghost<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Moulin Rouge!</i>"
+					"text": "<i>Moulin Rouge!<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Harold and Maude</i>"
+					"text": "<i>Harold and Maude<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Much Ado About Nothing</i>"
+					"text": "<i>Much Ado About Nothing<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>When Harry Met Sally...</i>"
+					"text": "<i>When Harry Met Sally...<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Silver Linings Playbook</i>"
+					"text": "<i>Silver Linings Playbook<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>You’ve Got Mail</i>"
+					"text": "<i>You\u2019ve Got Mail<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Crazy Rich Asians</i>"
+					"text": "<i>Crazy Rich Asians<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Wedding Singer</i>"
+					"text": "<i>The Wedding Singer<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Knocked Up</i>"
+					"text": "<i>Knocked Up<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>50 First Dates</i>"
+					"text": "<i>50 First Dates<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>It Happened One Night</i>"
+					"text": "<i>It Happened One Night<\/i>"
 				}
 			],
 			"us": true
@@ -9793,7 +9793,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "Bode’s Galaxy"
+					"text": "Bode\u2019s Galaxy"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -9805,7 +9805,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "Hoag’s Object"
+					"text": "Hoag\u2019s Object"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -9841,7 +9841,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "Goldberg’s Ring Galaxy"
+					"text": "Goldberg\u2019s Ring Galaxy"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -9901,7 +9901,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "Lord Vitrol’s Galaxy"
+					"text": "Lord Vitrol\u2019s Galaxy"
 				}
 			],
 			"us": false
@@ -10432,63 +10432,63 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Can You Ever Forgive Me?</i>"
+					"text": "<i>Can You Ever Forgive Me?<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Ghostbusters</i>"
+					"text": "<i>Ghostbusters<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Boss</i>"
+					"text": "<i>The Boss<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Spy</i>"
+					"text": "<i>Spy<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>St. Vincent</i>"
+					"text": "<i>St. Vincent<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Heat</i>"
+					"text": "<i>The Heat<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Bridesmaids</i>"
+					"text": "<i>Bridesmaids<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Happytime Murders</i>"
+					"text": "<i>The Happytime Murders<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Pitch Perfect 3</i>"
+					"text": "<i>Pitch Perfect 3<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Baby Mama</i>"
+					"text": "<i>Baby Mama<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Girls Trip</i>"
+					"text": "<i>Girls Trip<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Trainwreck</i>"
+					"text": "<i>Trainwreck<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Bad Teacher</i>"
+					"text": "<i>Bad Teacher<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Lady Bird</i>"
+					"text": "<i>Lady Bird<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Bad Moms</i>"
+					"text": "<i>Bad Moms<\/i>"
 				}
 			],
 			"us": false
@@ -10499,111 +10499,111 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>James and the Giant Peach</i>"
+					"text": "<i>James and the Giant Peach<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Charlie and the Chocolate Factory</i>"
+					"text": "<i>Charlie and the Chocolate Factory<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Fantastic Mr. Fox</i>"
+					"text": "<i>Fantastic Mr. Fox<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Charlie and the Great Glass Elevator</i>"
+					"text": "<i>Charlie and the Great Glass Elevator<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Switch Bitch</i>"
+					"text": "<i>Switch Bitch<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Danny, the Champion of the World</i>"
+					"text": "<i>Danny, the Champion of the World<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Twits</i>"
+					"text": "<i>The Twits<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>George’s Marvellous Medicine</i>"
+					"text": "<i>George\u2019s Marvellous Medicine<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The BFG</i>"
+					"text": "<i>The BFG<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Dirty Beasts</i>"
+					"text": "<i>Dirty Beasts<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Witches</i>"
+					"text": "<i>The Witches<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Matilda</i>"
+					"text": "<i>Matilda<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Vicar of Nibbleswicke </i>"
+					"text": "<i>The Vicar of Nibbleswicke <\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Isle of Dogs</i>"
+					"text": "<i>Isle of Dogs<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Moonrise Kingdom</i>"
+					"text": "<i>Moonrise Kingdom<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Grand Budapest Hotel</i>"
+					"text": "<i>The Grand Budapest Hotel<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Alexander and the Terrible, Horrible, No Good, Very Bad Day</i>"
+					"text": "<i>Alexander and the Terrible, Horrible, No Good, Very Bad Day<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Where the Sidewalk Ends</i>"
+					"text": "<i>Where the Sidewalk Ends<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Phantom Tollbooth</i>"
+					"text": "<i>The Phantom Tollbooth<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Invention of Hugo Cabret</i>"
+					"text": "<i>The Invention of Hugo Cabret<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Coraline</i>"
+					"text": "<i>Coraline<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Beastly Tales From Here and There</i>"
+					"text": "<i>Beastly Tales From Here and There<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Beetle Boy</i>"
+					"text": "<i>Beetle Boy<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Mr. Popper’s Penguins</i>"
+					"text": "<i>Mr. Popper\u2019s Penguins<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Flat Stanley</i>"
+					"text": "<i>Flat Stanley<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Bunnicula</i>"
+					"text": "<i>Bunnicula<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Charlie and Grandpa Leave Home</i>"
+					"text": "<i>Charlie and Grandpa Leave Home<\/i>"
 				}
 			],
 			"us": false
@@ -10614,99 +10614,99 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>New York Minute</i>"
+					"text": "<i>New York Minute<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>It Takes Two</i>"
+					"text": "<i>It Takes Two<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Holiday in the Sun</i>"
+					"text": "<i>Holiday in the Sun<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Our Lips Are Sealed</i>"
+					"text": "<i>Our Lips Are Sealed<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Passport to Paris</i>"
+					"text": "<i>Passport to Paris<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>When in Rome</i>"
+					"text": "<i>When in Rome<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Winning London</i>"
+					"text": "<i>Winning London<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Billboard Dad</i>"
+					"text": "<i>Billboard Dad<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Switching Goals</i>"
+					"text": "<i>Switching Goals<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>To Grandmother’s House We Go</i>"
+					"text": "<i>To Grandmother\u2019s House We Go<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Getting There</i>"
+					"text": "<i>Getting There<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>How the West Was Fun</i>"
+					"text": "<i>How the West Was Fun<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Twin It To Win It</i>"
+					"text": "<i>Twin It To Win It<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Princess and the Pauper</i>"
+					"text": "<i>The Princess and the Pauper<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Kettle Belles</i>"
+					"text": "<i>Kettle Belles<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Parent Trap</i>"
+					"text": "<i>The Parent Trap<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Sisters</i>"
+					"text": "<i>Sisters<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Off to Berlin</i>"
+					"text": "<i>Off to Berlin<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Moscow Madness</i>"
+					"text": "<i>Moscow Madness<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Mary-Kate and Ashley Rock Switzerland</i>"
+					"text": "<i>Mary-Kate and Ashley Rock Switzerland<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>EuroTrip</i>"
+					"text": "<i>EuroTrip<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Aye, Matey!</i>"
+					"text": "<i>Aye, Matey!<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Twinning</i>"
+					"text": "<i>Twinning<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Paris Runway: Our Way</i>"
+					"text": "<i>Paris Runway: Our Way<\/i>"
 				}
 			],
 			"us": true
@@ -10891,7 +10891,7 @@
 		}, {
 			"x": false,
 			"id": 55158,
-			"text": "Career Cards in the “Modern” Edition of <i>The Game of Life</i>",
+			"text": "Career Cards in the \u201cModern\u201d Edition of <i>The Game of Life<\/i>",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -11054,7 +11054,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "Silk’n Soft"
+					"text": "Silk\u2019n Soft"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -11066,7 +11066,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "Soft’N Gentle"
+					"text": "Soft\u2019N Gentle"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -11200,7 +11200,7 @@
 		}, {
 			"x": false,
 			"id": 55678,
-			"text": "The French “Mother Sauces”",
+			"text": "The French \u201cMother Sauces\u201d",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -11394,7 +11394,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "Hector’s dolphin"
+					"text": "Hector\u2019s dolphin"
 				}, {
 					"difficulty": 1,
 					"correct": true,
@@ -11750,63 +11750,63 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Infinite Jest</i>"
+					"text": "<i>Infinite Jest<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Atlas Shrugged</i>"
+					"text": "<i>Atlas Shrugged<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>War and Peace</i>"
+					"text": "<i>War and Peace<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Gone with the Wind</i>"
+					"text": "<i>Gone with the Wind<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Clarissa</i>"
+					"text": "<i>Clarissa<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>King James Bible</i>"
+					"text": "<i>King James Bible<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Shogun</i>"
+					"text": "<i>Shogun<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Moby Dick</i>"
+					"text": "<i>Moby Dick<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Anna Karenina</i>"
+					"text": "<i>Anna Karenina<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Goldfinch</i>"
+					"text": "<i>The Goldfinch<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Harry Potter and the Order of the Phoenix</i>"
+					"text": "<i>Harry Potter and the Order of the Phoenix<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Crime and Punishment</i>"
+					"text": "<i>Crime and Punishment<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>East of Eden</i>"
+					"text": "<i>East of Eden<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Cloud Atlas</i>"
+					"text": "<i>Cloud Atlas<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Iliad</i>"
+					"text": "<i>The Iliad<\/i>"
 				}
 			],
 			"us": false
@@ -12781,7 +12781,7 @@
 		}, {
 			"x": false,
 			"id": 55770,
-			"text": "Part of Alexander the Great’s Empire",
+			"text": "Part of Alexander the Great\u2019s Empire",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -12836,11 +12836,11 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "Mother’s Day (U.S.)"
+					"text": "Mother\u2019s Day (U.S.)"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "Father’s Day (U.S.)"
+					"text": "Father\u2019s Day (U.S.)"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -12856,7 +12856,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "All Saints’ Day"
+					"text": "All Saints\u2019 Day"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -12880,7 +12880,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "Saint Patrick’s Day"
+					"text": "Saint Patrick\u2019s Day"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -13049,7 +13049,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "Pudd’nhead Wilson"
+					"text": "Pudd\u2019nhead Wilson"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -13243,14 +13243,14 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "Shepherd’s Bush Line"
+					"text": "Shepherd\u2019s Bush Line"
 				}
 			],
 			"us": false
 		}, {
 			"x": false,
 			"id": 55283,
-			"text": "Aesop’s Fables",
+			"text": "Aesop\u2019s Fables",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -13266,7 +13266,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "The Wolf in Sheep’s Clothing"
+					"text": "The Wolf in Sheep\u2019s Clothing"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -13448,7 +13448,7 @@
 		}, {
 			"x": false,
 			"id": 55286,
-			"text": "Lyrics in Billy Joel’s <i>We Didn’t Start the Fire</i>",
+			"text": "Lyrics in Billy Joel\u2019s <i>We Didn\u2019t Start the Fire<\/i>",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -13460,11 +13460,11 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "Brando, “The King and I” and “The Catcher in the Rye”"
+					"text": "Brando, \u201cThe King and I\u201d and \u201cThe Catcher in the Rye\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "Eisenhower, vaccine, England’s got a new queen"
+					"text": "Eisenhower, vaccine, England\u2019s got a new queen"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -13472,7 +13472,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "Einstein, James Dean, Brooklyn’s got a winning team"
+					"text": "Einstein, James Dean, Brooklyn\u2019s got a winning team"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -13480,7 +13480,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "Buddy Holly, “Ben Hur,” space monkey, Mafia"
+					"text": "Buddy Holly, \u201cBen Hur,\u201d space monkey, Mafia"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -13492,11 +13492,11 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "Chubby Checker, “Psycho,” Belgians in the Congo"
+					"text": "Chubby Checker, \u201cPsycho,\u201d Belgians in the Congo"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Lawrence of Arabia,” British Beatlemania"
+					"text": "\u201cLawrence of Arabia,\u201d British Beatlemania"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -13512,7 +13512,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "Castro, “True Grit,” Nixon is a dimwit"
+					"text": "Castro, \u201cTrue Grit,\u201d Nixon is a dimwit"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -13532,11 +13532,11 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Breakfast at Tiffany’s,” tie-dye epiphanies"
+					"text": "\u201cBreakfast at Tiffany\u2019s,\u201d tie-dye epiphanies"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "MLK, Sandra Dee, “Midnight Cowboy,” Harper Lee"
+					"text": "MLK, Sandra Dee, \u201cMidnight Cowboy,\u201d Harper Lee"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -13544,7 +13544,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "Tanzania, Michigan, Mr. Roger’s cardigan"
+					"text": "Tanzania, Michigan, Mr. Roger\u2019s cardigan"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -13630,127 +13630,127 @@
 		}, {
 			"x": false,
 			"id": 55291,
-			"text": "Tony Award Winners for “Best Musical”",
+			"text": "Tony Award Winners for \u201cBest Musical\u201d",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Fun Home</i>"
+					"text": "<i>Fun Home<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>A Gentleman’s Guide to Love & Murder</i>"
+					"text": "<i>A Gentleman\u2019s Guide to Love & Murder<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Kinky Boots</i>"
+					"text": "<i>Kinky Boots<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Book of Mormon</i>"
+					"text": "<i>The Book of Mormon<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Billy Elliot</i>"
+					"text": "<i>Billy Elliot<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Jersey Boys</i>"
+					"text": "<i>Jersey Boys<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Monty Python’s Spamalot</i>"
+					"text": "<i>Monty Python\u2019s Spamalot<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Avenue Q</i>"
+					"text": "<i>Avenue Q<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Hairspray</i>"
+					"text": "<i>Hairspray<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Thoroughly Modern Millie</i>"
+					"text": "<i>Thoroughly Modern Millie<\/i>"
 				}, {
 					"difficulty": -1,
 					"correct": true,
-					"text": "<i>Hamilton</i>"
+					"text": "<i>Hamilton<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Rent</i>"
+					"text": "<i>Rent<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Kiss of the Spider Woman</i>"
+					"text": "<i>Kiss of the Spider Woman<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Cats</i>"
+					"text": "<i>Cats<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Dear Evan Hansen</i>"
+					"text": "<i>Dear Evan Hansen<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Frozen</i>"
+					"text": "<i>Frozen<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Waitress</i>"
+					"text": "<i>Waitress<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>School of Rock</i>"
+					"text": "<i>School of Rock<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Beautiful: The Carole King Musical</i>"
+					"text": "<i>Beautiful: The Carole King Musical<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Aladdin</i>"
+					"text": "<i>Aladdin<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Newsies</i>"
+					"text": "<i>Newsies<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>American Idiot</i>"
+					"text": "<i>American Idiot<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Scottsboro Boys</i>"
+					"text": "<i>The Scottsboro Boys<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Mary Poppins</i>"
+					"text": "<i>Mary Poppins<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Color Purple</i>"
+					"text": "<i>The Color Purple<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The 25th Annual Putnam County Spelling Bee</i>"
+					"text": "<i>The 25th Annual Putnam County Spelling Bee<\/i>"
 				}, {
 					"difficulty": 1,
 					"correct": false,
-					"text": "<i>Wicked</i>"
+					"text": "<i>Wicked<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Mamma Mia!</i>"
+					"text": "<i>Mamma Mia!<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Smokey Joe’s Cafe</i>"
+					"text": "<i>Smokey Joe\u2019s Cafe<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Meet Me in St. Louis</i>"
+					"text": "<i>Meet Me in St. Louis<\/i>"
 				}
 			],
 			"us": true
@@ -13998,7 +13998,7 @@
 		}, {
 			"x": false,
 			"id": 56871,
-			"text": "Characters “Snapped” Away in <i>Avengers: Infinity War</i>",
+			"text": "Characters \u201cSnapped\u201d Away in <i>Avengers: Infinity War<\/i>",
 			"choices": [{
 					"difficulty": -1,
 					"correct": true,
@@ -14334,98 +14334,98 @@
 		}, {
 			"x": false,
 			"id": 56905,
-			"text": "Books in L. Frank Baum’s <i>Oz</i> Series",
+			"text": "Books in L. Frank Baum\u2019s <i>Oz<\/i> Series",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Ozma of Oz</i>"
+					"text": "<i>Ozma of Oz<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Road to Oz</i>"
+					"text": "<i>The Road to Oz<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Emerald City of Oz</i>"
+					"text": "<i>The Emerald City of Oz<\/i>"
 				}, {
 					"difficulty": -1,
 					"correct": true,
-					"text": "<i>The Wonderful Wizard of Oz</i>"
+					"text": "<i>The Wonderful Wizard of Oz<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Patchwork Girl of Oz</i>"
+					"text": "<i>The Patchwork Girl of Oz<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Tik-Tok of Oz</i>"
+					"text": "<i>Tik-Tok of Oz<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Scarecrow of Oz</i>"
+					"text": "<i>The Scarecrow of Oz<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Lost Princess of Oz</i>"
+					"text": "<i>The Lost Princess of Oz<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Magic of Oz</i>"
+					"text": "<i>The Magic of Oz<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Glinda of Oz</i>"
+					"text": "<i>Glinda of Oz<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Marvelous Land of Oz</i>"
+					"text": "<i>The Marvelous Land of Oz<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Dorothy and the Wizard in Oz</i>"
+					"text": "<i>Dorothy and the Wizard in Oz<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Rinkitink in Oz</i>"
+					"text": "<i>Rinkitink in Oz<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Tin Woodman of Oz</i>"
+					"text": "<i>The Tin Woodman of Oz<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Floating City of Oz</i>"
+					"text": "<i>The Floating City of Oz<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Rooby-Dooby of Oz</i>"
+					"text": "<i>Rooby-Dooby of Oz<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Enchanted Forest of Oz</i>"
+					"text": "<i>The Enchanted Forest of Oz<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Apple-Throwing Trees of Oz</i>"
+					"text": "<i>The Apple-Throwing Trees of Oz<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Bunchkin Munchkin of Oz</i>"
+					"text": "<i>Bunchkin Munchkin of Oz<\/i>"
 				}, {
 					"difficulty": 1,
 					"correct": false,
-					"text": "<i>The Wizard of Oz</i>"
+					"text": "<i>The Wizard of Oz<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Adebisi of Oz</i>"
+					"text": "<i>Adebisi of Oz<\/i>"
 				}
 			],
 			"us": false
 		}, {
 			"x": false,
 			"id": 56906,
-			"text": "<i>Stranger Things</i> Characters",
+			"text": "<i>Stranger Things<\/i> Characters",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -14824,91 +14824,91 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Jurassic Park</i>"
+					"text": "<i>Jurassic Park<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Star Wars: The Last Jedi</i>"
+					"text": "<i>Star Wars: The Last Jedi<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Raiders of the Lost Ark</i>"
+					"text": "<i>Raiders of the Lost Ark<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>E.T. the Extra-Terrestrial</i>"
+					"text": "<i>E.T. the Extra-Terrestrial<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Hook</i>"
+					"text": "<i>Hook<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Home Alone</i>"
+					"text": "<i>Home Alone<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Jaws</i>"
+					"text": "<i>Jaws<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Schindler’s List</i>"
+					"text": "<i>Schindler\u2019s List<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Patriot</i>"
+					"text": "<i>The Patriot<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Harry Potter and the Sorcerer’s Stone</i>"
+					"text": "<i>Harry Potter and the Sorcerer\u2019s Stone<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Post</i>"
+					"text": "<i>The Post<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Superman</i>"
+					"text": "<i>Superman<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Jurassic World</i>"
+					"text": "<i>Jurassic World<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Back to the Future</i>"
+					"text": "<i>Back to the Future<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Forrest Gump</i>"
+					"text": "<i>Forrest Gump<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Godfather</i>"
+					"text": "<i>The Godfather<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Gladiator</i>"
+					"text": "<i>Gladiator<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Into the Spiderverse</i>"
+					"text": "<i>Into the Spiderverse<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Lawrence of Arabia</i>"
+					"text": "<i>Lawrence of Arabia<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Halloween</i>"
+					"text": "<i>Halloween<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Exorcist</i>"
+					"text": "<i>The Exorcist<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Porky’s</i>"
+					"text": "<i>Porky\u2019s<\/i>"
 				}
 			],
 			"us": true
@@ -15512,7 +15512,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "Tito’s Handmade"
+					"text": "Tito\u2019s Handmade"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -15528,7 +15528,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "Maker’s Mark"
+					"text": "Maker\u2019s Mark"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -15540,7 +15540,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "Seagram’s 7"
+					"text": "Seagram\u2019s 7"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -15559,71 +15559,71 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Interview With the Vampire</i>"
+					"text": "<i>Interview With the Vampire<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Vampire Lestat</i>"
+					"text": "<i>The Vampire Lestat<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Queen of the Damned</i>"
+					"text": "<i>The Queen of the Damned<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Memnoch the Devil</i>"
+					"text": "<i>Memnoch the Devil<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Vampire Armand</i>"
+					"text": "<i>The Vampire Armand<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Blood Canticle</i>"
+					"text": "<i>Blood Canticle<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Prince Lestat</i>"
+					"text": "<i>Prince Lestat<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Blood and Gold</i>"
+					"text": "<i>Blood and Gold<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Christ the Lord: Out of Egypt</i>"
+					"text": "<i>Christ the Lord: Out of Egypt<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>There Will be Blood</i>"
+					"text": "<i>There Will be Blood<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>New Moon</i>"
+					"text": "<i>New Moon<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Half-Blood Prince</i>"
+					"text": "<i>The Half-Blood Prince<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Blood Meridian</i>"
+					"text": "<i>Blood Meridian<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Salem’s Lot</i>"
+					"text": "<i>Salem\u2019s Lot<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Vampire Academy</i>"
+					"text": "<i>Vampire Academy<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Vampire Diaries</i>"
+					"text": "<i>The Vampire Diaries<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Varney the Vampire</i>"
+					"text": "<i>Varney the Vampire<\/i>"
 				}
 			],
 			"us": false
@@ -15634,75 +15634,75 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Three Musicians</i>"
+					"text": "<i>Three Musicians<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Old Guitarist</i>"
+					"text": "<i>The Old Guitarist<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Girl Before a Mirror</i>"
+					"text": "<i>Girl Before a Mirror<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Guernica</i>"
+					"text": "<i>Guernica<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Mother and Child</i>"
+					"text": "<i>Mother and Child<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Girl with Mandolin</i>"
+					"text": "<i>Girl with Mandolin<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Large Bather</i>"
+					"text": "<i>Large Bather<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Science and Charity</i>"
+					"text": "<i>Science and Charity<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Accordionist</i>"
+					"text": "<i>Accordionist<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Bather with Beach Ball</i>"
+					"text": "<i>Bather with Beach Ball<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Nude Descending a Staircase</i>"
+					"text": "<i>Nude Descending a Staircase<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Composition VII</i>"
+					"text": "<i>Composition VII<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Movement in Squares</i>"
+					"text": "<i>Movement in Squares<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Orange, Red, Yellow</i>"
+					"text": "<i>Orange, Red, Yellow<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Dot and the Line</i>"
+					"text": "<i>The Dot and the Line<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Campbell’s Soup Cans</i>"
+					"text": "<i>Campbell\u2019s Soup Cans<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Broadway Boogie Woogie</i>"
+					"text": "<i>Broadway Boogie Woogie<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Madonna and Child</i>"
+					"text": "<i>Madonna and Child<\/i>"
 				}
 			],
 			"us": false
@@ -15713,51 +15713,51 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Hidden Fortress</i>"
+					"text": "<i>The Hidden Fortress<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Seven Samurai</i>"
+					"text": "<i>Seven Samurai<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Rashomon</i>"
+					"text": "<i>Rashomon<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Yojimbo</i>"
+					"text": "<i>Yojimbo<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Ran</i>"
+					"text": "<i>Ran<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Ikiru</i>"
+					"text": "<i>Ikiru<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Throne of Blood</i>"
+					"text": "<i>Throne of Blood<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>My Neighbor Totoro</i>"
+					"text": "<i>My Neighbor Totoro<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Princess Mononoke</i>"
+					"text": "<i>Princess Mononoke<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Battle Royale</i>"
+					"text": "<i>Battle Royale<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Grave of the Fireflies</i>"
+					"text": "<i>Grave of the Fireflies<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Audition</i>"
+					"text": "<i>Audition<\/i>"
 				}
 			],
 			"us": false
@@ -15953,67 +15953,67 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>City Lights</i>"
+					"text": "<i>City Lights<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Gold Rush</i>"
+					"text": "<i>The Gold Rush<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Kid</i>"
+					"text": "<i>The Kid<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Modern Times</i>"
+					"text": "<i>Modern Times<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Great Dictator</i>"
+					"text": "<i>The Great Dictator<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>A King in New York</i>"
+					"text": "<i>A King in New York<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Circus</i>"
+					"text": "<i>The Circus<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Monsieur Verdoux</i>"
+					"text": "<i>Monsieur Verdoux<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>A Woman of Paris</i>"
+					"text": "<i>A Woman of Paris<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Artist</i>"
+					"text": "<i>The Artist<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The General</i>"
+					"text": "<i>The General<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Metropolis</i>"
+					"text": "<i>Metropolis<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Cabinet of Dr. Caligari</i>"
+					"text": "<i>The Cabinet of Dr. Caligari<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Jazz Singer</i>"
+					"text": "<i>The Jazz Singer<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Safety Last!</i>"
+					"text": "<i>Safety Last!<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Battleship Potemkin</i>"
+					"text": "<i>Battleship Potemkin<\/i>"
 				}
 			],
 			"us": false
@@ -16268,7 +16268,7 @@
 		}, {
 			"x": false,
 			"id": 57176,
-			"text": "Training Exercises in <i>Rocky</i> Movies",
+			"text": "Training Exercises in <i>Rocky<\/i> Movies",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -16572,7 +16572,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "Reese’s Peanut Butter Cups"
+					"text": "Reese\u2019s Peanut Butter Cups"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -16611,7 +16611,7 @@
 		}, {
 			"x": false,
 			"id": 56793,
-			"text": "<i>Walking Dead</i> Characters",
+			"text": "<i>Walking Dead<\/i> Characters",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -17061,7 +17061,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "Kibbles ‘N Bits"
+					"text": "Kibbles \u2018N Bits"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -17069,7 +17069,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "Hill’s"
+					"text": "Hill\u2019s"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -17085,7 +17085,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "Annie’s Homegrown"
+					"text": "Annie\u2019s Homegrown"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -17120,67 +17120,67 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Men in Black</i>"
+					"text": "<i>Men in Black<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>V For Vendetta</i>"
+					"text": "<i>V For Vendetta<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Watchmen</i>"
+					"text": "<i>Watchmen<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>300</i>"
+					"text": "<i>300<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Mask</i>"
+					"text": "<i>The Mask<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Sin City</i>"
+					"text": "<i>Sin City<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Hellboy</i>"
+					"text": "<i>Hellboy<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Kick-Ass</i>"
+					"text": "<i>Kick-Ass<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Edge of Tomorrow</i>"
+					"text": "<i>Edge of Tomorrow<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Scott Pilgrim vs. The World</i>"
+					"text": "<i>Scott Pilgrim vs. The World<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>John Wick</i>"
+					"text": "<i>John Wick<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Fast and the Furious</i>"
+					"text": "<i>The Fast and the Furious<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Crank</i>"
+					"text": "<i>Crank<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Ex Machina</i>"
+					"text": "<i>Ex Machina<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Blade Runner</i>"
+					"text": "<i>Blade Runner<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Pulp Fiction</i>"
+					"text": "<i>Pulp Fiction<\/i>"
 				}
 			],
 			"us": true
@@ -17207,7 +17207,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "death ‘n’ roll"
+					"text": "death \u2018n\u2019 roll"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -17270,7 +17270,7 @@
 		}, {
 			"x": false,
 			"id": 55883,
-			"text": "<i>Star Trek</i> Captains",
+			"text": "<i>Star Trek<\/i> Captains",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -17314,7 +17314,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "Malcolm “Mal” Reynolds"
+					"text": "Malcolm \u201cMal\u201d Reynolds"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -17547,7 +17547,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "Dunkin’ Donuts Original Iced Coffee"
+					"text": "Dunkin\u2019 Donuts Original Iced Coffee"
 				}, {
 					"difficulty": 0,
 					"correct": true,
@@ -17591,7 +17591,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "Dr. Brown’s"
+					"text": "Dr. Brown\u2019s"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -17891,7 +17891,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "Peter O’Toole"
+					"text": "Peter O\u2019Toole"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -17950,7 +17950,7 @@
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "grandma’s rocking chair"
+					"text": "grandma\u2019s rocking chair"
 				}, {
 					"difficulty": 0,
 					"correct": false,
@@ -18277,7 +18277,7 @@
 		}, {
 			"x": false,
 			"id": 56516,
-			"text": "<i>Darkwing Duck</i> Villains",
+			"text": "<i>Darkwing Duck<\/i> Villains",
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
@@ -18364,83 +18364,83 @@
 			"choices": [{
 					"difficulty": -1,
 					"correct": true,
-					"text": "“Bohemian Rhapsody”"
+					"text": "\u201cBohemian Rhapsody\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Under Pressure”"
+					"text": "\u201cUnder Pressure\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“We Will Rock You”"
+					"text": "\u201cWe Will Rock You\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Killer Queen”"
+					"text": "\u201cKiller Queen\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Crazy Little Thing Called Love”"
+					"text": "\u201cCrazy Little Thing Called Love\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Another One Bites The Dust”"
+					"text": "\u201cAnother One Bites The Dust\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Radio Ga Ga”"
+					"text": "\u201cRadio Ga Ga\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Somebody To Love”"
+					"text": "\u201cSomebody To Love\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“Don’t Stop Me Now”"
+					"text": "\u201cDon\u2019t Stop Me Now\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "“I Want It All”"
+					"text": "\u201cI Want It All\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“De Do Do Do, De Da Da Da”"
+					"text": "\u201cDe Do Do Do, De Da Da Da\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Roxanne”"
+					"text": "\u201cRoxanne\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Ob-La-Di, Ob-La-Da”"
+					"text": "\u201cOb-La-Di, Ob-La-Da\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Candle In The Wind”"
+					"text": "\u201cCandle In The Wind\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Friends In Low Places”"
+					"text": "\u201cFriends In Low Places\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Mr. Brightside”"
+					"text": "\u201cMr. Brightside\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Crazy In Love”"
+					"text": "\u201cCrazy In Love\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Party Rock Anthem”"
+					"text": "\u201cParty Rock Anthem\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Royals”"
+					"text": "\u201cRoyals\u201d"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "“Stairway To Heaven”"
+					"text": "\u201cStairway To Heaven\u201d"
 				}
 			],
 			"us": false
@@ -18451,79 +18451,79 @@
 			"choices": [{
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>An American Werewolf in London</i>"
+					"text": "<i>An American Werewolf in London<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Big Fish</i>"
+					"text": "<i>Big Fish<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Ginger Snaps</i>"
+					"text": "<i>Ginger Snaps<\/i>"
 				}, {
 					"difficulty": -1,
 					"correct": true,
-					"text": "<i>Harry Potter and the Prisoner of Azkaban</i>"
+					"text": "<i>Harry Potter and the Prisoner of Azkaban<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Howling</i>"
+					"text": "<i>The Howling<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>I Was A Teenage Werewolf</i>"
+					"text": "<i>I Was A Teenage Werewolf<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Monster Squad</i>"
+					"text": "<i>The Monster Squad<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>The Twilight Saga: Eclipse</i>"
+					"text": "<i>The Twilight Saga: Eclipse<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>Underworld</i>"
+					"text": "<i>Underworld<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": true,
-					"text": "<i>What We Do In The Shadows</i>"
+					"text": "<i>What We Do In The Shadows<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Wolf of Wall Street</i>"
+					"text": "<i>The Wolf of Wall Street<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Lone Wolf McQuade</i>"
+					"text": "<i>Lone Wolf McQuade<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Peter and the Wolf</i>"
+					"text": "<i>Peter and the Wolf<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>The Grey</i>"
+					"text": "<i>The Grey<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Harry Potter and the Chamber of Secrets</i>"
+					"text": "<i>Harry Potter and the Chamber of Secrets<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Beetlejuice</i>"
+					"text": "<i>Beetlejuice<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>K9</i>"
+					"text": "<i>K9<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>Dances With Wolves</i>"
+					"text": "<i>Dances With Wolves<\/i>"
 				}, {
 					"difficulty": 0,
 					"correct": false,
-					"text": "<i>White Fang</i>"
+					"text": "<i>White Fang<\/i>"
 				}
 			],
 			"us": false
@@ -21302,6 +21302,74 @@
 					"text": "Zenyatta"
 				}, {
 					"difficulty": 0,
+					"correct": true,
+					"text": "Cassidy"
+				}, {
+					"difficulty": 0,
+					"correct": true,
+					"text": "Hana Song"
+				}, {
+					"difficulty": 0,
+					"correct": true,
+					"text": "Mako Rutledge"
+				}, {
+					"difficulty": 0,
+					"correct": true,
+					"text": "Siebren de Kuiper"
+				}, {
+					"difficulty": 0,
+					"correct": true,
+					"text": "Hammond"
+				}, {
+					"difficulty": 0,
+					"correct": true,
+					"text": "Aleksandra Zaryanova"
+				}, {
+					"difficulty": 0,
+					"correct": true,
+					"text": "Siege Automaton E54"
+				}, {
+					"difficulty": 0,
+					"correct": true,
+					"text": "Cole Cassidy"
+				}, {
+					"difficulty": 0,
+					"correct": true,
+					"text": "Akande Ogundimu"
+				}, {
+					"difficulty": 0,
+					"correct": true,
+					"text": "Fareeha Amari"
+				}, {
+					"difficulty": 0,
+					"correct": true,
+					"text": "Jamison Fawkes"
+				}, {
+					"difficulty": 0,
+					"correct": true,
+					"text": "Gabriel Reyes"
+				}, {
+					"difficulty": 0,
+					"correct": true,
+					"text": "Olivia Colomar"
+				}, {
+					"difficulty": 0,
+					"correct": true,
+					"text": "Satya Vaswani"
+				}, {
+					"difficulty": 0,
+					"correct": true,
+					"text": "Lena Oxton"
+				}, {
+					"difficulty": 0,
+					"correct": true,
+					"text": "Amelie Lacroix"
+				}, {
+					"difficulty": 0,
+					"correct": true,
+					"text": "Angela Ziegler"
+				}, {
+					"difficulty": 0,
 					"correct": false,
 					"text": "Phoenix"
 				}, {
@@ -21412,6 +21480,18 @@
 					"difficulty": 0,
 					"correct": false,
 					"text": "Athena"
+				}, {
+					"difficulty": 0,
+					"correct": false,
+					"text": "Efi Oladele"
+				}, {
+					"difficulty": 0,
+					"correct": false,
+					"text": "McCree"
+				}, {
+					"difficulty": 0,
+					"correct": false,
+					"text": "Jesse McCree"
 				}
 			],
 			"us": false
@@ -27309,7 +27389,7 @@
 					"text": "stpeach"
 				}, {
 					"difficulty": 0,
-					"correct": false,
+					"correct": true,
 					"text": "csgomc_ru"
 				}, {
 					"difficulty": 0,
@@ -27321,7 +27401,7 @@
 					"text": "botezlive"
 				}, {
 					"difficulty": 0,
-					"correct": false,
+					"correct": true,
 					"text": "tarik"
 				}, {
 					"difficulty": 0,
@@ -27421,7 +27501,7 @@
 					"text": "CodeMiko"
 				}, {
 					"difficulty": 0,
-					"correct": false,
+					"correct": true,
 					"text": "PGL"
 				}, {
 					"difficulty": 0,
@@ -33027,6 +33107,10 @@
 					"difficulty": 0,
 					"correct": true,
 					"text": "soy"
+				}, {
+					"difficulty": 0,
+					"correct": true,
+					"text": "Half Tunisian"
 				}, {
 					"difficulty": 0,
 					"correct": false,
