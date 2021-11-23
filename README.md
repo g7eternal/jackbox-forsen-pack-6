@@ -5,6 +5,8 @@ The pack features a lot of content related to [Sebastian "RolePlayer" Fors (Fors
 
 In order to install the pack you must own the original game. Installer supports only Steam edition of the game.
 
+It is recommended that you update the pack frequently - either using our autoinstaller, or manually. Refer to [Releases](https://github.com/g7eternal/jackbox-forsen-pack-6/releases) section to see the changelogs for each update.
+
 > ⚠ This pack contains strong language :)
 
 ## About the pack
