@@ -4,9 +4,12 @@
 #define MyAppURL "https://github.com/g7eternal/jackbox-forsen-pack-6"
 #define MyAppSourceURL "https://github.com/g7eternal/jackbox-forsen-pack-6/archive/refs/heads/main.zip"
 #define MyAppExeName ""
-; Advice: repack the installer every time you bump the version! (use a custom build script)
+; Advice: repack the installer every time you bump the major version! (use a custom build script)
 
 [Setup]
+; for digital signature define signing tool in compiler as:
+; ms-sign-tool=signtool.exe sign /tr http://timestamp.digicert.com /td sha256 /fd sha256 /f "/path/to/certificate.pfx" /p cert-password /a $p
+SignTool=ms-sign-tool $f
 AppId={{3DFF9343-7C02-4E19-9C5D-06366FDA9B4A}
 AppName={#MyAppName}
 AppVersion={#MyAppVersion}
