@@ -16,7 +16,6 @@ GlitchNRG
 GlitchLit
 StinkyGlitch
 GlitchCat
-ShowOfHands
 FootGoal
 FootYellow
 FootBall
@@ -24,7 +23,6 @@ BlackLivesMatter
 ExtraLife
 VirtualHug
 BOP
-PorscheWIN
 SingsNote
 SingsMic
 TwitchSings
@@ -32,7 +30,6 @@ SoonerLater
 HolidayTree
 HolidaySanta
 HolidayPresent
-HolidayOrnament
 HolidayLog
 HolidayCookie
 GunRun
@@ -54,9 +51,6 @@ EarthDay
 TombRaid
 PopCorn
 FBtouchdown
-PurpleStar
-GreenTeam
-RedTeam
 TPFufun
 TwitchVotes
 DarkMode
@@ -123,7 +117,6 @@ DatSheffy
 TheTarFu
 PicoMause
 TinyFace
-DrinkPurple
 DxCat
 RuleFive
 VoteNay
