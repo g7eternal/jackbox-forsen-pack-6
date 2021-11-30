@@ -627,33 +627,6 @@
 		},
 		{
 			"x": false,
-			"id": 99011,
-			"text": "Countries neighboring Sweden<br><i>maritime borders not included</i>",
-			"pic": false,
-			"answers": [
-				{
-					"answer": "Finland",
-					"alt": [
-						"Suomi"
-					]
-				},
-				{
-					"answer": "Norway",
-					"alt": [
-						"Norge"
-					]
-				},
-				{
-					"answer": "Denmark",
-					"alt": [
-						"Danmark"
-					]
-				}
-			],
-			"us": false
-		},
-		{
-			"x": false,
 			"id": 99012,
 			"text": "Forsen's top 5 streaming categories<br><i>including only games</i>",
 			"pic": false,
