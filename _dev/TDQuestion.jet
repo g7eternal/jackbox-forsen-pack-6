@@ -26962,22 +26962,23 @@
 				{
 					"controllerClass": "",
 					"correct": true,
-					"text": "No"
+					"realText": "NO!",
+					"text": "Yes"
 				},
 				{
 					"controllerClass": "",
 					"correct": false,
-					"text": "No"
+					"text": "Yes"
 				},
 				{
 					"controllerClass": "",
 					"correct": false,
-					"text": "No"
+					"text": "Yes"
 				},
 				{
 					"controllerClass": "",
 					"correct": false,
-					"text": "No"
+					"text": "Yes"
 				}
 			],
 			"us": false,
