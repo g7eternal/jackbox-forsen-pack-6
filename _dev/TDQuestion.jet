@@ -29692,37 +29692,6 @@
 		{
 			"hasOutro": false,
 			"x": false,
-			"id": 87724,
-			"text": "Who is the face of the BatChest global Twitch emote?",
-			"pic": false,
-			"choices": [
-				{
-					"controllerClass": "",
-					"correct": true,
-					"text": "Curtis Scott"
-				},
-				{
-					"controllerClass": "",
-					"correct": false,
-					"text": "Josh DeSeno"
-				},
-				{
-					"controllerClass": "",
-					"correct": false,
-					"text": "Alex Jebailey"
-				},
-				{
-					"controllerClass": "",
-					"correct": false,
-					"text": "Justin Kan"
-				}
-			],
-			"us": false,
-			"hasIntro": false
-		},
-		{
-			"hasOutro": false,
-			"x": false,
 			"id": 77072,
 			"text": "Where do the events of <i>Far Cry 6</i> take place?",
 			"pic": false,
