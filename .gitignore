@@ -1,5 +1,6 @@
 node_modules/
 logs/
+src/
 
 _dev/src/
 _dev/installer/target/
@@ -13,3 +14,4 @@ jackbox-forsen-pack-6.zip
 *.pfx
 *.cer
 *.crt
+*.jshint
