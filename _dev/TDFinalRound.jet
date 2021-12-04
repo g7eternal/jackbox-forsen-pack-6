@@ -39820,6 +39820,1639 @@
 				}
 			],
 			"us": false
+		},
+		{
+			"x": false,
+			"id": 66118,
+			"text": "Cancer",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "RAGE SIREN"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "PEPPAH Rat March"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "PEPPAH"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Sorting algorithms"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Forsen's chat"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "WAAAH (10 hours)"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Chandelier (right version)"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Xue Hua Piao Piao"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "TrollDance song"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66119,
+			"text": "Sigma Grindset",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Work out 25 hours per day"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "No remorse"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Breathing is a waste of time"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Sleep on the ceiling"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Real men don't wipe"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Piss into sink"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Consume more vitamins"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Explain your POV"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Be the man everyone wants you to be"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Befriend your enemy"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Sleep 8-10 hrs per day"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66120,
+			"text": "Top 5 BetterTTV emotes",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "POGGERS"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "OMEGALUL"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Clap"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "catJAM"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "monkaS"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "AYAYA"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "gachiBASS"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "5Head"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "PogU"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "LULW"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "LULE"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Sadge"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66121,
+			"text": "Top 5 FFZ emotes",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "OMEGALUL"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "POG"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "PepeHands"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Pepega"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "widepeepoHappy"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Kapp"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "forsenCD"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "KKomrade"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "monkaOMEGA"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "HYPERBRUH"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "EZY"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "3Head"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "HandsUp"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66122,
+			"text": "FFZ Global emotes",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "BORT"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "CatBag"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "LaterSooner"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "LilZ"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "ManChicken"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "OBOY"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "OiMinna"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "YooHoo"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "ZliL"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "ZrehplaR"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "ZreknarF"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "SourPls"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "VapeNation"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "VisLaud"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "HandsUp"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "3Head"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "LULW"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "OMEGALUL"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "EZY"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "TriHard"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "WideHardo"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66123,
+			"text": "BetterTTV Global emotes",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": ":tf:"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "AngelThump"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "ariW"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "BroBalt"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "D:"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "FireSpeed"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "FishMoley"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "ForeverAlone"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "GabeN"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "haHAA"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "HailHelix"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Hhhehehe"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "KappaCool"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "KaRappa"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "KKona"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "M&Mjc"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "monkaS"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "NaM"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "PoleDoge"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "RarePepe"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "RonSmug"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "SaltyCorn"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "ShoopDaWhoop"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "HandsUp"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "4Head"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "EleGiggle"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "LaterSooner"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "EZ"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Clap"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "WideHardo"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "LilZ"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "AlienDance"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "YEAHBUT7TV"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66124,
+			"text": "7TV Global emotes",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Stare"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "TeaTime"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "SnowTime"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "WAYTOODANK"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "PianoTime"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "GuitarTime"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "nymnCorn"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "gachiBASS"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "EZ"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Clap"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "AlienDance"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "reckH"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "WineTime"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "PartyTime"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "GameTime"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "FapTime"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "AlienPls"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "7tvCD"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "pogoPls"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "WideHardo"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66125,
+			"text": "Primary colors of light",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Red"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Green"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Blue"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Yellow"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Cyan"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Brown"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Purple"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Violet"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Pink"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Gray"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "White"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Black"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66126,
+			"text": "Color models",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "RYB"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "RGB"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "CMYK"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "HSL"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "HSV"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "CIELCH"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "VSD"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "YNWA"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "MUFC"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "LULE"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "YRGB"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "RGBK"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "YST"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66127,
+			"text": "Trigonometric functions",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "sine"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "cosine"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "tangent"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "cosecant"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "secant"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "cotangent"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "codomain"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "integral"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "derivative"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "interval"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "asymptote"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "coordinate"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "convergence"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66128,
+			"text": "Condiments",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "ketchup"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "mustard"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "mayonnaise"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "BBQ sauce"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "teriyaki sauce"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "soy sauce"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Marmite"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "sour cream"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "broth"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "grease"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "earwax"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "fire"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "ice"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "moon sauce"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Xi chi ni"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "WD-40"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66129,
+			"text": "Widescreen resolutions",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "1920x1080"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "1600x900"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "2560x1440"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "3840x2160"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "7680x4320"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "1280x720"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "960x540"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "6400x4800"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "1440x1440"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "2800x2100"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "2732x2048"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "2560x1920"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "1800x1440"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "1920x1280"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "1440x1080"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "1024x768"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66130,
+			"text": "Display technologies",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "CRT"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "LCD"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "LED"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "OLED"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "QLED"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "IMOD"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "PDP"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "LCED"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "QDPE"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "FCED"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Transparent CRT"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "TNT"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "TCR"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "WTT"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66131,
+			"text": "Benefits of Twitch Turbo",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Ad-free viewing"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Chat badge"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Expanded emote set"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Custom chat username colors"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Extended broadcast storage"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Additional emote slots"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ability to upload longer GIF emotes"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Free subscription to any streamer"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Eligibility for in-game drops"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ability to customize home page"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66132,
+			"text": "Marvel",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Gambit"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "The Hulk"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Iceman"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Silver Surfer"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Magneto"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Green Goblin"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Spider-Man"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Daredevil"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Thor"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Hawkeye"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Dr Strange"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Deadpool"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Nightcrawler"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Wolverine"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Mr. Fantastic"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Punisher"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Captain America"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Professor X"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Johnny Storm"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Black Panther"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Jean Grey"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Zatanna"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Martian Manhunter"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Robin"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Batman"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "The Joker"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Blue Beetle"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Black Canary"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Power Girl"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Jonah Hex"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Huntress"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Bizarro"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "The Flash"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Plastic Man"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Mister Freeze"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Elongated Man"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Booster Gold"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Catwoman"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Aquaman"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Superman"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Hawkman"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Green Lantern"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Wonder Woman"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Lex Luthor"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66133,
+			"text": "DC Universe",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Zatanna"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Martian Manhunter"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Robin"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Batman"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "The Joker"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Blue Beetle"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Black Canary"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Power Girl"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Jonah Hex"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Huntress"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Bizarro"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "The Flash"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Plastic Man"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Mister Freeze"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Elongated Man"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Booster Gold"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Catwoman"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Aquaman"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Superman"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Hawkman"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Green Lantern"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Wonder Woman"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Lex Luthor"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Gambit"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "The Hulk"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Iceman"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Silver Surfer"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Magneto"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Green Goblin"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Spider-Man"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Daredevil"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Thor"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Hawkeye"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Dr Strange"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Deadpool"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Nightcrawler"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Wolverine"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Mr. Fantastic"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Punisher"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Captain America"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Professor X"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Johnny Storm"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Black Panther"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Jean Grey"
+				}
+			],
+			"us": false
 		}
 	]
 }
