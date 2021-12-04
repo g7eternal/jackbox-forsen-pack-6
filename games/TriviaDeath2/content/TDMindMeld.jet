@@ -676,28 +676,104 @@
 		{
 			"x": false,
 			"id": 99013,
-			"text": "Face cards in a standard 52-card deck<br><i>Pick a card, any card</i>",
+			"text": "Poker hands<br><i>the combination names</i>",
 			"pic": false,
 			"answers": [
 				{
-					"answer": "Queen",
+					"answer": "Full house",
 					"alt": [
-						"Q",
-						"Dame"
+						"house",
+						"full boat",
+						"boat",
+						"full hand",
+						"three and two",
+						"3 and 2"
 					]
 				},
 				{
-					"answer": "Jack",
+					"answer": "Straight",
 					"alt": [
-						"J",
-						"valet",
-						"knave"
+						"sequential",
+						"broadway straight",
+						"baby straight",
+						"bicycle",
+						"wheel"
 					]
 				},
 				{
-					"answer": "King",
+					"answer": "Three of a kind",
 					"alt": [
-						"K"
+						"3 of a kind",
+						"three cards",
+						"3 cards",
+						"same three cards",
+						"same 3 cards",
+						"trips",
+						"set",
+						"triples",
+						"triple"
+					]
+				},
+				{
+					"answer": "Two pair",
+					"alt": [
+						"2 pairs",
+						"double pair",
+						"two pairs"
+					]
+				},
+				{
+					"answer": "One pair",
+					"alt": [
+						"pair",
+						"a pair",
+						"double",
+						"2 cards",
+						"two cards",
+						"1 pair",
+						"single pair"
+					]
+				},
+				{
+					"answer": "Five of a kind",
+					"alt": [
+						"5 of a kind",
+						"five cards",
+						"5 cards"
+					]
+				},
+				{
+					"answer": "Straight flush",
+					"alt": [
+						"straight flash"
+					]
+				},
+				{
+					"answer": "Flush",
+					"alt": [
+						"flash",
+						"same suit"
+					]
+				},
+				{
+					"answer": "Four of a kind",
+					"alt": [
+						"four cards",
+						"4 of a kind",
+						"4 cards",
+						"quads"
+					]
+				},
+				{
+					"answer": "High card",
+					"alt": [
+						"no pair",
+						"nothing",
+						"no combo",
+						"no combination",
+						"top card",
+						"best card",
+						"no card"
 					]
 				}
 			],
@@ -793,6 +869,10 @@
 					"answer": "Donation",
 					"alt": [
 						"donate",
+						"credit card",
+						"paypal",
+						"credit",
+						"send money",
 						"dono",
 						"-10",
 						"LULW",
