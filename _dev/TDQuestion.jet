@@ -33001,6 +33001,378 @@
 			],
 			"us": false,
 			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77145,
+			"text": "Which desert is the largest one?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Antarctic"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Sahara"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Great Australian"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Gobi"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77146,
+			"text": "Forsen's longest stream was going for approximately how long?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "21.5 hrs"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "14.4 hrs"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "8.9 hrs"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "12.9 hrs"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77147,
+			"text": "Which Twitch channel holds the record for all-time peak active sub count?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Ninja"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Ludwig"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Summit1G"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Shroud"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77148,
+			"text": "If Albert Einstein was so smart, then why did he die?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "His immune system attacked himself"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "His abdominal aorta ruptured"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "His kidneys failed to filter out the toxins"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "He wasn't smart enough to counter ageing"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77149,
+			"text": "Which country banned ice cream during World War II?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "USA"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "China"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Sweden"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Italy"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77150,
+			"text": "Which of these COVID-19 variations is yet to be discovered?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Kappa"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Chi"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Eta"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Mu"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77151,
+			"text": "What is (was) <i>Twitch Sings</i>?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "A category for the singers to stream in"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "A continuous livestream experiment"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "A show about looking for talents"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "A livestreaming singing game"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77152,
+			"text": "Which ultra rare add-on will cause Survivors within a short range of the <i>Oni</i> to scream anytime he misses with a <i>Demon Strike</i>?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Renjiro's Bloody Glove"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Renjiro's Family Crest"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Iridescent Bloody Glove"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Iridescent Family Crest"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77153,
+			"text": "In 2FA, which one of these cannot be considered as a factor?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Fingerprint"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Password"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Location (GPS)"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Username"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77154,
+			"text": "Which component is loaded first when you boot up your PC?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "UEFI"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "BOOTMGR"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "GRUB"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "NTLDR"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77155,
+			"text": "Which removable data storage has the least space for data on average?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "USB flash drive"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Optical disc"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Floppy disk"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Punch card"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77156,
+			"text": "In <i>Tekken 7</i>, Katarina's signature combo is:",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "u/f + 1, 1, u/b + 4, 4"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "u/f + 4, 4, 4, 4, 4"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "f, f + 4, 4, b + 4"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "1+4, u/b + 4"
+				}
+			],
+			"us": false,
+			"hasIntro": false
 		}
 	]
 }
