@@ -934,37 +934,6 @@
 		{
 			"hasOutro": false,
 			"x": false,
-			"id": 77711,
-			"text": "What is Forsen's favorite TV show?",
-			"pic": false,
-			"choices": [
-				{
-					"controllerClass": "",
-					"correct": true,
-					"text": "The Sopranos"
-				},
-				{
-					"controllerClass": "",
-					"correct": false,
-					"text": "Rick and Morty"
-				},
-				{
-					"controllerClass": "",
-					"correct": false,
-					"text": "Breaking Bad"
-				},
-				{
-					"controllerClass": "",
-					"correct": false,
-					"text": "Lost"
-				}
-			],
-			"us": false,
-			"hasIntro": false
-		},
-		{
-			"hasOutro": false,
-			"x": false,
 			"id": 77712,
 			"text": "What is Forsen's favorite song?",
 			"pic": false,
@@ -2115,7 +2084,7 @@
 			"hasOutro": false,
 			"x": false,
 			"id": 77040,
-			"text": "Which number represents the largest prize pool in history of esports events? (as of 2020)",
+			"text": "Which number represents the largest prize pool in history of esports events? (as of 2021)",
 			"pic": false,
 			"choices": [
 				{
@@ -2125,18 +2094,18 @@
 				},
 				{
 					"controllerClass": "",
-					"correct": true,
+					"correct": false,
 					"text": "$34,330,069"
 				},
 				{
 					"controllerClass": "",
 					"correct": false,
-					"text": "$7,068,071"
+					"text": "$15,068,071"
 				},
 				{
 					"controllerClass": "",
-					"correct": false,
-					"text": "$3,057,521"
+					"correct": true,
+					"text": "$40,018,195"
 				}
 			],
 			"us": false,
@@ -3486,99 +3455,6 @@
 		{
 			"hasOutro": false,
 			"x": false,
-			"id": 87728,
-			"text": "Which class of IP address provides a maximum of only 254 host addresses per network ID?",
-			"pic": false,
-			"choices": [
-				{
-					"controllerClass": "",
-					"correct": true,
-					"text": "Class C"
-				},
-				{
-					"controllerClass": "",
-					"correct": false,
-					"text": "Class A"
-				},
-				{
-					"controllerClass": "",
-					"correct": false,
-					"text": "Class B"
-				},
-				{
-					"controllerClass": "",
-					"correct": false,
-					"text": "Class D"
-				}
-			],
-			"us": false,
-			"hasIntro": false
-		},
-		{
-			"hasOutro": false,
-			"x": false,
-			"id": 87729,
-			"text": "You want to implement a mechanism that automates the IP configuration, including IP address, subnet mask, default gateway, and DNS information. Which protocol will you use to accomplish this?",
-			"pic": false,
-			"choices": [
-				{
-					"controllerClass": "",
-					"correct": true,
-					"text": "DHCP"
-				},
-				{
-					"controllerClass": "",
-					"correct": false,
-					"text": "TCP/IP"
-				},
-				{
-					"controllerClass": "",
-					"correct": false,
-					"text": "HTTPS"
-				},
-				{
-					"controllerClass": "",
-					"correct": false,
-					"text": "HTML"
-				}
-			],
-			"us": false,
-			"hasIntro": false
-		},
-		{
-			"hasOutro": false,
-			"x": false,
-			"id": 87730,
-			"text": "What layer in the TCP/IP stack is equivalent to the Transport layer of the OSI model?",
-			"pic": false,
-			"choices": [
-				{
-					"controllerClass": "",
-					"correct": true,
-					"text": "Host-to-Host"
-				},
-				{
-					"controllerClass": "",
-					"correct": false,
-					"text": "Client-to-Client"
-				},
-				{
-					"controllerClass": "",
-					"correct": false,
-					"text": "Host-to-Client"
-				},
-				{
-					"controllerClass": "",
-					"correct": false,
-					"text": "Client-to-Host"
-				}
-			],
-			"us": false,
-			"hasIntro": false
-		},
-		{
-			"hasOutro": false,
-			"x": false,
 			"id": 87731,
 			"text": "How tall is the Twitch Streamer, <i>NymN<i>?",
 			"pic": false,
@@ -4448,7 +4324,7 @@
 			"hasOutro": false,
 			"x": false,
 			"id": 77085,
-			"text": "If the probability of meeting a wolf in the forest in 3 hours is 15%, what is the probability of  meeting a wolf in 1 hour?",
+			"text": "If the probability of meeting a wolf in the forest in 3 hours is 15%, what is the probability of meeting a wolf in 1 hour?",
 			"pic": false,
 			"choices": [
 				{
@@ -6645,17 +6521,17 @@
 			"hasOutro": false,
 			"x": false,
 			"id": 77128,
-			"text": "Which of these subreddits has the most members? (as of Oct'21)",
+			"text": "Which of these subreddits has the most members? (as of Dec'21)",
 			"pic": false,
 			"choices": [
 				{
 					"controllerClass": "",
-					"correct": true,
+					"correct": false,
 					"text": "r/forsen"
 				},
 				{
 					"controllerClass": "",
-					"correct": false,
+					"correct": true,
 					"text": "r/xqcow"
 				},
 				{
@@ -6831,7 +6707,7 @@
 			"hasOutro": false,
 			"x": false,
 			"id": 77134,
-			"text": "Which english numeral has letters arranged in alphabetical order when spelled?",
+			"text": "Which numeral has letters arranged in alphabetical order when spelled?",
 			"pic": false,
 			"choices": [
 				{
@@ -7544,7 +7420,7 @@
 			"hasOutro": false,
 			"x": false,
 			"id": 77152,
-			"text": "Which ultra rare add-on will cause Survivors within a short range of the <i>Oni</i> to scream anytime he misses with a <i>Demon Strike</i>?",
+			"text": "In <i>DBD</i> which ultra rare add-on will cause Survivors within a short range of the <i>Oni</i> to scream anytime he misses with a <i>Demon Strike</i>?",
 			"pic": false,
 			"choices": [
 				{

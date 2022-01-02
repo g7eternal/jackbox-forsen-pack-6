@@ -8522,7 +8522,7 @@
 				{
 					"difficulty": 0,
 					"correct": false,
-					"text": "I'm retarded"
+					"text": "I'm dead rn"
 				},
 				{
 					"difficulty": 0,
@@ -12646,16 +12646,6 @@
 				{
 					"difficulty": 0,
 					"correct": true,
-					"text": "A"
-				},
-				{
-					"difficulty": 0,
-					"correct": true,
-					"text": "The"
-				},
-				{
-					"difficulty": 0,
-					"correct": true,
 					"text": "On"
 				},
 				{
@@ -15502,11 +15492,6 @@
 				{
 					"difficulty": 0,
 					"correct": false,
-					"text": "Retard"
-				},
-				{
-					"difficulty": 0,
-					"correct": false,
 					"text": "Mentally challenged"
 				},
 				{
@@ -16108,7 +16093,7 @@
 		{
 			"x": false,
 			"id": 66108,
-			"text": "Days with Forsen's most follow count increase<br>(on average, all time)",
+			"text": "Days when forsen has more followers than average",
 			"choices": [
 				{
 					"difficulty": 0,
