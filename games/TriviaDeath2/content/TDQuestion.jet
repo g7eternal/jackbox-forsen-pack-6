@@ -903,68 +903,6 @@
 		{
 			"hasOutro": false,
 			"x": false,
-			"id": 77710,
-			"text": "What is forsen's favorite Snus?",
-			"pic": false,
-			"choices": [
-				{
-					"controllerClass": "",
-					"correct": false,
-					"text": "Skruf Original"
-				},
-				{
-					"controllerClass": "",
-					"correct": false,
-					"text": "LIDL XR"
-				},
-				{
-					"controllerClass": "",
-					"correct": true,
-					"text": "General G3"
-				},
-				{
-					"controllerClass": "",
-					"correct": false,
-					"text": "General Original"
-				}
-			],
-			"us": false,
-			"hasIntro": false
-		},
-		{
-			"hasOutro": false,
-			"x": false,
-			"id": 77712,
-			"text": "What is Forsen's favorite song?",
-			"pic": false,
-			"choices": [
-				{
-					"controllerClass": "",
-					"correct": false,
-					"text": "(Don't Fear) The Reaper"
-				},
-				{
-					"controllerClass": "",
-					"correct": false,
-					"text": "Paint It, Black"
-				},
-				{
-					"controllerClass": "",
-					"correct": false,
-					"text": "Back In Black"
-				},
-				{
-					"controllerClass": "",
-					"correct": true,
-					"text": "Stairway to Heaven"
-				}
-			],
-			"us": false,
-			"hasIntro": false
-		},
-		{
-			"hasOutro": false,
-			"x": false,
 			"id": 77713,
 			"text": "How long did forsen get banned for when he showed a horse cock on stream in 2020?",
 			"pic": false,
@@ -1137,7 +1075,7 @@
 				{
 					"controllerClass": "",
 					"correct": false,
-					"text": "2022"
+					"text": "2023"
 				},
 				{
 					"controllerClass": "",
