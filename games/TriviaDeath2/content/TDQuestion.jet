@@ -7510,190 +7510,190 @@
 			"hasIntro": false
 		},
 		{
-      "hasOutro": false,
-      "x": false,
-      "id": 89705,
-      "text": "What was the last message Nina posted in chat?",
-      "pic": false,
-      "choices": [
-        {
-          "controllerClass": "",
-          "correct": true,
-          "text": "thanks spy"
-        },
-        {
-          "controllerClass": "",
-          "correct": false,
-          "text": "https://skribbl.io/?OGrtwS102V0i"
-        },
-        {
-          "controllerClass": "",
-          "correct": false,
-          "text": "come here sniper"
-        },
-        {
-          "controllerClass": "",
-          "correct": false,
-          "text": "ok bibi"
-        }
-      ],
-      "us": false,
-      "hasIntro": false
-    },
-    {
-      "hasOutro": false,
-      "x": false,
-      "id": 89706,
-      "text": "When was Nina last seen on stream?",
-      "pic": false,
-      "choices": [
-        {
-          "controllerClass": "",
-          "correct": true,
-          "text": "25/11/2020"
-        },
-        {
-          "controllerClass": "",
-          "correct": false,
-          "text": "10/4/2020"
-        },
-        {
-          "controllerClass": "",
-          "correct": false,
-          "text": "5/2/2020"
-        },
-        {
-          "controllerClass": "",
-          "correct": false,
-          "text": "9/8/2020"
-        }
-      ],
-      "us": false,
-      "hasIntro": false
-    },
-    {
-      "hasOutro": false,
-      "x": false,
-      "id": 89707,
-      "text": "What was forsen's rank in the leaked twitch earnings leaderboard?",
-      "pic": false,
-      "choices": [
-        {
-          "controllerClass": "",
-          "correct": true,
-          "text": "118"
-        },
-        {
-          "controllerClass": "",
-          "correct": false,
-          "text": "1"
-        },
-        {
-          "controllerClass": "",
-          "correct": false,
-          "text": "188"
-        },
-        {
-          "controllerClass": "",
-          "correct": false,
-          "text": "81"
-        }
-      ],
-      "us": false,
-      "hasIntro": false
-    },
-    {
-      "hasOutro": false,
-      "x": false,
-      "id": 89708,
-      "text": "What the fuck is this game about? What is it about?",
-      "pic": false,
-      "choices": [
-        {
-          "controllerClass": "",
-          "correct": true,
-          "text": "A party game designed for online play for multiple people, including large audiences"
-        },
-        {
-          "controllerClass": "",
-          "correct": false,
-          "text": "A game about a real life hotel"
-        },
-        {
-          "controllerClass": "",
-          "correct": false,
-          "text": "A battle royale game in which up to 100 players fight to be the last person standing"
-        },
-        {
-          "controllerClass": "",
-          "correct": false,
-          "text": "A trivia game with custom questions about a Swedish streamer mostly"
-        }
-      ],
-      "us": false,
-      "hasIntro": false
-    },
-    {
-      "hasOutro": false,
-      "x": false,
-      "id": 89709,
-      "text": "Which Twitch bot is modded in the most channels?",
-      "pic": false,
-      "choices": [
-        {
-          "controllerClass": "",
-          "correct": true,
-          "text": "Nightbot"
-        },
-        {
-          "controllerClass": "",
-          "correct": false,
-          "text": "StreamElements"
-        },
-        {
-          "controllerClass": "",
-          "correct": false,
-          "text": "Streamlabs"
-        },
-        {
-          "controllerClass": "",
-          "correct": false,
-          "text": "Moobot"
-        }
-      ],
-      "us": false,
-      "hasIntro": false
-    },
-    {
-      "hasOutro": false,
-      "x": false,
-      "id": 89710,
-      "text": "What is something only the real forsen would say?",
-      "pic": false,
-      "choices": [
-        {
-          "controllerClass": "",
-          "correct": true,
-          "text": "The Sopranos is my favorite TV show"
-        },
-        {
-          "controllerClass": "",
-          "correct": false,
-          "text": "I love Valorant"
-        },
-        {
-          "controllerClass": "",
-          "correct": false,
-          "text": "Nina and Peppah are well and alive"
-        },
-        {
-          "controllerClass": "",
-          "correct": false,
-          "text": "Buy an iPhone"
-        }
-      ],
-      "us": false,
-      "hasIntro": false
-    }
+			"hasOutro": false,
+			"x": false,
+			"id": 89705,
+			"text": "What was the last message Nina posted in chat?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "thanks spy"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "https://skribbl.io/?OGrtwS102V0i"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "come here sniper"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "ok bibi"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 89706,
+			"text": "When was Nina last seen on stream?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "25/11/2020"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "10/4/2020"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "5/2/2020"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "9/8/2020"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 89707,
+			"text": "What was forsen's rank in the leaked twitch earnings leaderboard?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "118"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "1"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "188"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "81"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 89708,
+			"text": "What the fuck is this game about? What is it about?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "A party game designed for online play for multiple people, including large audiences"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "A game about a real life hotel"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "A battle royale game in which up to 100 players fight to be the last person standing"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "A trivia game with custom questions about a Swedish streamer mostly"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 89709,
+			"text": "Which Twitch bot is modded in the most channels?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Nightbot"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "StreamElements"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Streamlabs"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Moobot"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 89710,
+			"text": "What is something only the real forsen would say?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "The Sopranos is my favorite TV show"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "I love Valorant"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Nina and Peppah are well and alive"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Buy an iPhone"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		}
 	]
 }

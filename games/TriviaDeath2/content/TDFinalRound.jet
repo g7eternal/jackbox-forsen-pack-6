@@ -18459,375 +18459,375 @@
 			"us": false
 		},
 		{
-      "x": false,
-      "id": 67900,
-      "text": "Radio kappa titles",
-      "choices": [
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "Origins"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "Roleplayers"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "Let's Get Salty"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "Championsen"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "Clown Fiesta"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "The KappaPride Party"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "Hearthstone Drama"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "The Dank Memes"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "50 Shades of GreyFace"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "I Voted For EleGiggle"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "KappaClaus is Coming to Town"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "Liar, Liar, Drama on Fire"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "Streamers VS Memers"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "The Finale"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "monkaTOS"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "My hips don't stall"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "I voted for forsen"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "11+4"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "The Arena"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "BabyRagers"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "50 Shades of Kappa"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "monkaE"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Kappa is Coming to Town"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Streamer Drama"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Liar, Liar, Pants on Fire"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "The gachiGASM Party"
-        }
-      ],
-      "us": false
-    },
-    {
-      "x": false,
-      "id": 67901,
-      "text": "Countries that recognize Taiwan as an independent country",
-      "choices": [
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "Belize"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "Eswatini"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "Guatemala"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "Haiti"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "Vatican City"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "Honduras"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "Marshall Islands"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "Nauru"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "Palau"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "Paraguay"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "Saint Kitts and Nevis"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "Saint Lucia"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "Saint Vincent and the Grenadines"
-        },
-        {
-          "difficulty": 0,
-          "correct": true,
-          "text": "Tuvalu"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "South Africa"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "India"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Vietnam"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Japan"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Indonesia"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Myanmar"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Malaysia"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "China"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Hong Kong"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Macau"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "South Korea"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "North Korea"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Brunei"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Sweden"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "United States"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "New Zealand"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Russia"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Switzerland"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Chile"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Argentina"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "United Kingdom"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Canada"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Bhutan"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Kazakhstan"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Kyrgyzstan"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Laos"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Mongolia"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Nepal"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Pakistan"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Tajikistan"
-        },
-        {
-          "difficulty": 0,
-          "correct": false,
-          "text": "Tibet"
-        }
-      ],
-      "us": false
-    }
+			"x": false,
+			"id": 67900,
+			"text": "Radio kappa titles",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Origins"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Roleplayers"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Let's Get Salty"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Championsen"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Clown Fiesta"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "The KappaPride Party"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Hearthstone Drama"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "The Dank Memes"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "50 Shades of GreyFace"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "I Voted For EleGiggle"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "KappaClaus is Coming to Town"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Liar, Liar, Drama on Fire"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Streamers VS Memers"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "The Finale"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "monkaTOS"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "My hips don't stall"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "I voted for forsen"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "11+4"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "The Arena"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "BabyRagers"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "50 Shades of Kappa"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "monkaE"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Kappa is Coming to Town"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Streamer Drama"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Liar, Liar, Pants on Fire"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "The gachiGASM Party"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 67901,
+			"text": "Countries that recognize Taiwan as an independent country",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Belize"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Eswatini"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Guatemala"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Haiti"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Vatican City"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Honduras"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Marshall Islands"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Nauru"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Palau"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Paraguay"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Saint Kitts and Nevis"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Saint Lucia"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Saint Vincent and the Grenadines"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Tuvalu"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "South Africa"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "India"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Vietnam"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Japan"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Indonesia"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Myanmar"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Malaysia"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "China"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Hong Kong"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Macau"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "South Korea"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "North Korea"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Brunei"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Sweden"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "United States"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "New Zealand"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Russia"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Switzerland"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Chile"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Argentina"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "United Kingdom"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Canada"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Bhutan"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Kazakhstan"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Kyrgyzstan"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Laos"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Mongolia"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Nepal"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Pakistan"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Tajikistan"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Tibet"
+				}
+			],
+			"us": false
+		}
 	]
 }
