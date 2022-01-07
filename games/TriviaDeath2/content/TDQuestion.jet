@@ -7694,6 +7694,192 @@
 			],
 			"us": false,
 			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77157,
+			"text": "How many hours did Forsen stream for in 2021?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "1234"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "1808"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "1998"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "2021"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77158,
+			"text": "Which game attracted the most viewers to forsen's stream in 2021?<br>(on average)",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Jackbox Party Pack 7"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Minecraft"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Twelve Minutes"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "GTA V"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77159,
+			"text": "Top Forsen's clip of 2021 (by view count) is:",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "FORSEN PUTS THE JUICE IN THE FRIDGE AND LOCKS THE DOOR <i>(Minecraft)</i>"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "FeelsStrongMan finally <i>(Minecraft/funny TTS)</i>"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Every Game <i>(Jump King)</i>"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "pepeLaugh <i>(Just Chatting/reactsen)</i>"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77160,
+			"text": "The longest forsen's stream in 2021 went on for how long?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "6.5 hrs"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "6.9 hrs"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "7.4 hrs"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "8.3 hrs"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77161,
+			"text": "The first game forsen played on stream in 2022 is:",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Bro Falls: Ultimate Showdown"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Teamfight Tactics"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Barbie and the Magic of Pegasus"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Clownfield 2042"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77162,
+			"text": "The <i>\"0-6\"</i> meme is related to which game?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "GTA V"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Poker"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "PUBG"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Hearthstone"
+				}
+			],
+			"us": false,
+			"hasIntro": false
 		}
 	]
 }
