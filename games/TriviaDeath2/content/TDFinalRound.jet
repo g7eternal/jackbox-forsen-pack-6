@@ -2900,11 +2900,6 @@
 				{
 					"difficulty": 0,
 					"correct": true,
-					"text": "forsenLewd"
-				},
-				{
-					"difficulty": 0,
-					"correct": true,
 					"text": "forsenLicence"
 				},
 				{
@@ -8605,6 +8600,11 @@
 				{
 					"difficulty": 0,
 					"correct": true,
+					"text": "empiSwag"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
 					"text": "Kappa"
 				},
 				{
@@ -9706,7 +9706,7 @@
 				},
 				{
 					"difficulty": 0,
-					"correct": false,
+					"correct": true,
 					"text": "botezlive"
 				},
 				{
@@ -9716,7 +9716,7 @@
 				},
 				{
 					"difficulty": 0,
-					"correct": false,
+					"correct": true,
 					"text": "39daph"
 				},
 				{
@@ -9751,7 +9751,7 @@
 				},
 				{
 					"difficulty": 0,
-					"correct": false,
+					"correct": true,
 					"text": "xCry"
 				},
 				{
@@ -16949,7 +16949,7 @@
 				{
 					"difficulty": 0,
 					"correct": true,
-					"text": "POGGERS"
+					"text": "KEKW"
 				},
 				{
 					"difficulty": 0,
@@ -16975,6 +16975,11 @@
 					"difficulty": 0,
 					"correct": false,
 					"text": "AYAYA"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "POGGERS"
 				},
 				{
 					"difficulty": 0,
@@ -17022,7 +17027,7 @@
 				{
 					"difficulty": 0,
 					"correct": true,
-					"text": "POG"
+					"text": "Pog"
 				},
 				{
 					"difficulty": 0,
@@ -17141,6 +17146,16 @@
 					"difficulty": 0,
 					"correct": true,
 					"text": "ZreknarF"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "BeanieHipster"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "AndKnuckles"
 				},
 				{
 					"difficulty": 0,
@@ -17381,6 +17396,21 @@
 				{
 					"difficulty": 0,
 					"correct": true,
+					"text": "AYAYA"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "RebeccaBlack"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "knaDyppaHopeep"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
 					"text": "TeaTime"
 				},
 				{
@@ -17467,6 +17497,21 @@
 					"difficulty": 0,
 					"correct": false,
 					"text": "pogoPls"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "FeelsDonkMan"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "AlienPls"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "YEAHBUTBTTV"
 				},
 				{
 					"difficulty": 0,
