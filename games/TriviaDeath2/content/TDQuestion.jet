@@ -7698,6 +7698,37 @@
 		{
 			"hasOutro": false,
 			"x": false,
+			"id": 89711,
+			"text": "What is something only a fake Swede would say?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Djursholm is not a city"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Swedes are racist"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Danes are cool"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Volvo makes bad cars"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
 			"id": 77157,
 			"text": "How many hours did Forsen stream for in 2021?",
 			"pic": false,
