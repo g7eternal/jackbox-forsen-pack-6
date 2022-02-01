@@ -526,6 +526,11 @@
 				},
 				{
 					"difficulty": 0,
+					"correct": true,
+					"text": "Emotesly"
+				},
+				{
+					"difficulty": 0,
 					"correct": false,
 					"text": "FZ"
 				},
@@ -553,6 +558,11 @@
 					"difficulty": 0,
 					"correct": false,
 					"text": "Steam"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "BBTV"
 				}
 			],
 			"us": false
@@ -637,7 +647,7 @@
 				},
 				{
 					"difficulty": 0,
-					"correct": true,
+					"correct": false,
 					"text": "Djursholm"
 				},
 				{
@@ -6407,6 +6417,21 @@
 				},
 				{
 					"difficulty": 0,
+					"correct": true,
+					"text": "F13"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "F16"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "F24"
+				},
+				{
+					"difficulty": 0,
 					"correct": false,
 					"text": "Switch"
 				},
@@ -8595,7 +8620,7 @@
 				{
 					"difficulty": 0,
 					"correct": true,
-					"text": "forsenE"
+					"text": "suwieOwO"
 				},
 				{
 					"difficulty": 0,
@@ -8922,23 +8947,13 @@
 				},
 				{
 					"difficulty": 0,
-					"correct": false,
+					"correct": true,
 					"text": "shroud"
 				},
 				{
 					"difficulty": 0,
 					"correct": false,
 					"text": "xQcOW"
-				},
-				{
-					"difficulty": 0,
-					"correct": false,
-					"text": "HasanAbi"
-				},
-				{
-					"difficulty": 0,
-					"correct": false,
-					"text": "NymN"
 				},
 				{
 					"difficulty": 0,
@@ -9766,7 +9781,7 @@
 				},
 				{
 					"difficulty": 0,
-					"correct": false,
+					"correct": true,
 					"text": "EsfandTV"
 				},
 				{
@@ -9821,7 +9836,7 @@
 				},
 				{
 					"difficulty": 0,
-					"correct": false,
+					"correct": true,
 					"text": "CriticalRole"
 				},
 				{
@@ -14826,12 +14841,7 @@
 				{
 					"difficulty": 0,
 					"correct": true,
-					"text": "The Good"
-				},
-				{
-					"difficulty": 0,
-					"correct": true,
-					"text": "the Bad and the Ugly"
+					"text": "The Good, the Bad and the Ugly"
 				},
 				{
 					"difficulty": 0,
