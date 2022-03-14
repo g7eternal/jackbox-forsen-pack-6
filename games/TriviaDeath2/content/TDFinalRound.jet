@@ -8027,11 +8027,6 @@
 				{
 					"difficulty": 0,
 					"correct": true,
-					"text": "Dust"
-				},
-				{
-					"difficulty": 0,
-					"correct": true,
 					"text": "Inferno"
 				},
 				{
@@ -8292,11 +8287,6 @@
 					"difficulty": 0,
 					"correct": true,
 					"text": "el no sabe"
-				},
-				{
-					"difficulty": 0,
-					"correct": false,
-					"text": "overconfident"
 				},
 				{
 					"difficulty": 0,
@@ -8616,21 +8606,6 @@
 					"difficulty": 0,
 					"correct": true,
 					"text": "forsenBoys"
-				},
-				{
-					"difficulty": 0,
-					"correct": true,
-					"text": "suwieOwO"
-				},
-				{
-					"difficulty": 0,
-					"correct": true,
-					"text": "empiSwag"
-				},
-				{
-					"difficulty": 0,
-					"correct": true,
-					"text": "forsenE"
 				},
 				{
 					"difficulty": 0,
@@ -9737,11 +9712,6 @@
 				{
 					"difficulty": 0,
 					"correct": false,
-					"text": "pokelawls"
-				},
-				{
-					"difficulty": 0,
-					"correct": false,
 					"text": "reckful"
 				},
 				{
@@ -9783,11 +9753,6 @@
 					"difficulty": 0,
 					"correct": true,
 					"text": "EsfandTV"
-				},
-				{
-					"difficulty": 0,
-					"correct": false,
-					"text": "NMPLOL"
 				},
 				{
 					"difficulty": 0,
@@ -12558,7 +12523,7 @@
 		{
 			"x": false,
 			"id": 66099,
-			"text": "<i>Trivia Murder Party</i> Doll Names",
+			"text": "<i>Trivia Murder Party 2</i> Doll Names",
 			"choices": [
 				{
 					"difficulty": 0,
@@ -17130,27 +17095,7 @@
 				{
 					"difficulty": 0,
 					"correct": true,
-					"text": "OBOY"
-				},
-				{
-					"difficulty": 0,
-					"correct": true,
-					"text": "OiMinna"
-				},
-				{
-					"difficulty": 0,
-					"correct": true,
 					"text": "YooHoo"
-				},
-				{
-					"difficulty": 0,
-					"correct": true,
-					"text": "ZliL"
-				},
-				{
-					"difficulty": 0,
-					"correct": true,
-					"text": "ZrehplaR"
 				},
 				{
 					"difficulty": 0,
@@ -17161,11 +17106,6 @@
 					"difficulty": 0,
 					"correct": true,
 					"text": "BeanieHipster"
-				},
-				{
-					"difficulty": 0,
-					"correct": true,
-					"text": "AndKnuckles"
 				},
 				{
 					"difficulty": 0,
