@@ -418,6 +418,7 @@
 				{
 					"answer": "Telephone",
 					"alt": [
+						"telephones",
 						"call",
 						"phone",
 						"ring",
@@ -578,6 +579,12 @@
 					"alt": [
 						"Asexual"
 					]
+				},
+				{
+					"answer": "KappaPride",
+					"alt": [
+						"Kappa"
+					]
 				}
 			],
 			"us": false
@@ -641,6 +648,7 @@
 				{
 					"answer": "CS:GO",
 					"alt": [
+						"faceit",
 						"csgo",
 						"counter strike",
 						"counter-strike",
@@ -653,6 +661,7 @@
 					"alt": [
 						"Grand Theft Auto 5",
 						"gta 5",
+						"gta",
 						"grand theft auto v",
 						"gta5"
 					]
@@ -774,47 +783,6 @@
 						"top card",
 						"best card",
 						"no card"
-					]
-				}
-			],
-			"us": false
-		},
-		{
-			"x": false,
-			"id": 99014,
-			"text": "Words in <i>GFMB</i><br>(all genders included)",
-			"pic": false,
-			"answers": [
-				{
-					"answer": "morning",
-					"alt": []
-				},
-				{
-					"answer": "bajs",
-					"alt": [
-						"boys",
-						"bais",
-						"bags"
-					]
-				},
-				{
-					"answer": "ladies",
-					"alt": [
-						"laddies"
-					]
-				},
-				{
-					"answer": "fucking",
-					"alt": [
-						"fking",
-						"fuking"
-					]
-				},
-				{
-					"answer": "good",
-					"alt": [
-						"gut",
-						"god"
 					]
 				}
 			],
