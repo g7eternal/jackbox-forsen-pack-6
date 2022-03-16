@@ -5932,7 +5932,7 @@
 			"hasOutro": false,
 			"x": false,
 			"id": 77111,
-			"text": "What is Forsen's most frequent stream category of all time?",
+			"text": "What is Forsen's most frequent stream category?",
 			"pic": false,
 			"choices": [
 				{
@@ -7048,7 +7048,7 @@
 			"hasOutro": false,
 			"x": false,
 			"id": 89702,
-			"text": "how do we turn off notifications? how? in game, how?",
+			"text": "How do we turn off notifications? How? In game, how?",
 			"pic": false,
 			"choices": [
 				{
@@ -7172,7 +7172,7 @@
 			"hasOutro": false,
 			"x": false,
 			"id": 77146,
-			"text": "Forsen's longest stream was going for approximately how long?",
+			"text": "Forsen's longest stream was going for approximately how long?<br><i>(since 2016)</i>",
 			"pic": false,
 			"choices": [
 				{
