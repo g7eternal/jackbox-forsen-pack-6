@@ -7911,6 +7911,349 @@
 			],
 			"us": false,
 			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77163,
+			"text": "Whose face appears as a popular Twitch emote - <i>TriHard</i>?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "DeAndre Cortez Way"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Zaqueri Black"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Calvin Cordozar Broadus Jr."
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Mychal Ramon Jefferson"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77164,
+			"text": "If an analog watch shows 10:33 when seen in the mirror, what time is it now?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "10:33"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "13:27"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "14:27"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "02:23"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77165,
+			"text": "I live in Tashkent, and my current time is 13:00. Which one of my friends is currently sleeping, most likely?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "A friend in Stockholm"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "A friend in Tokyo"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "A friend in Sydney"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "A friend in Buenos Aires"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77166,
+			"text": "Whose face is the third-party emote <i>NaM</i>?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Namja"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Namisae"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "NymN"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "NAMARIKIRIN"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77167,
+			"text": "What is the official version on what happened to Peppah that day?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Lost to a hungry homeless person"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Lost to a leash"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Lost to a duct tape"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Lost to a mirror"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77168,
+			"text": "What was the record weight of the heaviest human ever recorded?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "298 kg"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "381 kg"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "485 kg"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "635 kg"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77169,
+			"text": "In 2017 <i>Pingu</i> animation series was revived in Japan under which name?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Pingu in the City"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Pingu in Japan"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Pingu and friends"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Where is Pingu?"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77170,
+			"text": "In <i>Inscryption</i>, which Scrybe introduces the base game mechanics to you?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Scrybe of Technology"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Scrybe of Magicks"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Scrybe of the Dead"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Scrybe of Beasts"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77171,
+			"text": "What key is this chord in?",
+			"pic": false,
+			"dmca": "prompt",
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "A"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "D7+11"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "G7sus4"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Cm(add9)"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77172,
+			"text": "Which key is that sound effect in?",
+			"pic": false,
+			"dmca": "intro",
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "G1"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "G4"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "G6"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "G7"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77173,
+			"text": "The web-based word puzzle game, <i>Wordle</i>, was initially developed by:",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "<i>New York Times</i> Games department"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Calvin Cordozar Broadus Jr."
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Rasmus Karlsson"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Josh Wardle"
+				}
+			],
+			"us": false,
+			"hasIntro": false
 		}
 	]
 }
