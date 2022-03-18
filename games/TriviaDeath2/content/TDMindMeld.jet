@@ -864,6 +864,51 @@
 				}
 			],
 			"us": false
+		},
+		{
+			"x": false,
+			"id": 99016,
+			"text": "<i>Team Fortress 2</i> classes",
+			"pic": false,
+			"answers": [
+				{
+					"answer": "Demoman",
+					"alt": ["explosive", "explosion", "grenade", "demolition man", "demo man", "demolition man"]
+				},
+				{
+					"answer": "Medic",
+					"alt": ["healer", "support", "heal", "doctor"]
+				},
+				{
+					"answer": "Sniper",
+					"alt": ["camper", "forsen"]
+				},
+				{
+					"answer": "Soldier",
+					"alt": ["rocketman", "rocket"]
+				},
+				{
+					"answer": "Spy",
+					"alt": ["amogus", "sus"]
+				},
+				{
+					"answer": "Scout",
+					"alt": ["zulul", "fast"]
+				},
+				{
+					"answer": "Engineer",
+					"alt": ["enginer", "repair man", "repair", "technician"]
+				},
+				{
+					"answer": "Heavy",
+					"alt": ["gunner", "tank", "fat"]
+				},
+				{
+					"answer": "Pyro",
+					"alt": ["pyromancer", "crazy", "flame", "fire", "flamethrower"]
+				}
+			],
+			"us": false
 		}
 	]
 }
