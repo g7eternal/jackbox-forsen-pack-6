@@ -1216,7 +1216,6 @@
 			"id": 87704,
 			"text": "Does Nina exist?",
 			"pic": false,
-			"randomAnswer": true,
 			"choices": [
 				{
 					"controllerClass": "",
