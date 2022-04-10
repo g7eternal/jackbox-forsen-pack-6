@@ -1,3 +1,4 @@
+
 {
 	"episodeid": 1390,
 	"content": [
@@ -23507,6 +23508,11 @@
 				},
 				{
 					"difficulty": 0,
+					"correct": true,
+					"text": "Emotesly"
+				},
+				{
+					"difficulty": 0,
 					"correct": false,
 					"text": "FZ"
 				},
@@ -23534,6 +23540,11 @@
 					"difficulty": 0,
 					"correct": false,
 					"text": "Steam"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "BBTV"
 				}
 			],
 			"us": false
@@ -23618,7 +23629,7 @@
 				},
 				{
 					"difficulty": 0,
-					"correct": true,
+					"correct": false,
 					"text": "Djursholm"
 				},
 				{
@@ -25880,7 +25891,7 @@
 				},
 				{
 					"difficulty": 0,
-					"correct": true,
+					"correct": false,
 					"text": "forsenLewd"
 				},
 				{
@@ -27426,11 +27437,6 @@
 					"difficulty": 0,
 					"correct": false,
 					"text": "DMCA"
-				},
-				{
-					"difficulty": 0,
-					"correct": false,
-					"text": "Sexual content"
 				},
 				{
 					"difficulty": 0,
@@ -29393,6 +29399,21 @@
 				},
 				{
 					"difficulty": 0,
+					"correct": true,
+					"text": "F13"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "F16"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "F24"
+				},
+				{
+					"difficulty": 0,
 					"correct": false,
 					"text": "Switch"
 				},
@@ -30988,11 +31009,6 @@
 				{
 					"difficulty": 0,
 					"correct": true,
-					"text": "Dust"
-				},
-				{
-					"difficulty": 0,
-					"correct": true,
 					"text": "Inferno"
 				},
 				{
@@ -31253,11 +31269,6 @@
 					"difficulty": 0,
 					"correct": true,
 					"text": "el no sabe"
-				},
-				{
-					"difficulty": 0,
-					"correct": false,
-					"text": "overconfident"
 				},
 				{
 					"difficulty": 0,
@@ -31580,16 +31591,6 @@
 				},
 				{
 					"difficulty": 0,
-					"correct": true,
-					"text": "forsenE"
-				},
-				{
-					"difficulty": 0,
-					"correct": true,
-					"text": "Kappa"
-				},
-				{
-					"difficulty": 0,
 					"correct": false,
 					"text": "flushE"
 				},
@@ -31903,23 +31904,13 @@
 				},
 				{
 					"difficulty": 0,
-					"correct": false,
+					"correct": true,
 					"text": "shroud"
 				},
 				{
 					"difficulty": 0,
 					"correct": false,
 					"text": "xQcOW"
-				},
-				{
-					"difficulty": 0,
-					"correct": false,
-					"text": "HasanAbi"
-				},
-				{
-					"difficulty": 0,
-					"correct": false,
-					"text": "NymN"
 				},
 				{
 					"difficulty": 0,
@@ -32687,7 +32678,7 @@
 				},
 				{
 					"difficulty": 0,
-					"correct": false,
+					"correct": true,
 					"text": "botezlive"
 				},
 				{
@@ -32697,13 +32688,8 @@
 				},
 				{
 					"difficulty": 0,
-					"correct": false,
+					"correct": true,
 					"text": "39daph"
-				},
-				{
-					"difficulty": 0,
-					"correct": false,
-					"text": "pokelawls"
 				},
 				{
 					"difficulty": 0,
@@ -32732,7 +32718,7 @@
 				},
 				{
 					"difficulty": 0,
-					"correct": false,
+					"correct": true,
 					"text": "xCry"
 				},
 				{
@@ -32747,13 +32733,8 @@
 				},
 				{
 					"difficulty": 0,
-					"correct": false,
+					"correct": true,
 					"text": "EsfandTV"
-				},
-				{
-					"difficulty": 0,
-					"correct": false,
-					"text": "NMPLOL"
 				},
 				{
 					"difficulty": 0,
@@ -32802,7 +32783,7 @@
 				},
 				{
 					"difficulty": 0,
-					"correct": false,
+					"correct": true,
 					"text": "CriticalRole"
 				},
 				{
@@ -35524,7 +35505,7 @@
 		{
 			"x": false,
 			"id": 66099,
-			"text": "<i>Trivia Murder Party</i> Doll Names",
+			"text": "<i>Trivia Murder Party 2</i> Doll Names",
 			"choices": [
 				{
 					"difficulty": 0,
@@ -37807,12 +37788,7 @@
 				{
 					"difficulty": 0,
 					"correct": true,
-					"text": "The Good"
-				},
-				{
-					"difficulty": 0,
-					"correct": true,
-					"text": "the Bad and the Ugly"
+					"text": "The Good, the Bad and the Ugly"
 				},
 				{
 					"difficulty": 0,
@@ -39930,7 +39906,7 @@
 				{
 					"difficulty": 0,
 					"correct": true,
-					"text": "POGGERS"
+					"text": "KEKW"
 				},
 				{
 					"difficulty": 0,
@@ -39956,6 +39932,11 @@
 					"difficulty": 0,
 					"correct": false,
 					"text": "AYAYA"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "POGGERS"
 				},
 				{
 					"difficulty": 0,
@@ -40003,7 +39984,7 @@
 				{
 					"difficulty": 0,
 					"correct": true,
-					"text": "POG"
+					"text": "Pog"
 				},
 				{
 					"difficulty": 0,
@@ -40096,32 +40077,17 @@
 				{
 					"difficulty": 0,
 					"correct": true,
-					"text": "OBOY"
-				},
-				{
-					"difficulty": 0,
-					"correct": true,
-					"text": "OiMinna"
-				},
-				{
-					"difficulty": 0,
-					"correct": true,
 					"text": "YooHoo"
 				},
 				{
 					"difficulty": 0,
 					"correct": true,
-					"text": "ZliL"
-				},
-				{
-					"difficulty": 0,
-					"correct": true,
-					"text": "ZrehplaR"
-				},
-				{
-					"difficulty": 0,
-					"correct": true,
 					"text": "ZreknarF"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "BeanieHipster"
 				},
 				{
 					"difficulty": 0,
@@ -40362,6 +40328,21 @@
 				{
 					"difficulty": 0,
 					"correct": true,
+					"text": "AYAYA"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "RebeccaBlack"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "knaDyppaHopeep"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
 					"text": "TeaTime"
 				},
 				{
@@ -40448,6 +40429,21 @@
 					"difficulty": 0,
 					"correct": false,
 					"text": "pogoPls"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "FeelsDonkMan"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "AlienPls"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "YEAHBUTBTTV"
 				},
 				{
 					"difficulty": 0,
@@ -41806,6 +41802,742 @@
 					"difficulty": 0,
 					"correct": false,
 					"text": "Tibet"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66134,
+			"text": "<i>Vampire Survivors</i> playable characters",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Antonio"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Imelda"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Pasqualina"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Gennaro"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Arca"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Porta"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Lama"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Poe"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Clerici"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Dommario"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Krochi"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Christine"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Poppea"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Mortaccio"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Cavallo"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Exdash"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Mask of the Red Death"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Il Molise"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Dairy"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Mime"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Death"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Whip"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Hellfire"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Soul Eater"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "La Borra"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Mannajja"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Peachone"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Vandalier"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Queen of Pain"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Soprano"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Meadow"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Cifaretto"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Moltisanti"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66135,
+			"text": "<i>Vampire Survivors</i> weapons",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Whip"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Magic Wand"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Knife"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Axe"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Cross"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "King Bible"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Garlic"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Pentagram"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Santa Water"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Song of Mana"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Peachone"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Ebony Wings"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "M16A4"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "AKM"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Sickle"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Spinach"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Crown"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Tears"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Fists"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Keys"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Teeth"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Screwdriver"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Pliers"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Wooden Cross"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Silver Nails"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66136,
+			"text": "Flags with black color",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Malawi"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Afghanistan"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Albania"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Syria"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Saint Kitts and Nevis"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "South Africa"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Poland"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Tajikistan"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Oman"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Philippines"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Togo"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Kosovo"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Solomon Islands"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66137,
+			"text": "<i>jklm.fun</i> game modes",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Bomb Party"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Pop Sauce"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Knockouts"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Pop Quiz"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Word Party"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Bombers"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Bomb Sauce"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Experiments"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Explosive words"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Eye test"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66138,
+			"text": "Book names: <i>Harry Potter and the...</i>",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Philosopher's Stone"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Chamber of Secrets"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Prisoner of Azkaban"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Goblet of Fire"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Order of the Phoenix"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Half-Blood Prince"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Deathly Hallows"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Order of Magic"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Final Enchantment"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Mass ban incident"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Fire of Hell"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Quantum Mechanics"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Meaning of Life"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Broken Promises"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Torturer of Ozkavosh"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "First Kiss"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Never-ending Cycle"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66139,
+			"text": "Bosses in <i>Elden Ring</i>",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Elden Beast"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Godrick the Grafted"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Rennala"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Starscourge Radahn"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Morgott"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Rykard"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Lichdragon Fortissax"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ancestor Demishade"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Forged Spirit"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Templar Twins"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Wormdigger Duo"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Noble Geomancer"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ancient Primal Element"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Gennaro"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Soldier of Fortune"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Furbolg Champion"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ascended Cleric"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Stillborn"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66140,
+			"text": "Starting classes in <i>Elden Ring</i>",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Hero"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Bandit"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Warrior"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Prophet"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Wretch"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Samurai"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Astrologer"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Confessor"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Prisoner"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Vagabond"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Rogue"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Shaman"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Priest"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ancestor"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Constable"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Heretic"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Orc"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Elden Beast"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Desolator"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Creep"
 				}
 			],
 			"us": false
