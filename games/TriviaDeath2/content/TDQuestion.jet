@@ -661,8 +661,8 @@
 			"choices": [
 				{
 					"controllerClass": "",
-					"correct": false,
-					"text": "19:12"
+					"correct": true,
+					"text": "18:10"
 				},
 				{
 					"controllerClass": "",
@@ -671,7 +671,7 @@
 				},
 				{
 					"controllerClass": "",
-					"correct": true,
+					"correct": false,
 					"text": "20:38"
 				},
 				{
